@@ -1,0 +1,243 @@
+return_id,order_id,customer_id,return_date,reason,refund_amount,return_status
+R0001,O00004,C0230,7/15/2023,Late delivery,583.45,Refunded
+R0002,O00009,C0487,3/13/2023,Not as described,634.98,Rejected
+R0003,O00023,C0270,3/10/2023,Wrong size,631.25,Refunded
+R0004,O00026,C0024,12/13/2022,Wrong size,745.31,Rejected
+R0005,O00029,C0285,7/26/2023,Defective product,74.38,Processing
+R0006,O00031,C0191,4/24/2023,Duplicate order,554.22,Refunded
+R0007,O00032,C0464,6/5/2023,Defective product,445.42,Refunded
+R0008,O00036,C0287,6/26/2023,Wrong size,417.44,Rejected
+R0009,O00037,C0483,1/4/2024,Wrong size,1236.56,Refunded
+R0010,O00039,C0183,11/27/2022,Not as described,591.16,Processing
+R0011,O00070,C0284,3/1/2022,Not as described,713.28,Rejected
+R0012,O00079,C0356,5/25/2023,Defective product,317.43,Rejected
+R0013,O00085,C0167,9/18/2022,Late delivery,141.67,Processing
+R0014,O00091,C0286,2/1/2022,Defective product,852.51,Refunded
+R0015,O00107,C0312,11/5/2023,Wrong size,901.68,Refunded
+R0016,O00109,C0448,8/13/2023,Duplicate order,208.22,Refunded
+R0017,O00120,C0117,11/14/2022,Wrong size,461.7,Rejected
+R0018,O00144,C0315,4/18/2023,Not as described,106.93,Refunded
+R0019,O00158,C0115,2/18/2022,Wrong size,430.26,Rejected
+R0020,O00190,C0173,4/4/2023,Duplicate order,420.44,Refunded
+R0021,O00193,C0054,7/14/2022,Not as described,588.45,Processing
+R0022,O00199,C0401,11/17/2023,Defective product,1453.61,Refunded
+R0023,O00224,C0011,11/12/2022,Wrong size,723.04,Refunded
+R0024,O00229,C0162,1/23/2022,Changed mind,580.81,Refunded
+R0025,O00235,C0007,9/8/2023,Wrong size,274.74,Rejected
+R0026,O00238,C0217,12/25/2022,Changed mind,710.04,Rejected
+R0027,O00240,C0239,10/30/2023,Wrong size,314.02,Refunded
+R0028,O00248,C0298,2/26/2023,Changed mind,249.14,Refunded
+R0029,O00252,C0280,8/2/2022,Wrong size,1425.38,Processing
+R0030,O00254,C0384,8/15/2022,Defective product,866.9,Refunded
+R0031,O00261,C0310,9/9/2023,Defective product,649.97,Processing
+R0032,O00268,C0226,2/1/2023,Changed mind,399.99,Rejected
+R0033,O00275,C0301,1/9/2024,Defective product,385.36,Refunded
+R0034,O00278,C0277,3/7/2022,Wrong size,303.3,Processing
+R0035,O00281,C0156,11/13/2022,Changed mind,1040.33,Rejected
+R0036,O00291,C0291,8/31/2022,Defective product,765.66,Processing
+R0037,O00300,C0340,7/16/2023,Wrong size,415.78,Refunded
+R0038,O00312,C0223,6/20/2022,Duplicate order,1050.83,Refunded
+R0039,O00316,C0429,9/20/2023,Wrong size,408.18,Refunded
+R0040,O00320,C0439,8/23/2022,Wrong size,821.56,Refunded
+R0041,O00332,C0002,11/5/2023,Wrong size,886.21,Processing
+R0042,O00340,C0438,9/20/2023,Late delivery,657.41,Refunded
+R0043,O00343,C0001,3/10/2022,Late delivery,546.19,Rejected
+R0044,O00346,C0301,11/16/2023,Wrong size,800.89,Rejected
+R0045,O00376,C0183,11/11/2022,Wrong size,720.1,Rejected
+R0046,O00386,C0080,5/20/2023,Duplicate order,378.62,Rejected
+R0047,O00396,C0437,3/17/2023,Wrong size,639,Rejected
+R0048,O00400,C0284,6/21/2022,Changed mind,1373.11,Processing
+R0049,O00407,C0268,10/15/2022,Not as described,748.95,Refunded
+R0050,O00424,C0039,6/2/2023,Changed mind,180.61,Rejected
+R0051,O00427,C0237,5/15/2022,Late delivery,252.72,Refunded
+R0052,O00434,C0009,8/13/2023,Duplicate order,866.47,Processing
+R0053,O00459,C0069,11/14/2023,Changed mind,978.58,Rejected
+R0054,O00485,C0348,1/27/2023,Defective product,290.42,Refunded
+R0055,O00486,C0262,4/19/2022,Changed mind,452.31,Refunded
+R0056,O00501,C0427,2/26/2022,Not as described,614.05,Rejected
+R0057,O00504,C0478,1/13/2024,Not as described,1022.16,Refunded
+R0058,O00507,C0353,10/8/2022,Late delivery,1079.9,Refunded
+R0059,O00515,C0170,3/10/2023,Defective product,483.17,Refunded
+R0060,O00524,C0209,2/3/2022,Wrong size,787.18,Rejected
+R0061,O00531,C0320,3/11/2023,Not as described,987.51,Rejected
+R0062,O00537,C0192,7/7/2022,Not as described,157.35,Refunded
+R0063,O00541,C0050,7/26/2023,Defective product,1478.49,Refunded
+R0064,O00546,C0483,9/28/2022,Duplicate order,1277.32,Refunded
+R0065,O00547,C0428,8/10/2022,Defective product,714.03,Rejected
+R0066,O00549,C0425,10/25/2022,Wrong size,192.35,Refunded
+R0067,O00553,C0375,3/10/2023,Wrong size,769.54,Rejected
+R0068,O00557,C0343,1/28/2023,Defective product,1111.74,Refunded
+R0069,O00558,C0343,9/8/2023,Late delivery,209.8,Refunded
+R0070,O00591,C0431,7/5/2023,Duplicate order,378.24,Processing
+R0071,O00593,C0379,7/22/2022,Defective product,912.93,Rejected
+R0072,O00617,C0229,4/4/2023,Duplicate order,1227.95,Rejected
+R0073,O00618,C0184,11/24/2022,Wrong size,1047.49,Processing
+R0074,O00622,C0084,2/24/2022,Late delivery,901.03,Processing
+R0075,O00629,C0383,2/13/2023,Not as described,291.91,Refunded
+R0076,O00636,C0483,10/17/2023,Duplicate order,754.49,Refunded
+R0077,O00637,C0129,1/18/2024,Late delivery,445.92,Refunded
+R0078,O00638,C0331,3/17/2023,Late delivery,1087.05,Refunded
+R0079,O00643,C0052,1/19/2024,Late delivery,1855.49,Refunded
+R0080,O00650,C0317,1/9/2024,Changed mind,433.71,Rejected
+R0081,O00678,C0246,5/7/2022,Late delivery,286.65,Refunded
+R0082,O00690,C0211,12/5/2022,Defective product,1236.09,Refunded
+R0083,O00693,C0241,1/9/2024,Duplicate order,647.69,Refunded
+R0084,O00711,C0156,7/30/2023,Wrong size,714.58,Refunded
+R0085,O00719,C0454,8/3/2022,Wrong size,477.97,Refunded
+R0086,O00725,C0080,7/20/2023,Late delivery,202.47,Refunded
+R0087,O00743,C0409,9/8/2023,Duplicate order,411.72,Refunded
+R0088,O00765,C0447,11/6/2023,Duplicate order,330.06,Refunded
+R0089,O00779,C0308,2/5/2023,Duplicate order,1177.05,Processing
+R0090,O00788,C0092,6/22/2022,Wrong size,619.23,Rejected
+R0091,O00795,C0067,3/7/2023,Duplicate order,75.67,Rejected
+R0092,O00819,C0002,4/27/2022,Changed mind,1694,Processing
+R0093,O00824,C0372,12/31/2022,Defective product,385.46,Refunded
+R0094,O00844,C0212,4/27/2022,Wrong size,1234.26,Refunded
+R0095,O00852,C0175,1/5/2022,Wrong size,985.71,Refunded
+R0096,O00861,C0236,3/27/2022,Duplicate order,922.02,Refunded
+R0097,O00863,C0213,5/11/2022,Duplicate order,1120.8,Processing
+R0098,O00883,C0272,6/26/2023,Not as described,594.06,Refunded
+R0099,O00885,C0150,9/29/2022,Late delivery,852.51,Rejected
+R0100,O00887,C0025,10/2/2023,Wrong size,494.99,Refunded
+R0101,O00896,C0109,5/7/2022,Wrong size,276.69,Refunded
+R0102,O00898,C0003,6/29/2023,Defective product,722.64,Processing
+R0103,O00903,C0500,8/7/2022,Wrong size,247.82,Rejected
+R0104,O00908,C0473,5/28/2022,Not as described,421.9,Refunded
+R0105,O00924,C0032,3/12/2023,Not as described,901.22,Processing
+R0106,O00935,C0202,4/30/2023,Late delivery,1097.87,Rejected
+R0107,O00941,C0427,12/28/2023,Changed mind,973.76,Refunded
+R0108,O00948,C0167,11/28/2022,Wrong size,98.81,Refunded
+R0109,O00952,C0279,4/26/2022,Wrong size,1148.58,Rejected
+R0110,O00959,C0284,7/27/2023,Duplicate order,650.51,Refunded
+R0111,O00963,C0270,6/13/2023,Late delivery,270.63,Rejected
+R0112,O00973,C0381,7/25/2023,Defective product,582.72,Refunded
+R0113,O00989,C0130,6/11/2023,Not as described,143.9,Refunded
+R0114,O00997,C0249,5/30/2023,Late delivery,959.47,Refunded
+R0115,O01014,C0339,10/6/2023,Wrong size,602.27,Refunded
+R0116,O01020,C0485,10/8/2022,Not as described,1534.26,Processing
+R0117,O01023,C0427,9/30/2023,Wrong size,979.44,Rejected
+R0118,O01043,C0352,11/20/2023,Wrong size,1565.16,Rejected
+R0119,O01046,C0090,10/21/2022,Wrong size,175.93,Processing
+R0120,O01050,C0281,4/19/2022,Changed mind,1329.56,Refunded
+R0121,O01067,C0353,10/12/2022,Duplicate order,991.98,Rejected
+R0122,O01078,C0015,11/30/2023,Defective product,619.98,Refunded
+R0123,O01094,C0294,1/19/2024,Wrong size,404.62,Refunded
+R0124,O01102,C0396,5/5/2022,Duplicate order,1399.13,Refunded
+R0125,O01111,C0204,9/16/2023,Changed mind,707.34,Refunded
+R0126,O01118,C0477,3/18/2023,Wrong size,562.59,Processing
+R0127,O01119,C0103,8/4/2023,Duplicate order,631.66,Refunded
+R0128,O01120,C0134,8/19/2022,Duplicate order,362.76,Rejected
+R0129,O01136,C0331,8/7/2022,Not as described,642.39,Refunded
+R0130,O01139,C0492,5/12/2022,Not as described,337.66,Refunded
+R0131,O01146,C0455,11/24/2023,Changed mind,128.69,Processing
+R0132,O01147,C0402,11/12/2022,Duplicate order,1347.88,Processing
+R0133,O01152,C0019,9/2/2023,Duplicate order,1153.47,Refunded
+R0134,O01160,C0083,4/27/2023,Defective product,1747.88,Refunded
+R0135,O01170,C0282,2/6/2023,Not as described,217.4,Processing
+R0136,O01176,C0170,2/26/2023,Defective product,277.39,Processing
+R0137,O01179,C0418,6/11/2023,Wrong size,476.78,Rejected
+R0138,O01202,C0075,7/30/2022,Late delivery,53.02,Rejected
+R0139,O01211,C0098,6/27/2022,Wrong size,750.09,Refunded
+R0140,O01235,C0477,3/16/2022,Defective product,2024.1,Refunded
+R0141,O01238,C0158,10/13/2022,Wrong size,1074.69,Rejected
+R0142,O01239,C0360,8/19/2023,Wrong size,853.18,Refunded
+R0143,O01243,C0218,12/17/2023,Changed mind,475.88,Rejected
+R0144,O01255,C0429,12/4/2023,Wrong size,1115.38,Processing
+R0145,O01267,C0118,9/12/2023,Late delivery,723.98,Processing
+R0146,O01271,C0493,7/1/2023,Late delivery,230.26,Refunded
+R0147,O01277,C0200,10/16/2022,Late delivery,803.26,Rejected
+R0148,O01281,C0070,4/7/2022,Wrong size,746.91,Rejected
+R0149,O01299,C0472,9/23/2023,Not as described,1158.62,Refunded
+R0150,O01311,C0319,4/9/2022,Defective product,1026.6,Refunded
+R0151,O01315,C0082,9/10/2023,Wrong size,101.39,Refunded
+R0152,O01331,C0334,10/16/2022,Late delivery,1040.62,Processing
+R0153,O01334,C0246,1/25/2022,Wrong size,489.84,Rejected
+R0154,O01335,C0360,12/21/2023,Wrong size,578.78,Rejected
+R0155,O01338,C0358,11/2/2022,Late delivery,703.19,Rejected
+R0156,O01351,C0398,1/25/2022,Late delivery,1276.29,Refunded
+R0157,O01355,C0138,7/29/2023,Wrong size,857.72,Refunded
+R0158,O01368,C0408,12/14/2023,Changed mind,268.29,Processing
+R0159,O01369,C0356,8/7/2022,Changed mind,583.63,Refunded
+R0160,O01377,C0071,10/12/2022,Changed mind,263.13,Processing
+R0161,O01381,C0295,8/6/2022,Late delivery,514.94,Rejected
+R0162,O01389,C0039,3/10/2022,Duplicate order,324.84,Refunded
+R0163,O01397,C0452,7/18/2022,Not as described,827.98,Refunded
+R0164,O01406,C0304,6/28/2023,Duplicate order,654.68,Processing
+R0165,O01426,C0084,11/23/2023,Duplicate order,526.1,Processing
+R0166,O01433,C0299,3/21/2023,Defective product,827.34,Refunded
+R0167,O01434,C0406,8/6/2023,Late delivery,656.19,Refunded
+R0168,O01444,C0364,6/28/2022,Late delivery,688.23,Rejected
+R0169,O01456,C0308,8/11/2022,Late delivery,622.23,Refunded
+R0170,O01459,C0114,3/27/2022,Wrong size,79.32,Rejected
+R0171,O01463,C0200,4/10/2022,Wrong size,684.37,Rejected
+R0172,O01464,C0193,1/20/2022,Wrong size,738.75,Refunded
+R0173,O01465,C0465,4/30/2023,Changed mind,334.2,Rejected
+R0174,O01470,C0292,5/1/2023,Defective product,979.83,Rejected
+R0175,O01473,C0179,10/30/2023,Not as described,507.06,Rejected
+R0176,O01483,C0362,9/17/2023,Wrong size,873.31,Refunded
+R0177,O01486,C0217,10/8/2023,Changed mind,174.9,Processing
+R0178,O01515,C0313,2/13/2022,Duplicate order,1894.65,Refunded
+R0179,O01530,C0462,4/20/2023,Wrong size,103.13,Refunded
+R0180,O01531,C0212,7/14/2023,Wrong size,438.38,Refunded
+R0181,O01538,C0415,11/11/2022,Not as described,277.39,Refunded
+R0182,O01546,C0331,10/25/2022,Late delivery,287.9,Refunded
+R0183,O01547,C0362,9/18/2023,Wrong size,1212.58,Processing
+R0184,O01549,C0363,8/3/2022,Changed mind,189.34,Refunded
+R0185,O01573,C0385,4/29/2023,Not as described,1339.05,Refunded
+R0186,O01593,C0134,7/8/2022,Duplicate order,197.63,Refunded
+R0187,O01603,C0481,12/9/2023,Wrong size,745.66,Refunded
+R0188,O01626,C0232,3/22/2022,Late delivery,703.57,Refunded
+R0189,O01630,C0428,1/11/2022,Wrong size,1868.49,Rejected
+R0190,O01632,C0125,8/15/2022,Late delivery,835.43,Rejected
+R0191,O01634,C0002,4/20/2023,Duplicate order,330.22,Processing
+R0192,O01654,C0442,7/7/2023,Defective product,1046.67,Refunded
+R0193,O01655,C0396,7/19/2023,Wrong size,256.48,Rejected
+R0194,O01665,C0377,1/7/2024,Wrong size,701.76,Refunded
+R0195,O01670,C0387,2/20/2023,Not as described,1431.63,Refunded
+R0196,O01671,C0003,8/1/2023,Defective product,1308.96,Refunded
+R0197,O01673,C0335,6/21/2023,Not as described,716.94,Processing
+R0198,O01677,C0346,2/22/2023,Late delivery,341.17,Refunded
+R0199,O01680,C0069,3/3/2023,Late delivery,1084.18,Refunded
+R0200,O01688,C0093,10/20/2023,Changed mind,380.28,Rejected
+R0201,O01689,C0214,4/7/2023,Wrong size,457.38,Rejected
+R0202,O01691,C0235,1/17/2022,Wrong size,709.86,Refunded
+R0203,O01696,C0264,12/31/2023,Late delivery,131.92,Processing
+R0204,O01712,C0242,1/19/2022,Defective product,1424.55,Refunded
+R0205,O01720,C0187,6/16/2023,Late delivery,705.03,Refunded
+R0206,O01721,C0021,9/14/2023,Defective product,508.05,Refunded
+R0207,O01722,C0177,1/6/2023,Changed mind,427.47,Refunded
+R0208,O01731,C0133,8/9/2022,Defective product,282.86,Processing
+R0209,O01737,C0374,4/18/2022,Wrong size,766.78,Refunded
+R0210,O01750,C0206,2/11/2023,Wrong size,1191.93,Refunded
+R0211,O01778,C0415,3/29/2022,Wrong size,1182.46,Refunded
+R0212,O01785,C0086,8/16/2023,Not as described,936.06,Refunded
+R0213,O01788,C0488,9/18/2022,Wrong size,1533.75,Refunded
+R0214,O01796,C0289,12/11/2023,Defective product,1131.28,Refunded
+R0215,O01802,C0193,5/9/2023,Late delivery,158.61,Refunded
+R0216,O01805,C0245,2/21/2022,Late delivery,817.15,Refunded
+R0217,O01807,C0140,12/26/2023,Defective product,477.4,Refunded
+R0218,O01811,C0183,7/2/2023,Late delivery,810.78,Processing
+R0219,O01821,C0155,5/21/2022,Not as described,173.47,Processing
+R0220,O01822,C0477,12/18/2023,Wrong size,533.91,Refunded
+R0221,O01828,C0034,10/8/2022,Duplicate order,1007.63,Refunded
+R0222,O01830,C0206,5/1/2022,Changed mind,328.25,Refunded
+R0223,O01845,C0012,5/1/2022,Changed mind,238.32,Refunded
+R0224,O01869,C0220,11/9/2022,Not as described,437.82,Rejected
+R0225,O01872,C0443,5/6/2022,Wrong size,935.87,Rejected
+R0226,O01879,C0293,1/13/2023,Duplicate order,223.99,Rejected
+R0227,O01886,C0117,4/10/2023,Not as described,1532.92,Rejected
+R0228,O01888,C0486,12/13/2023,Late delivery,1199.37,Processing
+R0229,O01894,C0268,9/10/2022,Wrong size,372.38,Refunded
+R0230,O01895,C0107,3/5/2023,Wrong size,125.32,Processing
+R0231,O01907,C0471,10/1/2022,Defective product,1299.26,Processing
+R0232,O01912,C0122,2/20/2022,Wrong size,264.96,Rejected
+R0233,O01917,C0173,10/8/2022,Not as described,261.38,Rejected
+R0234,O01924,C0314,12/30/2022,Changed mind,398.82,Rejected
+R0235,O01925,C0070,6/5/2023,Wrong size,1193.08,Processing
+R0236,O01930,C0248,6/25/2022,Duplicate order,1366.78,Processing
+R0237,O01939,C0282,1/17/2023,Wrong size,434.7,Refunded
+R0238,O01956,C0487,1/21/2023,Late delivery,684.7,Refunded
+R0239,O01958,C0424,6/26/2023,Not as described,283.46,Processing
+R0240,O01960,C0012,10/18/2023,Changed mind,530.32,Rejected
+R0241,O01963,C0045,6/13/2022,Late delivery,831.27,Refunded
+R0242,O01965,C0458,2/25/2023,Wrong size,899.12,Refunded

@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,gender,age,age_group,city,state,region,registration_date,loyalty_tier,total_orders,total_spent
+C0001,Layla,Harris,Harris.Layla@gmail.com,Male,40,36-45,Philadelphia,PA,Northeast,11/30/2021,Silver,2,1531.54
+C0002,Nour,Thomas,Thomas.Nour@gmail.com,Female,17,18-25,Phoenix,AZ,Southwest,4/27/2021,Gold,6,4977.73
+C0003,Karen,Garcia,Garcia.Karen@gmail.com,Male,27,26-35,Houston,TX,South,1/15/2023,Silver,3,2287.34
+C0004,Nour,Moore,Moore.Nour@gmail.com,Male,34,26-35,Houston,TX,South,4/19/2023,Silver,1,126.81
+C0005,Ahmed,Moore,Moore.Ahmed@gmail.com,Male,47,46+,San Diego,CA,West,9/16/2021,Platinum,2,1968.55
+C0006,Jessica,Thomas,Thomas.Jessica@gmail.com,Male,21,18-25,Chicago,IL,Midwest,4/5/2022,Gold,4,2440.97
+C0007,Richard,Thompson,Thompson.Richard@gmail.com,Female,27,26-35,San Diego,CA,West,7/11/2022,Bronze,1,489.87
+C0008,Khalid,Thompson,Thompson.Khalid@gmail.com,Male,22,18-25,Philadelphia,PA,Northeast,4/22/2021,Bronze,4,1473.11
+C0009,Ahmed,King,King.Ahmed@gmail.com,Male,46,46+,Philadelphia,PA,Northeast,7/31/2022,Platinum,5,2495.56
+C0010,David,Jackson,Jackson.David@gmail.com,Male,20,18-25,San Antonio,TX,South,1/11/2021,Bronze,2,1437.33
+C0011,Thomas,Martin,Martin.Thomas@gmail.com,Male,44,36-45,Phoenix,AZ,Southwest,4/2/2022,Silver,5,4376.77
+C0012,Hassan,Young,Young.Hassan@gmail.com,Male,33,26-35,San Antonio,TX,South,12/20/2021,Bronze,2,1337.82
+C0013,Barbara,Jackson,Jackson.Barbara@gmail.com,Male,49,46+,San Diego,CA,West,4/29/2021,Platinum,1,351.08
+C0014,Barbara,Taylor,Taylor.Barbara@gmail.com,Female,38,36-45,Chicago,IL,Midwest,3/15/2023,Bronze,3,1717.63
+C0015,Susan,Harris,Harris.Susan@gmail.com,Male,32,26-35,Dallas,TX,South,3/25/2022,Platinum,3,2390.68
+C0016,John,Moore,Moore.John@gmail.com,Male,39,36-45,San Diego,CA,West,4/10/2023,Platinum,3,3168.36
+C0017,Amira,Taylor,Taylor.Amira@gmail.com,Male,53,46+,Los Angeles,CA,West,11/25/2022,Bronze,6,4828.07
+C0018,Jennifer,Thompson,Thompson.Jennifer@gmail.com,Male,30,26-35,Houston,TX,South,12/5/2021,Gold,0,0
+C0019,Linda,Thomas,Thomas.Linda@gmail.com,Male,33,26-35,San Antonio,TX,South,7/10/2021,Platinum,3,1346.54
+C0020,James,King,King.James@gmail.com,Male,36,36-45,San Antonio,TX,South,4/6/2022,Gold,5,4295.2
+C0021,James,Miller,Miller.James@gmail.com,Male,36,36-45,San Antonio,TX,South,10/13/2021,Platinum,2,1348.12
+C0022,Patricia,Thompson,Thompson.Patricia@gmail.com,Male,28,26-35,Los Angeles,CA,West,1/10/2022,Silver,4,2075.72
+C0023,Patricia,Wilson,Wilson.Patricia@gmail.com,Female,33,26-35,Houston,TX,South,6/25/2022,Platinum,1,733.18
+C0024,Richard,King,King.Richard@gmail.com,Female,27,26-35,Philadelphia,PA,Northeast,8/25/2022,Bronze,3,2461.78
+C0025,Amira,White,White.Amira@gmail.com,Male,38,36-45,Philadelphia,PA,Northeast,4/14/2023,Platinum,2,1051.29
+C0026,Charles,Williams,Williams.Charles@gmail.com,Male,26,26-35,Phoenix,AZ,Southwest,11/17/2021,Bronze,3,1877.9
+C0027,Patricia,Garcia,Garcia.Patricia@gmail.com,Female,40,36-45,Houston,TX,South,12/12/2022,Bronze,2,2878.21
+C0028,Jessica,King,King.Jessica@gmail.com,Male,36,36-45,Dallas,TX,South,8/12/2022,Silver,0,0
+C0029,Sarah,Thompson,Thompson.Sarah@gmail.com,Male,45,36-45,San Antonio,TX,South,7/23/2022,Bronze,8,4312.98
+C0030,Robert,Garcia,Garcia.Robert@gmail.com,Female,41,36-45,San Diego,CA,West,5/13/2023,Silver,1,497.59
+C0031,Amira,Anderson,Anderson.Amira@gmail.com,Male,51,46+,Austin,TX,South,5/12/2022,Bronze,4,3466.08
+C0032,Richard,Thompson,Thompson.Richard@gmail.com,Female,17,18-25,Houston,TX,South,2/23/2022,Platinum,3,2948.27
+C0033,Omar,White,White.Omar@gmail.com,Female,35,26-35,San Diego,CA,West,6/21/2021,Bronze,1,461.52
+C0034,Nour,Davis,Davis.Nour@gmail.com,Female,52,46+,Austin,TX,South,2/3/2021,Silver,5,3509.52
+C0035,Barbara,Garcia,Garcia.Barbara@gmail.com,Female,29,26-35,Houston,TX,South,8/3/2022,Platinum,4,2151
+C0036,Thomas,Brown,Brown.Thomas@gmail.com,Male,29,26-35,San Diego,CA,West,10/2/2021,Gold,4,2438.12
+C0037,Yusuf,Johnson,Johnson.Yusuf@gmail.com,Female,29,26-35,Philadelphia,PA,Northeast,7/14/2022,Bronze,4,2757.43
+C0038,Layla,Davis,Davis.Layla@gmail.com,Female,49,46+,San Antonio,TX,South,6/15/2023,Bronze,2,1221.72
+C0039,Susan,Williams,Williams.Susan@gmail.com,Female,42,36-45,San Diego,CA,West,6/6/2023,Bronze,4,2242.02
+C0040,Nour,Young,Young.Nour@gmail.com,Female,44,36-45,Houston,TX,South,6/1/2023,Platinum,2,1891
+C0041,Jessica,Garcia,Garcia.Jessica@gmail.com,Male,25,18-25,Austin,TX,South,3/15/2023,Bronze,5,4010.92
+C0042,Mary,Young,Young.Mary@gmail.com,Female,17,18-25,Houston,TX,South,6/30/2022,Silver,3,3651.41
+C0043,Jennifer,Taylor,Taylor.Jennifer@gmail.com,Female,29,26-35,Austin,TX,South,10/24/2021,Gold,2,1490.13
+C0044,Thomas,Brown,Brown.Thomas@gmail.com,Male,15,18-25,Phoenix,AZ,Southwest,2/8/2023,Silver,2,1379.17
+C0045,Amira,Jones,Jones.Amira@gmail.com,Male,41,36-45,New York,NY,Northeast,9/13/2021,Bronze,2,2121.49
+C0046,Linda,Thomas,Thomas.Linda@gmail.com,Female,16,18-25,Philadelphia,PA,Northeast,5/26/2021,Gold,4,3301.25
+C0047,Jessica,Thomas,Thomas.Jessica@gmail.com,Female,25,18-25,Phoenix,AZ,Southwest,3/19/2021,Platinum,4,3142.41
+C0048,Thomas,Wilson,Wilson.Thomas@gmail.com,Female,35,26-35,Los Angeles,CA,West,4/11/2022,Silver,3,2075.78
+C0049,James,Williams,Williams.James@gmail.com,Female,27,26-35,Philadelphia,PA,Northeast,10/13/2022,Platinum,5,3353.02
+C0050,John,Thompson,Thompson.John@gmail.com,Female,15,18-25,Philadelphia,PA,Northeast,8/12/2021,Silver,2,1239
+C0051,William,Taylor,Taylor.William@gmail.com,Female,31,26-35,Houston,TX,South,12/12/2021,Gold,1,468.43
+C0052,Charles,Harris,Harris.Charles@gmail.com,Female,48,46+,Austin,TX,South,11/30/2022,Bronze,3,1372.71
+C0053,Ahmed,White,White.Ahmed@gmail.com,Male,49,46+,New York,NY,Northeast,5/8/2021,Bronze,2,1162.23
+C0054,James,Jackson,Jackson.James@gmail.com,Male,33,26-35,San Diego,CA,West,12/7/2022,Bronze,4,2353.61
+C0055,Amira,Wilson,Wilson.Amira@gmail.com,Male,46,46+,Phoenix,AZ,Southwest,11/2/2022,Silver,7,4106.92
+C0056,Susan,Garcia,Garcia.Susan@gmail.com,Male,50,46+,Phoenix,AZ,Southwest,2/10/2022,Platinum,3,2192.57
+C0057,Omar,Davis,Davis.Omar@gmail.com,Female,21,18-25,Phoenix,AZ,Southwest,11/3/2022,Bronze,2,1357.51
+C0058,Michael,Harris,Harris.Michael@gmail.com,Male,53,46+,Los Angeles,CA,West,5/16/2021,Gold,5,3077.69
+C0059,Fatima,White,White.Fatima@gmail.com,Male,30,26-35,Houston,TX,South,1/9/2021,Platinum,3,2812.58
+C0060,Patricia,Jackson,Jackson.Patricia@gmail.com,Male,17,18-25,Philadelphia,PA,Northeast,5/5/2022,Bronze,2,1340.96
+C0061,John,Brown,Brown.John@gmail.com,Male,36,36-45,Houston,TX,South,11/17/2021,Silver,3,2451.82
+C0062,Richard,Jones,Jones.Richard@gmail.com,Male,47,46+,Phoenix,AZ,Southwest,3/12/2021,Gold,2,951.7
+C0063,Lisa,Garcia,Garcia.Lisa@gmail.com,Female,53,46+,Austin,TX,South,12/26/2021,Platinum,0,0
+C0064,Layla,Jones,Jones.Layla@gmail.com,Female,25,18-25,Houston,TX,South,9/23/2022,Platinum,2,903.18
+C0065,Michael,Williams,Williams.Michael@gmail.com,Male,15,18-25,San Diego,CA,West,5/24/2021,Bronze,2,1293.78
+C0066,Richard,Anderson,Anderson.Richard@gmail.com,Female,21,18-25,Austin,TX,South,11/19/2021,Bronze,3,2240.68
+C0067,Ahmed,Williams,Williams.Ahmed@gmail.com,Male,41,36-45,Houston,TX,South,7/21/2022,Gold,4,1966.63
+C0068,Lisa,Moore,Moore.Lisa@gmail.com,Male,21,18-25,Austin,TX,South,5/19/2023,Platinum,1,1481.26
+C0069,Thomas,King,King.Thomas@gmail.com,Male,44,36-45,Phoenix,AZ,Southwest,2/5/2023,Silver,2,1482.5
+C0070,Mary,Davis,Davis.Mary@gmail.com,Female,25,18-25,Phoenix,AZ,Southwest,1/31/2022,Bronze,3,1537.07
+C0071,Ahmed,King,King.Ahmed@gmail.com,Male,31,26-35,Houston,TX,South,6/25/2022,Bronze,1,741.7
+C0072,Robert,Thomas,Thomas.Robert@gmail.com,Female,39,36-45,Philadelphia,PA,Northeast,1/10/2022,Gold,3,2136.56
+C0073,Sarah,Williams,Williams.Sarah@gmail.com,Male,19,18-25,Chicago,IL,Midwest,8/25/2022,Bronze,1,687.18
+C0074,Michael,Johnson,Johnson.Michael@gmail.com,Male,42,36-45,New York,NY,Northeast,3/20/2023,Silver,2,1943.98
+C0075,Ahmed,Martin,Martin.Ahmed@gmail.com,Female,41,36-45,Dallas,TX,South,3/10/2022,Platinum,2,1278.51
+C0076,Ahmed,Thompson,Thompson.Ahmed@gmail.com,Male,50,46+,San Antonio,TX,South,10/12/2021,Bronze,7,6352.62
+C0077,Thomas,Miller,Miller.Thomas@gmail.com,Male,50,46+,Phoenix,AZ,Southwest,7/4/2022,Silver,6,3141.48
+C0078,Ahmed,Williams,Williams.Ahmed@gmail.com,Female,27,26-35,San Antonio,TX,South,12/17/2022,Silver,1,999.5
+C0079,Linda,Williams,Williams.Linda@gmail.com,Female,51,46+,Houston,TX,South,4/29/2021,Silver,4,3706.52
+C0080,Mary,Moore,Moore.Mary@gmail.com,Male,26,26-35,Austin,TX,South,5/3/2021,Bronze,3,1485.99
+C0081,James,Garcia,Garcia.James@gmail.com,Female,22,18-25,Chicago,IL,Midwest,12/22/2021,Gold,3,2483.46
+C0082,Yusuf,Wilson,Wilson.Yusuf@gmail.com,Male,18,18-25,Dallas,TX,South,1/16/2022,Bronze,5,3094.72
+C0083,Khalid,Brown,Brown.Khalid@gmail.com,Male,21,18-25,Phoenix,AZ,Southwest,12/10/2021,Silver,3,2112.95
+C0084,John,Wilson,Wilson.John@gmail.com,Male,30,26-35,Phoenix,AZ,Southwest,5/24/2022,Silver,1,729.82
+C0085,Mary,Harris,Harris.Mary@gmail.com,Male,37,36-45,Dallas,TX,South,1/12/2022,Bronze,2,758.4
+C0086,Patricia,Young,Young.Patricia@gmail.com,Male,19,18-25,Phoenix,AZ,Southwest,8/22/2021,Platinum,3,3443.6
+C0087,Mary,Smith,Smith.Mary@gmail.com,Male,53,46+,Dallas,TX,South,2/17/2021,Silver,3,1914.43
+C0088,Rania,Jones,Jones.Rania@gmail.com,Male,36,36-45,Philadelphia,PA,Northeast,5/29/2023,Bronze,1,103.61
+C0089,Rania,Jackson,Jackson.Rania@gmail.com,Male,17,18-25,Dallas,TX,South,11/26/2021,Bronze,3,2273.81
+C0090,David,Wilson,Wilson.David@gmail.com,Male,21,18-25,San Antonio,TX,South,8/9/2022,Silver,2,1012.03
+C0091,Fatima,Johnson,Johnson.Fatima@gmail.com,Male,31,26-35,Los Angeles,CA,West,8/17/2021,Gold,6,2652.56
+C0092,John,White,White.John@gmail.com,Female,36,36-45,New York,NY,Northeast,3/4/2023,Silver,2,1840.29
+C0093,Karen,White,White.Karen@gmail.com,Male,50,46+,Philadelphia,PA,Northeast,1/13/2022,Bronze,3,2107.6
+C0094,Nour,Moore,Moore.Nour@gmail.com,Male,28,26-35,Phoenix,AZ,Southwest,4/21/2022,Silver,1,1694.73
+C0095,Hassan,Miller,Miller.Hassan@gmail.com,Male,31,26-35,Austin,TX,South,6/4/2021,Bronze,1,802.32
+C0096,Linda,Thompson,Thompson.Linda@gmail.com,Female,52,46+,San Antonio,TX,South,10/14/2022,Platinum,2,499.54
+C0097,James,Thomas,Thomas.James@gmail.com,Female,39,36-45,New York,NY,Northeast,4/17/2021,Bronze,2,829.99
+C0098,Jessica,Harris,Harris.Jessica@gmail.com,Male,43,36-45,Dallas,TX,South,5/26/2021,Platinum,1,484.41
+C0099,Mary,Davis,Davis.Mary@gmail.com,Female,49,46+,Phoenix,AZ,Southwest,12/19/2022,Silver,2,1427.27
+C0100,John,Young,Young.John@gmail.com,Male,20,18-25,San Diego,CA,West,6/2/2022,Bronze,6,4270.8
+C0101,Charles,Young,Young.Charles@gmail.com,Male,50,46+,San Antonio,TX,South,3/22/2022,Platinum,0,0
+C0102,Barbara,Wilson,Wilson.Barbara@gmail.com,Female,43,36-45,Chicago,IL,Midwest,4/1/2023,Silver,3,2929.54
+C0103,Joseph,Wilson,Wilson.Joseph@gmail.com,Male,39,36-45,Philadelphia,PA,Northeast,3/18/2021,Bronze,0,0
+C0104,Hassan,Young,Young.Hassan@gmail.com,Male,19,18-25,Chicago,IL,Midwest,6/9/2021,Bronze,1,1423.55
+C0105,Joseph,Taylor,Taylor.Joseph@gmail.com,Female,33,26-35,Chicago,IL,Midwest,5/4/2021,Gold,4,3796.89
+C0106,Michael,White,White.Michael@gmail.com,Female,19,18-25,Philadelphia,PA,Northeast,4/20/2022,Silver,3,2645.63
+C0107,Jennifer,Moore,Moore.Jennifer@gmail.com,Male,49,46+,Los Angeles,CA,West,8/9/2021,Silver,0,0
+C0108,Omar,Davis,Davis.Omar@gmail.com,Female,49,46+,Chicago,IL,Midwest,2/10/2022,Gold,1,259.34
+C0109,Barbara,Wilson,Wilson.Barbara@gmail.com,Male,23,18-25,New York,NY,Northeast,2/1/2021,Silver,1,131.04
+C0110,Layla,Thompson,Thompson.Layla@gmail.com,Male,29,26-35,San Diego,CA,West,4/7/2021,Silver,2,1623.2
+C0111,Nour,Jones,Jones.Nour@gmail.com,Male,17,18-25,Los Angeles,CA,West,1/13/2021,Bronze,2,2570.6
+C0112,Michael,Thomas,Thomas.Michael@gmail.com,Female,48,46+,Houston,TX,South,12/4/2022,Platinum,4,2337.99
+C0113,Charles,Wilson,Wilson.Charles@gmail.com,Male,27,26-35,Los Angeles,CA,West,1/23/2021,Bronze,1,1406.54
+C0114,Joseph,Jones,Jones.Joseph@gmail.com,Male,25,18-25,Houston,TX,South,5/18/2023,Silver,1,1001.17
+C0115,Joseph,Johnson,Johnson.Joseph@gmail.com,Male,52,46+,Los Angeles,CA,West,8/11/2022,Silver,6,4414.47
+C0116,James,Thomas,Thomas.James@gmail.com,Female,31,26-35,San Antonio,TX,South,6/26/2021,Silver,3,2567.98
+C0117,William,Wilson,Wilson.William@gmail.com,Female,45,36-45,Houston,TX,South,6/2/2021,Bronze,6,4587.3
+C0118,Lisa,Davis,Davis.Lisa@gmail.com,Female,26,26-35,Austin,TX,South,5/26/2022,Silver,0,0
+C0119,Mary,Williams,Williams.Mary@gmail.com,Female,32,26-35,Dallas,TX,South,1/28/2022,Bronze,5,5064.19
+C0120,Ahmed,Martin,Martin.Ahmed@gmail.com,Male,45,36-45,San Antonio,TX,South,10/8/2022,Gold,2,914.35
+C0121,Nour,Anderson,Anderson.Nour@gmail.com,Female,36,36-45,New York,NY,Northeast,7/12/2022,Silver,3,2351.48
+C0122,Thomas,Taylor,Taylor.Thomas@gmail.com,Female,28,26-35,Philadelphia,PA,Northeast,10/4/2021,Bronze,2,1540.72
+C0123,Lisa,Davis,Davis.Lisa@gmail.com,Male,39,36-45,New York,NY,Northeast,4/11/2023,Silver,3,908.49
+C0124,Sarah,Martin,Martin.Sarah@gmail.com,Female,17,18-25,New York,NY,Northeast,2/25/2023,Gold,2,2017.85
+C0125,Patricia,Davis,Davis.Patricia@gmail.com,Male,46,46+,Houston,TX,South,9/30/2021,Gold,4,3717.51
+C0126,Linda,Young,Young.Linda@gmail.com,Female,19,18-25,New York,NY,Northeast,12/30/2021,Bronze,2,969.18
+C0127,Charles,Taylor,Taylor.Charles@gmail.com,Female,43,36-45,Chicago,IL,Midwest,8/29/2022,Bronze,4,2926.05
+C0128,Charles,Jones,Jones.Charles@gmail.com,Male,28,26-35,Philadelphia,PA,Northeast,5/7/2023,Silver,6,4649.35
+C0129,Jennifer,Harris,Harris.Jennifer@gmail.com,Male,40,36-45,Dallas,TX,South,4/3/2021,Bronze,1,407.52
+C0130,Linda,Smith,Smith.Linda@gmail.com,Female,27,26-35,Houston,TX,South,1/1/2021,Silver,3,1512.15
+C0131,Nour,Jones,Jones.Nour@gmail.com,Female,44,36-45,Austin,TX,South,1/5/2023,Bronze,1,1324.13
+C0132,James,Jones,Jones.James@gmail.com,Male,51,46+,Philadelphia,PA,Northeast,3/4/2023,Bronze,2,1272.62
+C0133,Susan,Williams,Williams.Susan@gmail.com,Female,15,18-25,Dallas,TX,South,12/23/2022,Platinum,1,149.1
+C0134,Patricia,Taylor,Taylor.Patricia@gmail.com,Female,27,26-35,San Antonio,TX,South,11/27/2021,Bronze,2,1470.95
+C0135,Jessica,Harris,Harris.Jessica@gmail.com,Female,21,18-25,Chicago,IL,Midwest,6/28/2021,Platinum,4,2560.48
+C0136,Khalid,King,King.Khalid@gmail.com,Female,22,18-25,Dallas,TX,South,8/17/2021,Platinum,3,2793.72
+C0137,Jennifer,Thomas,Thomas.Jennifer@gmail.com,Female,17,18-25,Austin,TX,South,1/22/2023,Platinum,4,4018.68
+C0138,Jennifer,Smith,Smith.Jennifer@gmail.com,Female,48,46+,Phoenix,AZ,Southwest,5/22/2023,Gold,3,2612.3
+C0139,Lisa,Taylor,Taylor.Lisa@gmail.com,Male,45,36-45,New York,NY,Northeast,10/17/2022,Gold,0,0
+C0140,Robert,Taylor,Taylor.Robert@gmail.com,Male,31,26-35,Los Angeles,CA,West,9/1/2021,Silver,1,738.72
+C0141,Ahmed,Williams,Williams.Ahmed@gmail.com,Female,46,46+,Philadelphia,PA,Northeast,4/3/2022,Bronze,4,3405.95
+C0142,Linda,Williams,Williams.Linda@gmail.com,Female,44,36-45,Phoenix,AZ,Southwest,9/20/2021,Bronze,5,4636.94
+C0143,Richard,White,White.Richard@gmail.com,Female,51,46+,New York,NY,Northeast,6/20/2021,Silver,0,0
+C0144,Richard,Anderson,Anderson.Richard@gmail.com,Female,14,18-25,San Diego,CA,West,4/14/2021,Silver,3,2595.09
+C0145,Hassan,Davis,Davis.Hassan@gmail.com,Male,24,18-25,Austin,TX,South,4/8/2022,Bronze,3,2288.59
+C0146,James,Taylor,Taylor.James@gmail.com,Female,40,36-45,New York,NY,Northeast,4/18/2021,Bronze,0,0
+C0147,Khalid,Thomas,Thomas.Khalid@gmail.com,Male,46,46+,Philadelphia,PA,Northeast,1/20/2023,Bronze,1,225.94
+C0148,David,King,King.David@gmail.com,Female,49,46+,Dallas,TX,South,12/23/2022,Bronze,1,714.33
+C0149,Jennifer,King,King.Jennifer@gmail.com,Female,24,18-25,San Antonio,TX,South,6/10/2021,Bronze,0,0
+C0150,Michael,Miller,Miller.Michael@gmail.com,Female,39,36-45,Los Angeles,CA,West,12/15/2022,Gold,2,1136.74
+C0151,Fatima,Moore,Moore.Fatima@gmail.com,Female,42,36-45,Dallas,TX,South,9/1/2021,Bronze,1,556.68
+C0152,Charles,Thompson,Thompson.Charles@gmail.com,Female,36,36-45,New York,NY,Northeast,6/7/2021,Bronze,2,1830.11
+C0153,Jessica,Williams,Williams.Jessica@gmail.com,Female,53,46+,Philadelphia,PA,Northeast,4/24/2023,Platinum,1,733.06
+C0154,Michael,Brown,Brown.Michael@gmail.com,Male,32,26-35,Austin,TX,South,7/31/2021,Bronze,4,2932.06
+C0155,Sarah,Brown,Brown.Sarah@gmail.com,Female,50,46+,Phoenix,AZ,Southwest,3/15/2023,Silver,1,544.88
+C0156,Khalid,Wilson,Wilson.Khalid@gmail.com,Male,32,26-35,San Diego,CA,West,10/20/2022,Gold,3,2659.58
+C0157,Susan,Thomas,Thomas.Susan@gmail.com,Female,45,36-45,San Antonio,TX,South,7/11/2021,Silver,2,1493.44
+C0158,Joseph,White,White.Joseph@gmail.com,Female,42,36-45,New York,NY,Northeast,8/20/2021,Silver,3,1720.83
+C0159,Robert,Brown,Brown.Robert@gmail.com,Male,51,46+,Austin,TX,South,11/16/2022,Silver,4,1901.09
+C0160,Hassan,Young,Young.Hassan@gmail.com,Male,35,26-35,Dallas,TX,South,7/21/2022,Bronze,5,3565.1
+C0161,Thomas,Jackson,Jackson.Thomas@gmail.com,Female,17,18-25,San Antonio,TX,South,8/10/2022,Bronze,2,1697.77
+C0162,John,Thomas,Thomas.John@gmail.com,Male,40,36-45,San Diego,CA,West,5/30/2022,Gold,1,713.85
+C0163,Charles,King,King.Charles@gmail.com,Male,18,18-25,Dallas,TX,South,5/4/2021,Silver,3,3736.89
+C0164,Michael,Miller,Miller.Michael@gmail.com,Male,46,46+,Chicago,IL,Midwest,2/13/2021,Silver,1,172
+C0165,Jessica,Miller,Miller.Jessica@gmail.com,Male,23,18-25,Los Angeles,CA,West,5/5/2023,Gold,1,780.65
+C0166,Rania,Williams,Williams.Rania@gmail.com,Male,39,36-45,Phoenix,AZ,Southwest,2/2/2022,Gold,5,2662.04
+C0167,David,Wilson,Wilson.David@gmail.com,Female,29,26-35,San Antonio,TX,South,6/14/2023,Bronze,0,0
+C0168,Thomas,Jackson,Jackson.Thomas@gmail.com,Male,27,26-35,Austin,TX,South,3/1/2022,Bronze,3,1469.89
+C0169,Charles,Young,Young.Charles@gmail.com,Male,28,26-35,Chicago,IL,Midwest,4/19/2021,Gold,0,0
+C0170,Barbara,Thompson,Thompson.Barbara@gmail.com,Female,18,18-25,Los Angeles,CA,West,6/18/2023,Silver,0,0
+C0171,Ahmed,Harris,Harris.Ahmed@gmail.com,Female,36,36-45,Phoenix,AZ,Southwest,2/8/2021,Bronze,0,0
+C0172,Robert,King,King.Robert@gmail.com,Female,35,26-35,Phoenix,AZ,Southwest,2/9/2021,Silver,3,2509.64
+C0173,Linda,Johnson,Johnson.Linda@gmail.com,Female,23,18-25,Philadelphia,PA,Northeast,10/3/2021,Silver,6,5197.82
+C0174,Yusuf,Moore,Moore.Yusuf@gmail.com,Female,38,36-45,New York,NY,Northeast,10/15/2021,Silver,1,1258.32
+C0175,Linda,Jones,Jones.Linda@gmail.com,Female,15,18-25,Los Angeles,CA,West,2/1/2023,Silver,3,742.02
+C0176,Layla,Jackson,Jackson.Layla@gmail.com,Male,41,36-45,Philadelphia,PA,Northeast,7/12/2021,Silver,3,1766.09
+C0177,Jessica,Harris,Harris.Jessica@gmail.com,Female,17,18-25,Houston,TX,South,4/21/2023,Bronze,4,3476.39
+C0178,Jennifer,Williams,Williams.Jennifer@gmail.com,Female,18,18-25,Dallas,TX,South,12/28/2022,Gold,0,0
+C0179,Hassan,Martin,Martin.Hassan@gmail.com,Male,47,46+,San Antonio,TX,South,6/27/2021,Bronze,3,2824.87
+C0180,Mary,Davis,Davis.Mary@gmail.com,Male,16,18-25,Houston,TX,South,4/13/2022,Bronze,3,2943.52
+C0181,Michael,Wilson,Wilson.Michael@gmail.com,Female,22,18-25,Philadelphia,PA,Northeast,4/24/2023,Silver,3,2608.24
+C0182,Ahmed,Brown,Brown.Ahmed@gmail.com,Male,36,36-45,Dallas,TX,South,9/5/2021,Silver,3,3292.08
+C0183,Joseph,Garcia,Garcia.Joseph@gmail.com,Female,27,26-35,San Diego,CA,West,8/24/2022,Gold,0,0
+C0184,Jennifer,Wilson,Wilson.Jennifer@gmail.com,Male,38,36-45,Philadelphia,PA,Northeast,10/19/2021,Bronze,0,0
+C0185,Jennifer,Young,Young.Jennifer@gmail.com,Male,51,46+,San Antonio,TX,South,5/28/2023,Bronze,0,0
+C0186,Michael,Wilson,Wilson.Michael@gmail.com,Female,23,18-25,Houston,TX,South,6/10/2022,Bronze,2,1969.46
+C0187,Rania,Jones,Jones.Rania@gmail.com,Male,32,26-35,New York,NY,Northeast,9/8/2022,Bronze,2,1360.75
+C0188,Lisa,Moore,Moore.Lisa@gmail.com,Female,42,36-45,Houston,TX,South,3/10/2022,Silver,3,2603.78
+C0189,William,Miller,Miller.William@gmail.com,Female,33,26-35,Philadelphia,PA,Northeast,11/6/2021,Platinum,3,3069.34
+C0190,Lisa,Thomas,Thomas.Lisa@gmail.com,Male,17,18-25,Dallas,TX,South,1/8/2021,Gold,3,1517.3
+C0191,Ahmed,King,King.Ahmed@gmail.com,Female,28,26-35,Philadelphia,PA,Northeast,11/2/2021,Platinum,1,1376.1
+C0192,John,Taylor,Taylor.John@gmail.com,Female,32,26-35,Los Angeles,CA,West,10/18/2022,Silver,3,2326.81
+C0193,Ahmed,Moore,Moore.Ahmed@gmail.com,Male,42,36-45,Phoenix,AZ,Southwest,6/3/2021,Gold,1,689.13
+C0194,Nour,King,King.Nour@gmail.com,Female,51,46+,Houston,TX,South,11/8/2022,Silver,4,3702.43
+C0195,James,Harris,Harris.James@gmail.com,Female,21,18-25,Chicago,IL,Midwest,9/23/2021,Silver,3,2809.15
+C0196,Layla,Johnson,Johnson.Layla@gmail.com,Male,36,36-45,San Antonio,TX,South,12/18/2021,Platinum,2,523.2
+C0197,Karen,Harris,Harris.Karen@gmail.com,Female,23,18-25,Houston,TX,South,6/4/2022,Silver,1,750.16
+C0198,Fatima,Thompson,Thompson.Fatima@gmail.com,Male,16,18-25,Chicago,IL,Midwest,10/28/2021,Bronze,3,2989.8
+C0199,Layla,Wilson,Wilson.Layla@gmail.com,Male,48,46+,San Diego,CA,West,11/28/2022,Silver,2,672.02
+C0200,Susan,Davis,Davis.Susan@gmail.com,Female,44,36-45,Los Angeles,CA,West,3/7/2022,Silver,0,0
+C0201,Charles,Moore,Moore.Charles@gmail.com,Female,42,36-45,Philadelphia,PA,Northeast,5/22/2023,Bronze,3,3815.58
+C0202,Amira,Young,Young.Amira@gmail.com,Male,51,46+,San Diego,CA,West,4/29/2022,Bronze,4,1603.13
+C0203,Amira,Thomas,Thomas.Amira@gmail.com,Female,48,46+,Dallas,TX,South,2/28/2022,Bronze,6,4338.64
+C0204,Michael,Taylor,Taylor.Michael@gmail.com,Female,47,46+,Chicago,IL,Midwest,8/7/2022,Silver,2,1543.8
+C0205,Amira,Garcia,Garcia.Amira@gmail.com,Male,39,36-45,Chicago,IL,Midwest,5/15/2022,Silver,4,2410.45
+C0206,Ahmed,Johnson,Johnson.Ahmed@gmail.com,Male,39,36-45,Chicago,IL,Midwest,4/8/2022,Silver,4,3253.96
+C0207,Hassan,Garcia,Garcia.Hassan@gmail.com,Male,19,18-25,Houston,TX,South,5/17/2022,Bronze,4,1528.93
+C0208,Jessica,Jackson,Jackson.Jessica@gmail.com,Female,26,26-35,Chicago,IL,Midwest,3/16/2022,Silver,2,817.89
+C0209,Mary,Thompson,Thompson.Mary@gmail.com,Male,53,46+,San Antonio,TX,South,1/19/2023,Silver,4,3076.51
+C0210,Hassan,Martin,Martin.Hassan@gmail.com,Male,39,36-45,New York,NY,Northeast,1/19/2021,Platinum,2,1057.44
+C0211,Layla,Davis,Davis.Layla@gmail.com,Male,25,18-25,New York,NY,Northeast,12/12/2022,Silver,3,2195.68
+C0212,Patricia,Thomas,Thomas.Patricia@gmail.com,Female,48,46+,Phoenix,AZ,Southwest,6/21/2021,Bronze,5,4450
+C0213,Barbara,White,White.Barbara@gmail.com,Female,40,36-45,New York,NY,Northeast,3/21/2022,Platinum,0,0
+C0214,Khalid,Harris,Harris.Khalid@gmail.com,Female,38,36-45,Chicago,IL,Midwest,2/8/2023,Bronze,2,1526.66
+C0215,Richard,Smith,Smith.Richard@gmail.com,Male,17,18-25,Chicago,IL,Midwest,8/18/2021,Platinum,1,975.27
+C0216,Layla,Smith,Smith.Layla@gmail.com,Male,44,36-45,Chicago,IL,Midwest,5/7/2021,Silver,5,3544.5
+C0217,Khalid,Wilson,Wilson.Khalid@gmail.com,Male,37,36-45,New York,NY,Northeast,9/1/2022,Bronze,0,0
+C0218,Yusuf,Smith,Smith.Yusuf@gmail.com,Male,24,18-25,Los Angeles,CA,West,12/8/2022,Bronze,0,0
+C0219,Richard,Brown,Brown.Richard@gmail.com,Female,34,26-35,San Antonio,TX,South,5/1/2022,Platinum,4,2067.44
+C0220,Omar,Smith,Smith.Omar@gmail.com,Female,44,36-45,Chicago,IL,Midwest,3/7/2022,Platinum,3,1129.96
+C0221,Thomas,Wilson,Wilson.Thomas@gmail.com,Male,24,18-25,Los Angeles,CA,West,3/5/2022,Bronze,2,1231.5
+C0222,Lisa,Brown,Brown.Lisa@gmail.com,Female,21,18-25,Dallas,TX,South,4/27/2021,Bronze,0,0
+C0223,Lisa,Miller,Miller.Lisa@gmail.com,Female,45,36-45,San Diego,CA,West,5/2/2023,Gold,3,1663.45
+C0224,Omar,Jackson,Jackson.Omar@gmail.com,Female,37,36-45,Houston,TX,South,6/14/2021,Bronze,3,2338.45
+C0225,Rania,Miller,Miller.Rania@gmail.com,Female,31,26-35,Dallas,TX,South,12/5/2021,Bronze,4,3110.8
+C0226,Fatima,Williams,Williams.Fatima@gmail.com,Male,53,46+,New York,NY,Northeast,5/6/2023,Gold,1,665.22
+C0227,John,Martin,Martin.John@gmail.com,Male,47,46+,San Diego,CA,West,1/11/2023,Platinum,1,1791.31
+C0228,Ahmed,Davis,Davis.Ahmed@gmail.com,Female,42,36-45,Los Angeles,CA,West,10/31/2021,Silver,8,6285.54
+C0229,Patricia,Garcia,Garcia.Patricia@gmail.com,Male,51,46+,San Diego,CA,West,5/23/2023,Silver,1,84.26
+C0230,Fatima,Taylor,Taylor.Fatima@gmail.com,Female,18,18-25,Philadelphia,PA,Northeast,1/27/2023,Bronze,2,1554.65
+C0231,Hassan,Johnson,Johnson.Hassan@gmail.com,Male,15,18-25,Los Angeles,CA,West,5/23/2023,Bronze,4,1941.44
+C0232,Susan,White,White.Susan@gmail.com,Female,39,36-45,Chicago,IL,Midwest,6/19/2023,Platinum,5,3374.94
+C0233,Yusuf,Taylor,Taylor.Yusuf@gmail.com,Male,37,36-45,Los Angeles,CA,West,4/27/2021,Silver,2,1980.08
+C0234,William,Thomas,Thomas.William@gmail.com,Female,33,26-35,San Antonio,TX,South,3/31/2023,Silver,2,1482.42
+C0235,Robert,Johnson,Johnson.Robert@gmail.com,Male,48,46+,Chicago,IL,Midwest,4/17/2021,Silver,0,0
+C0236,Nour,Young,Young.Nour@gmail.com,Female,32,26-35,Austin,TX,South,7/5/2021,Gold,2,1967.17
+C0237,Susan,King,King.Susan@gmail.com,Male,19,18-25,San Antonio,TX,South,6/3/2023,Platinum,3,3553.8
+C0238,Rania,Harris,Harris.Rania@gmail.com,Male,32,26-35,Chicago,IL,Midwest,2/26/2022,Silver,3,2536.05
+C0239,William,Taylor,Taylor.William@gmail.com,Male,51,46+,New York,NY,Northeast,12/23/2022,Platinum,4,2306.95
+C0240,Layla,Young,Young.Layla@gmail.com,Male,19,18-25,Dallas,TX,South,11/17/2022,Silver,0,0
+C0241,Omar,King,King.Omar@gmail.com,Male,30,26-35,Dallas,TX,South,3/20/2022,Platinum,2,1293.42
+C0242,Susan,Thomas,Thomas.Susan@gmail.com,Male,32,26-35,Houston,TX,South,5/10/2023,Gold,5,5220.06
+C0243,James,Garcia,Garcia.James@gmail.com,Female,51,46+,Austin,TX,South,5/23/2023,Silver,3,2026.84
+C0244,Hassan,Harris,Harris.Hassan@gmail.com,Female,50,46+,Chicago,IL,Midwest,9/4/2021,Silver,3,2225.86
+C0245,Thomas,Davis,Davis.Thomas@gmail.com,Female,51,46+,Phoenix,AZ,Southwest,2/17/2022,Bronze,3,1655.47
+C0246,Joseph,Young,Young.Joseph@gmail.com,Female,33,26-35,Los Angeles,CA,West,4/1/2021,Silver,3,1604.8
+C0247,Patricia,Harris,Harris.Patricia@gmail.com,Male,39,36-45,San Diego,CA,West,4/16/2021,Silver,1,1003.15
+C0248,Karen,Thompson,Thompson.Karen@gmail.com,Male,52,46+,San Antonio,TX,South,4/26/2023,Bronze,2,484.55
+C0249,Ahmed,Moore,Moore.Ahmed@gmail.com,Male,26,26-35,Austin,TX,South,11/2/2022,Platinum,4,1394.03
+C0250,Susan,Johnson,Johnson.Susan@gmail.com,Male,38,36-45,San Diego,CA,West,5/15/2023,Silver,0,0
+C0251,Hassan,King,King.Hassan@gmail.com,Female,28,26-35,Philadelphia,PA,Northeast,1/4/2023,Platinum,4,4180.78
+C0252,Joseph,Brown,Brown.Joseph@gmail.com,Male,21,18-25,Philadelphia,PA,Northeast,2/17/2023,Platinum,3,2567.28
+C0253,David,Anderson,Anderson.David@gmail.com,Female,53,46+,Houston,TX,South,7/15/2022,Gold,5,3625.08
+C0254,Patricia,Johnson,Johnson.Patricia@gmail.com,Male,22,18-25,Philadelphia,PA,Northeast,5/20/2022,Bronze,3,2273.35
+C0255,William,King,King.William@gmail.com,Male,49,46+,San Antonio,TX,South,7/12/2021,Bronze,2,2054.64
+C0256,Joseph,Miller,Miller.Joseph@gmail.com,Female,44,36-45,San Antonio,TX,South,4/21/2021,Silver,3,1892.14
+C0257,Yusuf,Young,Young.Yusuf@gmail.com,Male,25,18-25,New York,NY,Northeast,3/2/2023,Silver,1,749.51
+C0258,Charles,Martin,Martin.Charles@gmail.com,Male,24,18-25,San Diego,CA,West,5/26/2022,Bronze,4,2836.37
+C0259,Mary,Thompson,Thompson.Mary@gmail.com,Female,20,18-25,Dallas,TX,South,5/9/2023,Gold,1,239.12
+C0260,Hassan,Garcia,Garcia.Hassan@gmail.com,Male,31,26-35,San Diego,CA,West,1/19/2023,Bronze,2,1629.45
+C0261,Fatima,King,King.Fatima@gmail.com,Female,36,36-45,Los Angeles,CA,West,6/1/2022,Silver,3,1892.27
+C0262,Rania,Davis,Davis.Rania@gmail.com,Female,26,26-35,San Antonio,TX,South,2/12/2022,Silver,1,848.42
+C0263,Nour,Jones,Jones.Nour@gmail.com,Male,33,26-35,Phoenix,AZ,Southwest,2/27/2022,Gold,2,884.27
+C0264,Yusuf,Thompson,Thompson.Yusuf@gmail.com,Female,40,36-45,Dallas,TX,South,12/30/2022,Platinum,2,773.15
+C0265,Michael,Miller,Miller.Michael@gmail.com,Male,25,18-25,Dallas,TX,South,10/2/2022,Platinum,3,1432.19
+C0266,Susan,Jones,Jones.Susan@gmail.com,Male,23,18-25,Phoenix,AZ,Southwest,5/31/2022,Gold,3,1720.08
+C0267,Patricia,Anderson,Anderson.Patricia@gmail.com,Female,22,18-25,Philadelphia,PA,Northeast,8/20/2022,Gold,2,1166.5
+C0268,Layla,Thompson,Thompson.Layla@gmail.com,Female,23,18-25,San Antonio,TX,South,6/18/2023,Silver,0,0
+C0269,Patricia,Smith,Smith.Patricia@gmail.com,Female,30,26-35,New York,NY,Northeast,5/29/2021,Bronze,2,2955.74
+C0270,William,Garcia,Garcia.William@gmail.com,Female,45,36-45,New York,NY,Northeast,12/1/2022,Silver,2,1433.77
+C0271,Mary,Moore,Moore.Mary@gmail.com,Male,16,18-25,Chicago,IL,Midwest,2/11/2023,Gold,3,2625.01
+C0272,Yusuf,White,White.Yusuf@gmail.com,Male,37,36-45,New York,NY,Northeast,9/23/2022,Platinum,4,4537.42
+C0273,Linda,Thompson,Thompson.Linda@gmail.com,Female,15,18-25,Dallas,TX,South,9/1/2021,Gold,4,2127.23
+C0274,Fatima,Johnson,Johnson.Fatima@gmail.com,Female,22,18-25,Phoenix,AZ,Southwest,2/1/2022,Silver,1,78.49
+C0275,Mary,Smith,Smith.Mary@gmail.com,Female,29,26-35,Philadelphia,PA,Northeast,7/27/2021,Gold,3,1713.21
+C0276,Linda,Anderson,Anderson.Linda@gmail.com,Male,16,18-25,San Diego,CA,West,3/6/2023,Platinum,2,1950.96
+C0277,Joseph,Garcia,Garcia.Joseph@gmail.com,Male,40,36-45,Houston,TX,South,7/11/2021,Bronze,2,779.06
+C0278,Richard,Johnson,Johnson.Richard@gmail.com,Female,48,46+,Dallas,TX,South,10/13/2021,Gold,1,878.73
+C0279,Jennifer,Young,Young.Jennifer@gmail.com,Female,48,46+,Phoenix,AZ,Southwest,1/6/2021,Silver,2,1060.55
+C0280,Rania,Jones,Jones.Rania@gmail.com,Male,22,18-25,San Diego,CA,West,6/7/2021,Silver,4,3133.15
+C0281,Hassan,King,King.Hassan@gmail.com,Female,51,46+,Austin,TX,South,5/18/2022,Gold,3,1846.81
+C0282,John,Taylor,Taylor.John@gmail.com,Male,37,36-45,Dallas,TX,South,7/8/2021,Gold,1,237.18
+C0283,Thomas,Garcia,Garcia.Thomas@gmail.com,Female,18,18-25,Los Angeles,CA,West,7/11/2022,Gold,3,3303.35
+C0284,Susan,Davis,Davis.Susan@gmail.com,Male,49,46+,San Antonio,TX,South,11/11/2022,Silver,6,2552.25
+C0285,Barbara,Miller,Miller.Barbara@gmail.com,Female,37,36-45,Philadelphia,PA,Northeast,7/29/2022,Platinum,3,1530.88
+C0286,Fatima,Anderson,Anderson.Fatima@gmail.com,Female,48,46+,New York,NY,Northeast,9/4/2021,Platinum,3,3047.23
+C0287,Linda,Johnson,Johnson.Linda@gmail.com,Female,26,26-35,Austin,TX,South,1/26/2022,Bronze,3,2883.7
+C0288,Karen,Moore,Moore.Karen@gmail.com,Male,42,36-45,San Antonio,TX,South,6/14/2022,Silver,1,287.8
+C0289,Thomas,White,White.Thomas@gmail.com,Female,18,18-25,Dallas,TX,South,2/14/2021,Silver,5,4444.44
+C0290,Thomas,Williams,Williams.Thomas@gmail.com,Male,39,36-45,Houston,TX,South,6/21/2021,Gold,3,1447.91
+C0291,Ahmed,Williams,Williams.Ahmed@gmail.com,Male,53,46+,Dallas,TX,South,11/18/2022,Platinum,2,1535.63
+C0292,Fatima,Jackson,Jackson.Fatima@gmail.com,Male,15,18-25,Houston,TX,South,7/30/2021,Gold,5,1883.81
+C0293,Yusuf,Williams,Williams.Yusuf@gmail.com,Male,25,18-25,San Antonio,TX,South,1/25/2021,Silver,2,1431
+C0294,John,Williams,Williams.John@gmail.com,Male,52,46+,Philadelphia,PA,Northeast,7/2/2021,Silver,6,3965.45
+C0295,Charles,Davis,Davis.Charles@gmail.com,Female,50,46+,Dallas,TX,South,2/22/2022,Silver,7,4546.08
+C0296,Richard,Jackson,Jackson.Richard@gmail.com,Female,25,18-25,San Diego,CA,West,1/18/2021,Silver,2,2607.55
+C0297,James,King,King.James@gmail.com,Male,30,26-35,Los Angeles,CA,West,2/14/2023,Platinum,5,5022.84
+C0298,Omar,Williams,Williams.Omar@gmail.com,Female,51,46+,Austin,TX,South,5/30/2022,Bronze,1,438.02
+C0299,Fatima,Moore,Moore.Fatima@gmail.com,Male,18,18-25,Phoenix,AZ,Southwest,10/16/2021,Silver,4,2677.47
+C0300,Yusuf,Smith,Smith.Yusuf@gmail.com,Female,36,36-45,San Antonio,TX,South,6/10/2021,Gold,4,3635.57
+C0301,Layla,Thomas,Thomas.Layla@gmail.com,Female,47,46+,Houston,TX,South,10/12/2022,Bronze,5,4008.26
+C0302,Khalid,Anderson,Anderson.Khalid@gmail.com,Male,23,18-25,Phoenix,AZ,Southwest,7/21/2022,Gold,6,4319.4
+C0303,Mary,Smith,Smith.Mary@gmail.com,Female,48,46+,Chicago,IL,Midwest,7/5/2022,Gold,1,341.13
+C0304,Michael,Anderson,Anderson.Michael@gmail.com,Male,40,36-45,Los Angeles,CA,West,2/27/2022,Platinum,4,1383.07
+C0305,Jennifer,Garcia,Garcia.Jennifer@gmail.com,Male,47,46+,Dallas,TX,South,9/24/2022,Silver,3,1311.23
+C0306,Jennifer,Young,Young.Jennifer@gmail.com,Male,48,46+,Houston,TX,South,5/22/2023,Gold,5,4297.05
+C0307,Karen,Williams,Williams.Karen@gmail.com,Female,25,18-25,San Diego,CA,West,11/19/2022,Bronze,3,1936.75
+C0308,Michael,Young,Young.Michael@gmail.com,Female,49,46+,Phoenix,AZ,Southwest,12/5/2021,Silver,4,4092.76
+C0309,Ahmed,Davis,Davis.Ahmed@gmail.com,Male,23,18-25,Chicago,IL,Midwest,10/19/2021,Gold,0,0
+C0310,David,Harris,Harris.David@gmail.com,Female,45,36-45,Los Angeles,CA,West,12/3/2021,Gold,3,1365.38
+C0311,Charles,Jones,Jones.Charles@gmail.com,Female,22,18-25,Phoenix,AZ,Southwest,4/8/2023,Silver,1,459.21
+C0312,James,Taylor,Taylor.James@gmail.com,Male,46,46+,San Antonio,TX,South,3/16/2023,Bronze,1,185.53
+C0313,Yusuf,Anderson,Anderson.Yusuf@gmail.com,Male,41,36-45,San Antonio,TX,South,11/27/2022,Platinum,3,2709.5
+C0314,Sarah,White,White.Sarah@gmail.com,Female,14,18-25,Philadelphia,PA,Northeast,1/3/2022,Silver,5,3600.88
+C0315,Patricia,Garcia,Garcia.Patricia@gmail.com,Male,29,26-35,San Diego,CA,West,5/12/2023,Silver,3,1703.18
+C0316,Michael,Wilson,Wilson.Michael@gmail.com,Male,29,26-35,Chicago,IL,Midwest,1/15/2023,Bronze,3,1671.07
+C0317,Thomas,Smith,Smith.Thomas@gmail.com,Female,15,18-25,New York,NY,Northeast,2/27/2023,Gold,0,0
+C0318,Karen,Wilson,Wilson.Karen@gmail.com,Female,52,46+,Houston,TX,South,11/1/2022,Bronze,2,1444.11
+C0319,Linda,Young,Young.Linda@gmail.com,Female,36,36-45,Philadelphia,PA,Northeast,5/18/2021,Silver,3,2610.76
+C0320,John,Thomas,Thomas.John@gmail.com,Female,31,26-35,Dallas,TX,South,5/30/2022,Bronze,5,3627.81
+C0321,Nour,King,King.Nour@gmail.com,Male,15,18-25,Houston,TX,South,2/15/2023,Gold,3,2890.52
+C0322,Jennifer,Garcia,Garcia.Jennifer@gmail.com,Male,34,26-35,Chicago,IL,Midwest,1/24/2023,Platinum,1,962.99
+C0323,Mary,Davis,Davis.Mary@gmail.com,Female,37,36-45,San Diego,CA,West,8/26/2021,Bronze,5,2885.48
+C0324,Linda,Johnson,Johnson.Linda@gmail.com,Male,37,36-45,Phoenix,AZ,Southwest,6/15/2022,Silver,2,2174.54
+C0325,Rania,White,White.Rania@gmail.com,Male,32,26-35,San Antonio,TX,South,2/10/2021,Platinum,2,1021.83
+C0326,Omar,Martin,Martin.Omar@gmail.com,Female,49,46+,Philadelphia,PA,Northeast,5/5/2023,Platinum,3,2623.85
+C0327,Karen,Young,Young.Karen@gmail.com,Male,28,26-35,Phoenix,AZ,Southwest,1/21/2022,Platinum,1,809.1
+C0328,Charles,Williams,Williams.Charles@gmail.com,Female,37,36-45,San Antonio,TX,South,1/21/2022,Bronze,2,1269.55
+C0329,Susan,Anderson,Anderson.Susan@gmail.com,Female,35,26-35,Dallas,TX,South,3/23/2023,Silver,4,1190.24
+C0330,Thomas,Jones,Jones.Thomas@gmail.com,Female,53,46+,Austin,TX,South,6/19/2021,Bronze,2,1525.64
+C0331,Ahmed,Wilson,Wilson.Ahmed@gmail.com,Male,30,26-35,Los Angeles,CA,West,6/3/2021,Bronze,2,423.06
+C0332,Lisa,Brown,Brown.Lisa@gmail.com,Male,37,36-45,Chicago,IL,Midwest,3/1/2022,Silver,4,3289.67
+C0333,Fatima,Harris,Harris.Fatima@gmail.com,Female,32,26-35,Los Angeles,CA,West,8/4/2021,Gold,4,3187.69
+C0334,Yusuf,Jackson,Jackson.Yusuf@gmail.com,Male,24,18-25,Chicago,IL,Midwest,9/7/2021,Bronze,2,2195.46
+C0335,Charles,Garcia,Garcia.Charles@gmail.com,Male,28,26-35,Chicago,IL,Midwest,10/7/2022,Gold,4,2987.79
+C0336,Charles,Jones,Jones.Charles@gmail.com,Male,14,18-25,New York,NY,Northeast,6/20/2021,Silver,2,1966.47
+C0337,Richard,King,King.Richard@gmail.com,Male,30,26-35,Chicago,IL,Midwest,6/19/2023,Platinum,4,4410.32
+C0338,Michael,White,White.Michael@gmail.com,Female,50,46+,Phoenix,AZ,Southwest,6/8/2023,Silver,1,491.95
+C0339,Yusuf,Jackson,Jackson.Yusuf@gmail.com,Male,44,36-45,Chicago,IL,Midwest,3/25/2023,Gold,1,686.73
+C0340,Fatima,Martin,Martin.Fatima@gmail.com,Female,26,26-35,Chicago,IL,Midwest,6/21/2021,Platinum,3,2628.08
+C0341,Lisa,Young,Young.Lisa@gmail.com,Male,33,26-35,Philadelphia,PA,Northeast,8/24/2021,Silver,1,102.31
+C0342,Patricia,Smith,Smith.Patricia@gmail.com,Male,48,46+,San Antonio,TX,South,6/20/2022,Gold,3,2157.18
+C0343,Robert,King,King.Robert@gmail.com,Male,16,18-25,San Antonio,TX,South,7/1/2021,Silver,0,0
+C0344,Mary,Thompson,Thompson.Mary@gmail.com,Male,27,26-35,Austin,TX,South,4/6/2021,Silver,3,1871.19
+C0345,Karen,Smith,Smith.Karen@gmail.com,Female,26,26-35,Chicago,IL,Midwest,6/19/2022,Silver,0,0
+C0346,Mary,Martin,Martin.Mary@gmail.com,Female,14,18-25,Philadelphia,PA,Northeast,8/23/2021,Silver,3,1474.36
+C0347,Charles,Young,Young.Charles@gmail.com,Male,38,36-45,San Antonio,TX,South,3/12/2022,Bronze,3,2697.88
+C0348,Hassan,Davis,Davis.Hassan@gmail.com,Male,32,26-35,Phoenix,AZ,Southwest,10/18/2021,Gold,4,3141.91
+C0349,William,Miller,Miller.William@gmail.com,Male,35,26-35,Dallas,TX,South,12/28/2022,Platinum,1,1547.77
+C0350,Thomas,Brown,Brown.Thomas@gmail.com,Male,28,26-35,New York,NY,Northeast,1/20/2022,Platinum,3,912.06
+C0351,Nour,Taylor,Taylor.Nour@gmail.com,Female,23,18-25,Houston,TX,South,1/6/2022,Bronze,5,4110.67
+C0352,Ahmed,Young,Young.Ahmed@gmail.com,Female,34,26-35,Chicago,IL,Midwest,9/25/2021,Gold,4,3243.17
+C0353,Susan,King,King.Susan@gmail.com,Female,28,26-35,San Antonio,TX,South,11/28/2022,Silver,2,1315.03
+C0354,Karen,Thompson,Thompson.Karen@gmail.com,Female,35,26-35,Houston,TX,South,7/3/2021,Silver,4,1821.89
+C0355,Sarah,Wilson,Wilson.Sarah@gmail.com,Female,29,26-35,Dallas,TX,South,8/15/2022,Silver,1,897.97
+C0356,Robert,Brown,Brown.Robert@gmail.com,Male,21,18-25,San Antonio,TX,South,4/3/2022,Platinum,4,3033.48
+C0357,Michael,Martin,Martin.Michael@gmail.com,Female,49,46+,Chicago,IL,Midwest,3/16/2023,Silver,2,2071.74
+C0358,Omar,Johnson,Johnson.Omar@gmail.com,Male,26,26-35,Dallas,TX,South,2/3/2022,Platinum,3,1953.69
+C0359,John,Jones,Jones.John@gmail.com,Female,17,18-25,New York,NY,Northeast,9/7/2022,Silver,0,0
+C0360,William,Davis,Davis.William@gmail.com,Female,51,46+,Los Angeles,CA,West,3/23/2021,Gold,3,1917.77
+C0361,Richard,Thomas,Thomas.Richard@gmail.com,Female,21,18-25,New York,NY,Northeast,12/30/2022,Gold,2,1314.67
+C0362,Yusuf,Garcia,Garcia.Yusuf@gmail.com,Female,19,18-25,New York,NY,Northeast,3/26/2022,Bronze,3,3904.38
+C0363,Fatima,Martin,Martin.Fatima@gmail.com,Female,15,18-25,Houston,TX,South,7/19/2021,Bronze,4,2313.92
+C0364,Thomas,Davis,Davis.Thomas@gmail.com,Male,31,26-35,Austin,TX,South,11/22/2022,Bronze,4,3412.54
+C0365,Ahmed,Smith,Smith.Ahmed@gmail.com,Male,43,36-45,Philadelphia,PA,Northeast,3/30/2021,Silver,5,3127.1
+C0366,Fatima,Thomas,Thomas.Fatima@gmail.com,Female,38,36-45,San Antonio,TX,South,8/24/2022,Bronze,2,2328.67
+C0367,Layla,Williams,Williams.Layla@gmail.com,Male,53,46+,Dallas,TX,South,7/17/2022,Silver,1,1384.87
+C0368,Susan,Anderson,Anderson.Susan@gmail.com,Female,27,26-35,Dallas,TX,South,8/20/2021,Gold,4,3416.6
+C0369,Rania,Thomas,Thomas.Rania@gmail.com,Male,33,26-35,Houston,TX,South,9/25/2021,Bronze,2,450.68
+C0370,Patricia,Thompson,Thompson.Patricia@gmail.com,Male,31,26-35,San Antonio,TX,South,5/31/2022,Silver,2,774.82
+C0371,Nour,Martin,Martin.Nour@gmail.com,Female,48,46+,Philadelphia,PA,Northeast,6/17/2023,Gold,2,1089.89
+C0372,Omar,White,White.Omar@gmail.com,Female,42,36-45,Austin,TX,South,7/31/2022,Silver,2,2723.61
+C0373,David,White,White.David@gmail.com,Female,20,18-25,Houston,TX,South,8/24/2022,Bronze,3,1870.04
+C0374,William,Williams,Williams.William@gmail.com,Female,48,46+,San Diego,CA,West,10/11/2022,Bronze,5,3112.74
+C0375,David,Jackson,Jackson.David@gmail.com,Female,18,18-25,Houston,TX,South,6/13/2022,Gold,5,4143.3
+C0376,Yusuf,Wilson,Wilson.Yusuf@gmail.com,Male,22,18-25,New York,NY,Northeast,10/22/2021,Bronze,5,2819.95
+C0377,Layla,Taylor,Taylor.Layla@gmail.com,Male,23,18-25,San Antonio,TX,South,7/22/2022,Bronze,3,2171.93
+C0378,Susan,Miller,Miller.Susan@gmail.com,Female,39,36-45,San Diego,CA,West,7/7/2021,Platinum,3,1429.01
+C0379,Layla,Miller,Miller.Layla@gmail.com,Male,31,26-35,Houston,TX,South,1/24/2023,Bronze,3,2633.67
+C0380,Linda,Miller,Miller.Linda@gmail.com,Male,44,36-45,Phoenix,AZ,Southwest,5/7/2023,Gold,1,272.12
+C0381,Hassan,Brown,Brown.Hassan@gmail.com,Male,47,46+,Philadelphia,PA,Northeast,3/22/2021,Platinum,2,1410.61
+C0382,James,Thompson,Thompson.James@gmail.com,Male,26,26-35,San Diego,CA,West,5/19/2023,Silver,3,3395.55
+C0383,David,Harris,Harris.David@gmail.com,Female,26,26-35,Philadelphia,PA,Northeast,5/18/2022,Bronze,1,804.78
+C0384,Richard,Davis,Davis.Richard@gmail.com,Male,41,36-45,Dallas,TX,South,2/25/2021,Gold,2,1877.16
+C0385,Karen,Johnson,Johnson.Karen@gmail.com,Female,32,26-35,San Antonio,TX,South,2/8/2022,Platinum,3,2817.93
+C0386,Patricia,Martin,Martin.Patricia@gmail.com,Female,33,26-35,Chicago,IL,Midwest,11/20/2021,Platinum,2,2342.39
+C0387,Fatima,Miller,Miller.Fatima@gmail.com,Female,53,46+,New York,NY,Northeast,8/18/2022,Bronze,1,744.32
+C0388,Lisa,Wilson,Wilson.Lisa@gmail.com,Male,37,36-45,Philadelphia,PA,Northeast,7/16/2022,Silver,3,1916.87
+C0389,Sarah,King,King.Sarah@gmail.com,Female,41,36-45,Houston,TX,South,1/10/2022,Bronze,4,4911.7
+C0390,Michael,Jackson,Jackson.Michael@gmail.com,Female,35,26-35,San Diego,CA,West,1/9/2022,Silver,5,2135.37
+C0391,Jennifer,Young,Young.Jennifer@gmail.com,Male,33,26-35,Phoenix,AZ,Southwest,8/13/2022,Platinum,3,3745.63
+C0392,Patricia,Wilson,Wilson.Patricia@gmail.com,Male,17,18-25,Houston,TX,South,7/23/2022,Silver,2,1356.71
+C0393,Robert,Jones,Jones.Robert@gmail.com,Female,45,36-45,San Antonio,TX,South,4/6/2023,Bronze,3,2326.14
+C0394,Sarah,Jones,Jones.Sarah@gmail.com,Female,35,26-35,Chicago,IL,Midwest,3/16/2023,Silver,3,1992.56
+C0395,Karen,Young,Young.Karen@gmail.com,Male,42,36-45,Phoenix,AZ,Southwest,2/12/2022,Bronze,3,1095.79
+C0396,Michael,Wilson,Wilson.Michael@gmail.com,Female,51,46+,Chicago,IL,Midwest,5/10/2023,Platinum,3,3318.15
+C0397,Layla,Taylor,Taylor.Layla@gmail.com,Female,33,26-35,Los Angeles,CA,West,1/5/2022,Silver,5,2868.2
+C0398,Rania,Wilson,Wilson.Rania@gmail.com,Female,29,26-35,Dallas,TX,South,1/21/2021,Silver,2,2755.82
+C0399,Amira,King,King.Amira@gmail.com,Male,38,36-45,Los Angeles,CA,West,8/14/2022,Gold,2,1589.53
+C0400,Hassan,Moore,Moore.Hassan@gmail.com,Female,46,46+,Dallas,TX,South,11/29/2021,Platinum,5,4132.73
+C0401,Hassan,White,White.Hassan@gmail.com,Male,32,26-35,Dallas,TX,South,1/26/2022,Gold,4,2075.61
+C0402,Ahmed,Jones,Jones.Ahmed@gmail.com,Male,33,26-35,Phoenix,AZ,Southwest,10/18/2022,Silver,2,1105.7
+C0403,Lisa,Young,Young.Lisa@gmail.com,Female,25,18-25,San Antonio,TX,South,5/20/2023,Bronze,0,0
+C0404,David,Davis,Davis.David@gmail.com,Female,46,46+,Los Angeles,CA,West,11/21/2021,Platinum,2,1700.35
+C0405,William,King,King.William@gmail.com,Female,22,18-25,Phoenix,AZ,Southwest,10/5/2021,Silver,2,2285.05
+C0406,Charles,Martin,Martin.Charles@gmail.com,Female,20,18-25,Philadelphia,PA,Northeast,2/28/2022,Bronze,3,2912.11
+C0407,James,Jones,Jones.James@gmail.com,Male,15,18-25,Chicago,IL,Midwest,11/9/2022,Silver,1,371.39
+C0408,Jennifer,Thomas,Thomas.Jennifer@gmail.com,Male,44,36-45,Los Angeles,CA,West,4/8/2021,Bronze,5,4046.98
+C0409,Mary,Smith,Smith.Mary@gmail.com,Female,29,26-35,San Diego,CA,West,6/21/2022,Bronze,1,954.28
+C0410,Lisa,Jones,Jones.Lisa@gmail.com,Male,42,36-45,Los Angeles,CA,West,11/2/2022,Silver,1,774.67
+C0411,Linda,Moore,Moore.Linda@gmail.com,Female,43,36-45,Phoenix,AZ,Southwest,10/4/2022,Bronze,3,2893.95
+C0412,Yusuf,Garcia,Garcia.Yusuf@gmail.com,Male,30,26-35,Chicago,IL,Midwest,2/5/2021,Platinum,2,1835.1
+C0413,Rania,Taylor,Taylor.Rania@gmail.com,Female,15,18-25,Philadelphia,PA,Northeast,4/24/2022,Gold,7,4189.89
+C0414,Joseph,Jones,Jones.Joseph@gmail.com,Male,29,26-35,Phoenix,AZ,Southwest,8/29/2022,Gold,8,6173.78
+C0415,Layla,Young,Young.Layla@gmail.com,Female,25,18-25,San Diego,CA,West,6/21/2022,Platinum,3,2688.71
+C0416,Rania,Anderson,Anderson.Rania@gmail.com,Female,40,36-45,Dallas,TX,South,7/7/2022,Bronze,3,1445.59
+C0417,Barbara,Anderson,Anderson.Barbara@gmail.com,Female,34,26-35,Los Angeles,CA,West,9/24/2021,Bronze,2,1580.45
+C0418,James,Martin,Martin.James@gmail.com,Male,53,46+,Phoenix,AZ,Southwest,12/19/2021,Silver,3,1491.17
+C0419,James,Harris,Harris.James@gmail.com,Female,30,26-35,San Diego,CA,West,11/3/2021,Bronze,0,0
+C0420,Barbara,King,King.Barbara@gmail.com,Male,18,18-25,San Antonio,TX,South,3/27/2023,Bronze,1,673.42
+C0421,Michael,Jackson,Jackson.Michael@gmail.com,Female,37,36-45,Dallas,TX,South,2/9/2022,Bronze,1,186.45
+C0422,Layla,Thomas,Thomas.Layla@gmail.com,Female,21,18-25,Chicago,IL,Midwest,8/14/2021,Silver,5,3192.62
+C0423,Ahmed,Davis,Davis.Ahmed@gmail.com,Female,35,26-35,Los Angeles,CA,West,10/19/2021,Platinum,3,2158.98
+C0424,William,Jackson,Jackson.William@gmail.com,Male,17,18-25,Dallas,TX,South,5/24/2023,Bronze,1,611.2
+C0425,Barbara,Brown,Brown.Barbara@gmail.com,Female,47,46+,Chicago,IL,Midwest,9/25/2022,Silver,0,0
+C0426,Lisa,Harris,Harris.Lisa@gmail.com,Male,22,18-25,Phoenix,AZ,Southwest,11/25/2021,Bronze,5,4386
+C0427,Karen,Smith,Smith.Karen@gmail.com,Male,51,46+,Chicago,IL,Midwest,4/15/2021,Silver,0,0
+C0428,Omar,White,White.Omar@gmail.com,Male,48,46+,Phoenix,AZ,Southwest,8/27/2021,Bronze,1,1109.65
+C0429,Sarah,Miller,Miller.Sarah@gmail.com,Female,53,46+,Chicago,IL,Midwest,3/7/2022,Silver,3,1821.67
+C0430,Joseph,Johnson,Johnson.Joseph@gmail.com,Female,37,36-45,San Diego,CA,West,3/24/2021,Bronze,0,0
+C0431,Hassan,Thomas,Thomas.Hassan@gmail.com,Male,42,36-45,New York,NY,Northeast,7/11/2022,Silver,4,1816.69
+C0432,Khalid,Wilson,Wilson.Khalid@gmail.com,Female,45,36-45,Chicago,IL,Midwest,4/29/2023,Bronze,1,371.66
+C0433,Omar,Davis,Davis.Omar@gmail.com,Female,19,18-25,Los Angeles,CA,West,3/1/2023,Silver,2,1206.34
+C0434,Mary,Miller,Miller.Mary@gmail.com,Female,20,18-25,Houston,TX,South,1/23/2023,Bronze,3,2451.84
+C0435,Michael,Harris,Harris.Michael@gmail.com,Female,24,18-25,Dallas,TX,South,11/29/2022,Silver,2,1084.29
+C0436,Ahmed,Johnson,Johnson.Ahmed@gmail.com,Male,46,46+,Philadelphia,PA,Northeast,9/17/2021,Silver,1,300.27
+C0437,Susan,Johnson,Johnson.Susan@gmail.com,Male,45,36-45,Phoenix,AZ,Southwest,4/26/2021,Bronze,4,2927
+C0438,James,Garcia,Garcia.James@gmail.com,Female,39,36-45,San Antonio,TX,South,8/22/2022,Bronze,1,533.74
+C0439,Linda,Smith,Smith.Linda@gmail.com,Male,18,18-25,San Antonio,TX,South,8/19/2022,Platinum,2,1415.56
+C0440,Lisa,Jones,Jones.Lisa@gmail.com,Female,23,18-25,San Diego,CA,West,3/1/2023,Bronze,3,1437.46
+C0441,Sarah,Williams,Williams.Sarah@gmail.com,Female,46,46+,Houston,TX,South,2/17/2023,Platinum,3,2220.78
+C0442,Susan,Jones,Jones.Susan@gmail.com,Male,51,46+,New York,NY,Northeast,5/9/2021,Silver,3,926.91
+C0443,Karen,Anderson,Anderson.Karen@gmail.com,Female,39,36-45,Houston,TX,South,1/21/2023,Bronze,1,2144.49
+C0444,Richard,Anderson,Anderson.Richard@gmail.com,Male,23,18-25,New York,NY,Northeast,9/14/2021,Bronze,3,3445.92
+C0445,Joseph,Thompson,Thompson.Joseph@gmail.com,Female,22,18-25,San Diego,CA,West,7/10/2022,Platinum,4,3753
+C0446,Charles,Garcia,Garcia.Charles@gmail.com,Female,45,36-45,San Diego,CA,West,11/28/2021,Platinum,2,1213.41
+C0447,Amira,King,King.Amira@gmail.com,Male,41,36-45,San Diego,CA,West,3/12/2021,Gold,2,1235.56
+C0448,Barbara,Wilson,Wilson.Barbara@gmail.com,Female,33,26-35,Chicago,IL,Midwest,4/10/2022,Bronze,1,529.59
+C0449,Layla,Garcia,Garcia.Layla@gmail.com,Male,37,36-45,Dallas,TX,South,9/27/2022,Silver,2,764.62
+C0450,David,Williams,Williams.David@gmail.com,Female,43,36-45,Austin,TX,South,7/14/2021,Gold,1,122.54
+C0451,Karen,Jones,Jones.Karen@gmail.com,Female,19,18-25,San Diego,CA,West,11/27/2021,Silver,1,988.61
+C0452,Patricia,Martin,Martin.Patricia@gmail.com,Male,49,46+,Philadelphia,PA,Northeast,2/14/2021,Bronze,2,1998.08
+C0453,Mary,Miller,Miller.Mary@gmail.com,Male,14,18-25,Chicago,IL,Midwest,5/13/2022,Bronze,3,1703.03
+C0454,Charles,Thomas,Thomas.Charles@gmail.com,Female,52,46+,Los Angeles,CA,West,6/23/2022,Gold,1,510.14
+C0455,Mary,Anderson,Anderson.Mary@gmail.com,Male,42,36-45,Austin,TX,South,9/13/2022,Platinum,0,0
+C0456,Rania,Miller,Miller.Rania@gmail.com,Female,53,46+,Los Angeles,CA,West,5/3/2023,Bronze,1,103.61
+C0457,Ahmed,Johnson,Johnson.Ahmed@gmail.com,Female,18,18-25,San Diego,CA,West,7/26/2022,Platinum,1,754.92
+C0458,Susan,Johnson,Johnson.Susan@gmail.com,Female,17,18-25,San Antonio,TX,South,6/26/2022,Bronze,1,234.55
+C0459,Barbara,Williams,Williams.Barbara@gmail.com,Male,16,18-25,Los Angeles,CA,West,6/16/2022,Bronze,4,3206.43
+C0460,Linda,Thompson,Thompson.Linda@gmail.com,Female,21,18-25,Los Angeles,CA,West,7/14/2021,Bronze,1,392.66
+C0461,Linda,Young,Young.Linda@gmail.com,Male,24,18-25,Dallas,TX,South,7/26/2022,Platinum,6,3507.46
+C0462,Layla,Brown,Brown.Layla@gmail.com,Female,35,26-35,Dallas,TX,South,11/22/2022,Silver,2,1392
+C0463,Patricia,Garcia,Garcia.Patricia@gmail.com,Male,14,18-25,San Antonio,TX,South,7/18/2022,Silver,1,991.43
+C0464,Fatima,Garcia,Garcia.Fatima@gmail.com,Female,38,36-45,Dallas,TX,South,12/27/2021,Silver,1,191.49
+C0465,Amira,Anderson,Anderson.Amira@gmail.com,Female,39,36-45,Dallas,TX,South,2/22/2023,Platinum,2,1213.51
+C0466,Layla,Taylor,Taylor.Layla@gmail.com,Male,16,18-25,San Antonio,TX,South,7/31/2022,Gold,2,1065.02
+C0467,Hassan,Thompson,Thompson.Hassan@gmail.com,Female,37,36-45,Houston,TX,South,1/4/2022,Silver,1,524.01
+C0468,James,Johnson,Johnson.James@gmail.com,Female,36,36-45,San Diego,CA,West,9/3/2022,Bronze,4,2553.67
+C0469,Khalid,Moore,Moore.Khalid@gmail.com,Male,47,46+,Dallas,TX,South,11/4/2021,Bronze,3,1720.05
+C0470,David,Smith,Smith.David@gmail.com,Female,15,18-25,Houston,TX,South,7/21/2022,Gold,0,0
+C0471,Rania,Young,Young.Rania@gmail.com,Male,28,26-35,Dallas,TX,South,4/7/2021,Bronze,5,3771.43
+C0472,Robert,Jones,Jones.Robert@gmail.com,Female,38,36-45,San Diego,CA,West,1/11/2022,Gold,3,3097.97
+C0473,William,Moore,Moore.William@gmail.com,Male,43,36-45,Houston,TX,South,8/8/2022,Silver,3,2089.41
+C0474,Layla,Williams,Williams.Layla@gmail.com,Female,44,36-45,Austin,TX,South,3/23/2023,Silver,6,4391.95
+C0475,Yusuf,Young,Young.Yusuf@gmail.com,Male,32,26-35,Chicago,IL,Midwest,9/2/2022,Platinum,1,643.16
+C0476,Layla,Young,Young.Layla@gmail.com,Female,52,46+,Phoenix,AZ,Southwest,3/22/2021,Bronze,3,2278.42
+C0477,Khalid,Jackson,Jackson.Khalid@gmail.com,Female,38,36-45,Philadelphia,PA,Northeast,6/8/2023,Bronze,2,1182.65
+C0478,Ahmed,King,King.Ahmed@gmail.com,Male,20,18-25,Houston,TX,South,10/12/2022,Platinum,1,405.29
+C0479,Barbara,Martin,Martin.Barbara@gmail.com,Male,51,46+,San Antonio,TX,South,11/23/2021,Gold,3,1942.59
+C0480,David,Martin,Martin.David@gmail.com,Male,47,46+,Austin,TX,South,6/6/2021,Bronze,1,883.31
+C0481,Hassan,King,King.Hassan@gmail.com,Male,34,26-35,San Antonio,TX,South,8/16/2021,Silver,4,2089.28
+C0482,Richard,Jones,Jones.Richard@gmail.com,Male,18,18-25,Phoenix,AZ,Southwest,12/11/2021,Bronze,2,2145.53
+C0483,Layla,Johnson,Johnson.Layla@gmail.com,Female,28,26-35,San Diego,CA,West,9/26/2021,Bronze,4,3306.39
+C0484,Jessica,Jones,Jones.Jessica@gmail.com,Male,31,26-35,San Antonio,TX,South,5/8/2022,Gold,2,1189.52
+C0485,Richard,Young,Young.Richard@gmail.com,Male,32,26-35,Houston,TX,South,7/29/2022,Gold,4,2559.79
+C0486,Linda,Williams,Williams.Linda@gmail.com,Female,42,36-45,Dallas,TX,South,3/7/2023,Silver,5,4104.89
+C0487,Rania,Young,Young.Rania@gmail.com,Male,23,18-25,Philadelphia,PA,Northeast,4/26/2021,Platinum,2,2247.87
+C0488,Susan,Anderson,Anderson.Susan@gmail.com,Male,35,26-35,San Antonio,TX,South,11/25/2021,Silver,2,2541.89
+C0489,James,Moore,Moore.James@gmail.com,Male,24,18-25,Austin,TX,South,12/25/2021,Gold,3,2257.23
+C0490,Robert,White,White.Robert@gmail.com,Male,26,26-35,San Diego,CA,West,4/18/2023,Bronze,5,3276.31
+C0491,Susan,Jones,Jones.Susan@gmail.com,Male,23,18-25,Houston,TX,South,4/26/2021,Platinum,3,1874.88
+C0492,Lisa,Jones,Jones.Lisa@gmail.com,Female,43,36-45,New York,NY,Northeast,1/15/2021,Silver,1,1101.55
+C0493,Joseph,Harris,Harris.Joseph@gmail.com,Male,40,36-45,Los Angeles,CA,West,12/6/2021,Bronze,4,3142.66
+C0494,Michael,Thompson,Thompson.Michael@gmail.com,Female,44,36-45,Dallas,TX,South,7/16/2022,Silver,1,808.3
+C0495,Robert,Smith,Smith.Robert@gmail.com,Female,21,18-25,Austin,TX,South,8/20/2022,Platinum,4,2044.96
+C0496,William,Garcia,Garcia.William@gmail.com,Male,52,46+,Dallas,TX,South,10/18/2021,Bronze,1,215.49
+C0497,Mary,White,White.Mary@gmail.com,Male,41,36-45,Austin,TX,South,3/10/2021,Silver,1,686.83
+C0498,Amira,Anderson,Anderson.Amira@gmail.com,Male,24,18-25,Phoenix,AZ,Southwest,1/20/2021,Silver,1,272.85
+C0499,Richard,Martin,Martin.Richard@gmail.com,Male,43,36-45,San Antonio,TX,South,11/20/2021,Silver,0,0
+C0500,John,Garcia,Garcia.John@gmail.com,Male,30,26-35,Austin,TX,South,5/28/2022,Silver,2,1239.63

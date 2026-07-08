@@ -1,0 +1,181 @@
+product_id,product_name,brand,category,gender,color,size_available,cost_price,selling_price,profit_margin_pct,stock_quantity,rating,reviews_count
+P0001,Nike Running Classic,Nike,Running,Male,Blue,"37,44,45,40,39,36",83.94,128.64,0.347481343,7,3.2,124
+P0002,Nike Running Classic,Nike,Running,Female,Pink,"39,43,40,42,36,37,45,44",70.54,108.24,0.348300074,71,3.3,495
+P0003,Nike Running Classic,Nike,Running,Unisex,Brown,"45,40,36,41,39,44,43",96.35,157.33,0.387592957,96,3.2,155
+P0004,Nike Casual Pro,Nike,Casual,Male,Beige,"37,36,39,42,38,44",102.94,237.18,0.565983641,59,4.7,199
+P0005,Nike Casual Classic,Nike,Casual,Female,Brown,"39,40,37,44,41,43,42",47.8,111.2,0.570143885,41,3.9,143
+P0006,Nike Casual Pro,Nike,Casual,Unisex,Brown,"39,36,41,45,38",118.95,277.39,0.571181369,16,3.4,487
+P0007,Nike Formal Classic,Nike,Formal,Male,Green,"43,38,40,37,42,45,44,39",76.72,186.68,0.589029355,149,3.9,303
+P0008,Nike Formal Pro,Nike,Formal,Female,Pink,"37,36,45,43,41,42,39,38",59.94,107,0.439813084,16,3.8,310
+P0009,Nike Formal Pro,Nike,Formal,Unisex,Black,"37,44,40,42,41,38,36,45,43,39",119.61,261.69,0.542932477,116,3,374
+P0010,Nike Sports Pro,Nike,Sports,Male,Red,"37,40,39,45,38,42,36,41,44",107.59,198.22,0.457219251,125,3,480
+P0011,Nike Sports Pro,Nike,Sports,Female,Blue,"39,37,44,41,45",56.3,156.57,0.640416427,17,5,277
+P0012,Nike Sports Classic,Nike,Sports,Unisex,Pink,"40,44,42,37,45,43",96.58,160.99,0.400086962,182,3.6,348
+P0013,Nike Sandals Pro,Nike,Sandals,Male,White,"39,37,41,36,40,43",84.99,175.89,0.516800273,58,4.2,8
+P0014,Nike Sandals Classic,Nike,Sandals,Female,Black,"37,44,39,38,41,43,45",27.1,62.88,0.569020356,138,3.3,483
+P0015,Nike Sandals Classic,Nike,Sandals,Unisex,Green,"39,37,44,41,45,38,42,43",108.24,243.44,0.555372987,119,4.7,32
+P0016,Nike Boots Classic,Nike,Boots,Male,Navy,"41,37,39,44,42,40,43,36,45,38",87.34,242.75,0.640205973,71,3.9,452
+P0017,Nike Boots Pro,Nike,Boots,Female,Pink,"36,44,45,43,37",112.33,233.2,0.518310463,42,3.8,251
+P0018,Nike Boots Classic,Nike,Boots,Unisex,Navy,"42,40,43,38,39",41.37,83.62,0.505261899,178,4.9,406
+P0019,Adidas Running Classic,Adidas,Running,Male,Grey,"36,44,45,41,38,43",75.58,183.96,0.589149815,12,4.2,262
+P0020,Adidas Running Classic,Adidas,Running,Female,Pink,"38,37,44,41,43",111.94,245.2,0.543474715,103,3.2,460
+P0021,Adidas Running Classic,Adidas,Running,Unisex,White,"45,44,41,38,37,42,43,39",76.97,173.38,0.55606183,101,3.3,335
+P0022,Adidas Casual Pro,Adidas,Casual,Male,White,"43,37,44,40,45",50,95.55,0.476713762,129,3.5,482
+P0023,Adidas Casual Classic,Adidas,Casual,Female,Grey,"43,44,40,45,41,42",54.9,87.26,0.370845748,2,4.3,288
+P0024,Adidas Casual Pro,Adidas,Casual,Unisex,Red,"37,45,38,43,42,40,44",49.94,117.98,0.576707917,183,3.7,356
+P0025,Adidas Formal Classic,Adidas,Formal,Male,Black,"42,40,36,43,38",83.42,153.76,0.457466181,197,3.3,139
+P0026,Adidas Formal Pro,Adidas,Formal,Female,Pink,"37,45,38,40,36",36.16,75.01,0.517930943,94,4.2,80
+P0027,Adidas Formal Classic,Adidas,Formal,Unisex,Black,"39,45,37,38,40,44,43",62.98,97.89,0.356624783,60,4.7,414
+P0028,Adidas Sports Classic,Adidas,Sports,Male,Brown,"39,40,38,42,41,36,45,44",101.08,267.44,0.622046066,120,3.4,423
+P0029,Adidas Sports Pro,Adidas,Sports,Female,Blue,"36,39,42,38,43,45",111.85,218.62,0.488381667,197,3.6,333
+P0030,Adidas Sports Pro,Adidas,Sports,Unisex,Brown,"37,40,38,44,43",70.94,169.08,0.580435297,9,3.2,227
+P0031,Adidas Sandals Classic,Adidas,Sandals,Male,Pink,"42,39,40,36,41",54.57,137.65,0.603559753,111,3,478
+P0032,Adidas Sandals Pro,Adidas,Sandals,Female,Blue,"42,37,41,40,38,36,43",100.65,240.85,0.582105045,129,3.6,214
+P0033,Adidas Sandals Pro,Adidas,Sandals,Unisex,Blue,"42,38,40,39,43,36,44,37",52.62,126.62,0.584425841,53,3.9,301
+P0034,Adidas Boots Classic,Adidas,Boots,Male,Blue,"43,38,37,44,40,41,42,36,39",80.67,154.8,0.478875969,172,3.6,417
+P0035,Adidas Boots Classic,Adidas,Boots,Female,Green,"37,43,42,41,40,45,39,44,38",39.91,61.13,0.347129069,62,3.3,357
+P0036,Adidas Boots Pro,Adidas,Boots,Unisex,White,"39,38,43,36,40,37,42,41",20.55,50.89,0.596187856,34,4.6,346
+P0037,Puma Running Classic,Puma,Running,Male,Green,"44,42,43,37,41,39,40,45,36",73.11,162.79,0.55089379,163,3.6,403
+P0038,Puma Running Classic,Puma,Running,Female,White,"40,39,45,38,42,43,36,44,41,37",72.13,166.96,0.567980355,98,4.4,366
+P0039,Puma Running Classic,Puma,Running,Unisex,Green,"36,39,42,44,40,45,43,37",41.4,84.43,0.509652967,1,4.9,157
+P0040,Puma Casual Pro,Puma,Casual,Male,Navy,"44,39,43,37,38,45,40,36,42",95.35,248.81,0.616775853,86,4.3,413
+P0041,Puma Casual Classic,Puma,Casual,Female,Red,"44,36,42,40,43,45,41,38,37",60.43,103.61,0.416755139,34,4.7,98
+P0042,Puma Casual Classic,Puma,Casual,Unisex,Brown,"42,40,45,38,36,39,41",25.03,49.88,0.49819567,191,4.1,492
+P0043,Puma Formal Pro,Puma,Formal,Male,Black,"39,45,36,40,37",55,128.99,0.573610357,61,3.3,347
+P0044,Puma Formal Classic,Puma,Formal,Female,Grey,"38,37,45,43,36,40,41",31.44,85.9,0.633993015,79,4.2,469
+P0045,Puma Formal Pro,Puma,Formal,Unisex,White,"39,37,40,42,41,43,36,38,45",115.82,233.45,0.503876633,88,4.1,343
+P0046,Puma Sports Classic,Puma,Sports,Male,Navy,"37,42,41,43,39,45,44,36",57.06,123.12,0.536549708,187,4,338
+P0047,Puma Sports Pro,Puma,Sports,Female,Green,"42,40,41,45,37,36,38,43",47.01,119.91,0.607955967,62,4.5,296
+P0048,Puma Sports Classic,Puma,Sports,Unisex,Brown,"43,39,41,42,38,45",81.03,161.47,0.498173035,71,4.8,364
+P0049,Puma Sandals Pro,Puma,Sandals,Male,Blue,"39,42,43,40,37",108.01,240.06,0.550070816,176,4,369
+P0050,Puma Sandals Classic,Puma,Sandals,Female,Blue,"39,40,41,45,44,43,38,37",69.08,174.83,0.604873305,190,4.1,185
+P0051,Puma Sandals Classic,Puma,Sandals,Unisex,White,"39,41,37,44,40,43,42,36,45,38",90.29,167.23,0.460084913,185,4.2,394
+P0052,Puma Boots Classic,Puma,Boots,Male,Blue,"39,41,38,43,36,40,37",72.46,135.35,0.464647211,70,3.1,32
+P0053,Puma Boots Classic,Puma,Boots,Female,Green,"36,40,43,39,42",75.34,181.32,0.584491507,87,3.4,31
+P0054,Puma Boots Classic,Puma,Boots,Unisex,White,"43,37,36,44,42,40,38,45",45.25,118.57,0.618368896,63,3.2,396
+P0055,Reebok Running Pro,Reebok,Running,Male,Pink,"43,45,40,42,44,39,38,41",61.62,140.18,0.560422314,158,3.1,496
+P0056,Reebok Running Classic,Reebok,Running,Female,Blue,"37,38,39,45,40,36,42",94.01,256.82,0.633945954,0,3.8,357
+P0057,Reebok Running Classic,Reebok,Running,Unisex,Grey,"43,37,39,38,41,40,44,45,36,42",79.38,149.13,0.467712734,165,3.3,141
+P0058,Reebok Casual Classic,Reebok,Casual,Male,Grey,"45,40,43,36,39,38,41,37,44",102.66,163.52,0.372186888,112,3.2,25
+P0059,Reebok Casual Pro,Reebok,Casual,Female,Black,"39,36,40,43,44",108.94,267.44,0.592656297,195,4.5,245
+P0060,Reebok Casual Classic,Reebok,Casual,Unisex,Beige,"43,37,45,38,39,42,40,41",71.9,149.19,0.518064213,26,4.7,173
+P0061,Reebok Formal Pro,Reebok,Formal,Male,Navy,"36,43,37,38,42,41,45,44,39",61.16,131.13,0.533592618,168,4.7,241
+P0062,Reebok Formal Classic,Reebok,Formal,Female,Green,"43,36,39,38,40,37,42,41,45,44",61.32,106.93,0.426540728,7,4.9,316
+P0063,Reebok Formal Classic,Reebok,Formal,Unisex,Black,"42,37,39,45,36,43,41,38,40",99.93,242.1,0.587236679,127,4.9,154
+P0064,Reebok Sports Pro,Reebok,Sports,Male,Green,"43,44,38,39,37,40",70.89,131.53,0.461035505,130,4.5,74
+P0065,Reebok Sports Pro,Reebok,Sports,Female,Navy,"44,40,36,38,41,42,39",106.4,197.81,0.462110106,38,3.9,252
+P0066,Reebok Sports Pro,Reebok,Sports,Unisex,Green,"39,45,42,37,44,36,38",54.51,120.88,0.549056916,190,3.9,472
+P0067,Reebok Sandals Pro,Reebok,Sandals,Male,Red,"36,38,41,42,45,39,43,44",101.14,202.47,0.500469205,116,3,78
+P0068,Reebok Sandals Classic,Reebok,Sandals,Female,Green,"41,42,37,44,38,40,39",61,143.42,0.574675777,81,4.3,459
+P0069,Reebok Sandals Classic,Reebok,Sandals,Unisex,White,"40,39,37,44,36,41",95.94,252.72,0.62037037,113,3.3,158
+P0070,Reebok Boots Pro,Reebok,Boots,Male,Grey,"41,42,38,37,40,39,44",110.34,172.11,0.358898379,43,3.4,317
+P0071,Reebok Boots Classic,Reebok,Boots,Female,Beige,"39,43,40,45,38,36",107.08,246.89,0.56628458,119,4.8,351
+P0072,Reebok Boots Pro,Reebok,Boots,Unisex,Beige,"42,40,43,45,38,37,39",74.66,119.16,0.373447466,123,3.2,200
+P0073,New Balance Running Pro,New Balance,Running,Male,Grey,"42,40,36,44,41",77.19,173.47,0.555023923,199,4.5,30
+P0074,New Balance Running Pro,New Balance,Running,Female,Grey,"45,41,39,44,37,40",111.06,274.18,0.594937632,64,4.4,374
+P0075,New Balance Running Classic,New Balance,Running,Unisex,White,"36,40,43,45,44,38,37,42,39,41",96.75,230.76,0.580733229,191,3.8,107
+P0076,New Balance Casual Pro,New Balance,Casual,Male,Pink,"40,38,45,42,39,44,43,36,37",33.22,73.12,0.545678337,19,3.3,499
+P0077,New Balance Casual Pro,New Balance,Casual,Female,Navy,"41,37,42,36,38,40,43,44,45",42.56,101.26,0.579695833,172,4.5,139
+P0078,New Balance Casual Pro,New Balance,Casual,Unisex,White,"39,43,36,40,42,38,37,41,44,45",78.46,201.57,0.610755569,179,3.6,214
+P0079,New Balance Formal Classic,New Balance,Formal,Male,Green,"37,39,38,44,42",31.67,49.37,0.358517318,94,4.3,385
+P0080,New Balance Formal Pro,New Balance,Formal,Female,Red,"37,43,42,38,36,44,45,39",89.65,197.43,0.545915008,113,4.9,442
+P0081,New Balance Formal Classic,New Balance,Formal,Unisex,Brown,"42,40,39,36,43",56.27,156.16,0.639664447,23,4.3,333
+P0082,New Balance Sports Classic,New Balance,Sports,Male,Brown,"38,39,37,42,40,43",83.95,231.91,0.638006123,150,3.4,450
+P0083,New Balance Sports Pro,New Balance,Sports,Female,Beige,"40,38,44,45,43",43.3,108.54,0.60106873,44,3.2,448
+P0084,New Balance Sports Pro,New Balance,Sports,Unisex,Blue,"41,36,38,43,44,37,39,42,45",22.58,34.31,0.341882833,190,3.1,234
+P0085,New Balance Sandals Classic,New Balance,Sandals,Male,Pink,"45,36,40,39,41,44",97.8,211.95,0.538570418,15,5,438
+P0086,New Balance Sandals Classic,New Balance,Sandals,Female,Green,"37,41,38,36,45",60.16,143.9,0.581931897,70,4.2,304
+P0087,New Balance Sandals Pro,New Balance,Sandals,Unisex,Pink,"43,44,42,36,41,45,37",74.84,143.9,0.479916609,110,3.9,121
+P0088,New Balance Boots Classic,New Balance,Boots,Male,White,"42,41,40,38,37,39,36",61.38,158.09,0.611740148,23,4.7,52
+P0089,New Balance Boots Classic,New Balance,Boots,Female,Red,"36,44,41,43,45,39,38,40,37",63.19,155.95,0.594806028,184,3.1,152
+P0090,New Balance Boots Pro,New Balance,Boots,Unisex,Blue,"43,39,37,38,40,42",80.04,156.65,0.489052027,29,4.5,298
+P0091,Vans Running Pro,Vans,Running,Male,Beige,"44,36,40,45,37,38,43,41,39",42.62,87.71,0.514080493,1,3.4,78
+P0092,Vans Running Classic,Vans,Running,Female,Black,"44,39,42,45,43",76.63,154.87,0.505197908,87,3.3,164
+P0093,Vans Running Pro,Vans,Running,Unisex,White,"38,45,36,41,43",92.16,231.31,0.601573646,69,3.9,222
+P0094,Vans Casual Classic,Vans,Casual,Male,Pink,"41,42,37,38,45",68.57,142.26,0.51799522,173,4.2,274
+P0095,Vans Casual Classic,Vans,Casual,Female,Beige,"36,39,40,37,42",86.71,135.18,0.358558958,195,3.5,172
+P0096,Vans Casual Classic,Vans,Casual,Unisex,Red,"44,39,41,36,45,42,43,40",32,68.69,0.534138885,117,4.8,446
+P0097,Vans Formal Classic,Vans,Formal,Male,Navy,"37,42,36,38,45,40,39",51.31,105.6,0.514109848,176,4.8,50
+P0098,Vans Formal Classic,Vans,Formal,Female,Navy,"37,42,40,41,38,45,44,36,39",63.67,104.27,0.389373741,130,4.3,276
+P0099,Vans Formal Classic,Vans,Formal,Unisex,Red,"37,38,40,45,42,43",71,190.12,0.626551652,39,4.5,340
+P0100,Vans Sports Pro,Vans,Sports,Male,Green,"45,43,41,42,44,38,37,39,36",27.54,75.37,0.634602627,120,3.9,160
+P0101,Vans Sports Classic,Vans,Sports,Female,White,"43,45,36,44,38,41,42",99.63,226.05,0.559256802,165,4.7,442
+P0102,Vans Sports Classic,Vans,Sports,Unisex,Beige,"36,43,39,38,40,44,37,45,41",29.03,65.96,0.559884779,26,4.6,433
+P0103,Vans Sandals Pro,Vans,Sandals,Male,Red,"39,43,44,40,42",54.34,131.97,0.588239751,156,3.3,195
+P0104,Vans Sandals Pro,Vans,Sandals,Female,Beige,"41,37,45,36,40",111.79,223.99,0.500915219,173,3.8,134
+P0105,Vans Sandals Pro,Vans,Sandals,Unisex,Red,"37,38,41,44,43,39,45",92.37,217.4,0.575114995,152,4.4,48
+P0106,Vans Boots Pro,Vans,Boots,Male,Red,"44,37,42,40,38,36,41,45,43,39",50.96,101.39,0.49738633,87,4.9,253
+P0107,Vans Boots Classic,Vans,Boots,Female,Grey,"44,45,36,41,38",39.2,109.76,0.642857143,196,4.2,310
+P0108,Vans Boots Pro,Vans,Boots,Unisex,Beige,"43,36,42,38,41,37",57.67,98.67,0.415526502,113,4.2,390
+P0109,Converse Running Pro,Converse,Running,Male,Grey,"39,41,43,45,38,42,40,36",94.85,197.63,0.520062744,51,4.6,75
+P0110,Converse Running Classic,Converse,Running,Female,Brown,"37,44,45,38,36,43,42,40,41",107.3,168.23,0.362182726,111,3.2,471
+P0111,Converse Running Classic,Converse,Running,Unisex,Black,"36,42,41,37,39,45,38,40",42.2,88.05,0.52072686,7,3.6,55
+P0112,Converse Casual Pro,Converse,Casual,Male,Red,"40,43,38,42,41",103.92,243.69,0.573556568,120,3.9,7
+P0113,Converse Casual Classic,Converse,Casual,Female,Red,"45,44,42,36,38,37,41,43,39",110.59,168.62,0.344146602,61,3.8,411
+P0114,Converse Casual Pro,Converse,Casual,Unisex,Green,"44,36,39,41,37,38,43,45,42",82.28,130.14,0.367757799,61,4.1,100
+P0115,Converse Formal Pro,Converse,Formal,Male,White,"44,45,36,39,42,43,41,37,38",86.44,139.28,0.379379667,191,3,408
+P0116,Converse Formal Pro,Converse,Formal,Female,White,"41,38,36,44,40,42,37,45,39",26.76,48.53,0.448588502,178,4,98
+P0117,Converse Formal Pro,Converse,Formal,Unisex,Green,"40,39,36,42,37",101.15,160.02,0.367891514,10,3.6,163
+P0118,Converse Sports Pro,Converse,Sports,Male,Grey,"39,40,41,42,36",71.54,199.3,0.641043653,167,3.7,68
+P0119,Converse Sports Classic,Converse,Sports,Female,Green,"41,38,43,45,39,44,40,36",99.93,206.66,0.516452144,186,3.8,225
+P0120,Converse Sports Pro,Converse,Sports,Unisex,Brown,"37,41,40,38,39",80.25,206.17,0.610758112,154,4.4,90
+P0121,Converse Sandals Classic,Converse,Sandals,Male,Brown,"42,40,36,43,41,39,38,44,45",88.98,174.13,0.489002469,7,3.3,316
+P0122,Converse Sandals Classic,Converse,Sandals,Female,Blue,"41,45,42,40,36,43,37,38,39,44",87.81,181.73,0.516810653,95,3.9,44
+P0123,Converse Sandals Classic,Converse,Sandals,Unisex,Grey,"37,36,38,39,40,42",77.39,169.35,0.54301742,143,3.2,401
+P0124,Converse Boots Pro,Converse,Boots,Male,Grey,"43,39,37,45,36,44,42,38,40,41",46.03,95.75,0.51926893,174,4.9,168
+P0125,Converse Boots Pro,Converse,Boots,Female,Grey,"38,45,41,40,37,36,43",86.78,210.22,0.587194368,35,3.5,257
+P0126,Converse Boots Classic,Converse,Boots,Unisex,Pink,"45,37,44,38,39,41",22.63,50.24,0.549562102,134,3.8,214
+P0127,Timberland Running Pro,Timberland,Running,Male,White,"43,44,41,37,40,45,42,36",102.33,163.31,0.373400282,110,4,449
+P0128,Timberland Running Classic,Timberland,Running,Female,Red,"41,39,45,40,38,36",25.54,42.43,0.398067405,64,3.4,494
+P0129,Timberland Running Classic,Timberland,Running,Unisex,Pink,"44,38,45,37,41",75.08,124.84,0.398590195,159,4.4,314
+P0130,Timberland Casual Classic,Timberland,Casual,Male,Black,"36,40,39,42,44",53.76,145.21,0.629777564,106,4.2,20
+P0131,Timberland Casual Classic,Timberland,Casual,Female,Grey,"39,42,40,45,36,41,37,44",69.8,161.61,0.568096034,106,4,109
+P0132,Timberland Casual Pro,Timberland,Casual,Unisex,Brown,"41,42,38,44,43,40,36,37,39,45",54.02,91.12,0.407155399,31,3.5,131
+P0133,Timberland Formal Pro,Timberland,Formal,Male,Beige,"39,38,41,40,43,44,37,36",34.09,53.38,0.3613713,127,5,244
+P0134,Timberland Formal Classic,Timberland,Formal,Female,Navy,"43,39,44,40,38,36,42,37,41",69.88,132.85,0.473993225,152,4.8,339
+P0135,Timberland Formal Classic,Timberland,Formal,Unisex,White,"38,40,41,42,39,45,36,37",87.25,163.29,0.465674567,13,4.1,104
+P0136,Timberland Sports Classic,Timberland,Sports,Male,Green,"40,37,38,36,39,43,45,41,44",56.25,105.48,0.466723549,193,3.3,313
+P0137,Timberland Sports Classic,Timberland,Sports,Female,Red,"41,43,44,37,40,45,42,39,38,36",70.91,152.46,0.534894399,100,5,383
+P0138,Timberland Sports Pro,Timberland,Sports,Unisex,Pink,"43,40,45,42,36,38,44,39,41",104.26,236.86,0.559824369,106,4.2,412
+P0139,Timberland Sandals Pro,Timberland,Sandals,Male,Beige,"40,39,36,45,44,37,41,43",109.88,289.39,0.620304779,174,3.5,298
+P0140,Timberland Sandals Classic,Timberland,Sandals,Female,Brown,"38,42,39,43,40,41,44,45",114.82,188.63,0.391295128,186,3.1,75
+P0141,Timberland Sandals Pro,Timberland,Sandals,Unisex,Green,"42,41,38,39,40,43,44,45,37",71.87,160.21,0.551401286,156,4,495
+P0142,Timberland Boots Classic,Timberland,Boots,Male,Grey,"39,43,41,45,38,40,44",44.65,99.37,0.550669216,73,3.2,351
+P0143,Timberland Boots Classic,Timberland,Boots,Female,Brown,"40,36,45,41,44,38",74.32,198.02,0.624684375,113,4.3,387
+P0144,Timberland Boots Pro,Timberland,Boots,Unisex,Pink,"40,38,37,45,41,42,43,36,44,39",67.91,119.7,0.432664996,163,3.5,56
+P0145,Skechers Running Classic,Skechers,Running,Male,Red,"44,38,42,41,39",61.33,149.19,0.588913466,122,4.3,392
+P0146,Skechers Running Pro,Skechers,Running,Female,White,"45,39,36,37,44,42,43,40,38,41",116.39,223.18,0.478492696,191,4.9,479
+P0147,Skechers Running Classic,Skechers,Running,Unisex,Beige,"41,40,43,45,44",48.95,75.81,0.35430682,134,4,485
+P0148,Skechers Casual Classic,Skechers,Casual,Male,White,"38,43,40,41,37,36,45",33.42,72.04,0.536091061,75,4.1,392
+P0149,Skechers Casual Pro,Skechers,Casual,Female,Navy,"44,41,37,39,45,36,43,40",39.32,90.21,0.564128145,122,3.6,132
+P0150,Skechers Casual Classic,Skechers,Casual,Unisex,Grey,"40,36,45,41,38,37,44",20.68,41.33,0.499637068,170,3.2,162
+P0151,Skechers Formal Pro,Skechers,Formal,Male,Grey,"37,40,41,44,45,43,42,39,36,38",35.97,86.04,0.581938633,191,5,196
+P0152,Skechers Formal Classic,Skechers,Formal,Female,Pink,"39,45,37,40,44,42,38,36,41,43",61.58,136.34,0.548335045,140,4.8,108
+P0153,Skechers Formal Classic,Skechers,Formal,Unisex,Pink,"37,39,43,36,40,44,42,45",77.27,130.96,0.409972511,33,4,238
+P0154,Skechers Sports Pro,Skechers,Sports,Male,Grey,"36,42,40,44,45,37,41,39,43,38",76.39,170.08,0.55085842,179,3.1,35
+P0155,Skechers Sports Pro,Skechers,Sports,Female,Black,"42,38,44,45,41,39,43",113.46,180.37,0.370959694,97,3.9,474
+P0156,Skechers Sports Pro,Skechers,Sports,Unisex,Pink,"41,37,38,40,39,42",110.68,220.07,0.497069114,32,4.5,119
+P0157,Skechers Sandals Pro,Skechers,Sandals,Male,Green,"44,42,45,43,37,41,39,40,36,38",103.48,256.94,0.597260061,48,4.9,376
+P0158,Skechers Sandals Pro,Skechers,Sandals,Female,Beige,"39,45,37,36,40",96.55,148.87,0.351447572,8,3.9,349
+P0159,Skechers Sandals Pro,Skechers,Sandals,Unisex,Navy,"39,44,45,42,36,37,38,41",90.33,141.21,0.360314425,187,4.2,300
+P0160,Skechers Boots Classic,Skechers,Boots,Male,Grey,"44,39,42,38,43,36",79.79,189.44,0.578811233,142,4.9,455
+P0161,Skechers Boots Pro,Skechers,Boots,Female,Pink,"36,41,42,43,40,38,39,37",93.52,161.57,0.421179674,38,3.6,99
+P0162,Skechers Boots Pro,Skechers,Boots,Unisex,Grey,"38,43,36,40,39,41,37,42,44,45",95.44,201.91,0.52731415,52,3.7,45
+P0163,Clarks Running Classic,Clarks,Running,Male,Blue,"40,42,36,44,43",112.22,291.91,0.615566442,48,4.6,305
+P0164,Clarks Running Classic,Clarks,Running,Female,Brown,"36,39,44,41,45,43,37",92.43,205.8,0.550874636,178,4.2,109
+P0165,Clarks Running Classic,Clarks,Running,Unisex,Grey,"43,44,41,38,42,45,39,37",59.66,108.05,0.447848218,25,4.6,374
+P0166,Clarks Casual Pro,Clarks,Casual,Male,Brown,"42,36,39,41,37,44,38",66.95,173.51,0.614143277,141,4.9,301
+P0167,Clarks Casual Classic,Clarks,Casual,Female,Blue,"45,39,43,40,41,38,42,37",92,173.3,0.469128679,185,4.3,256
+P0168,Clarks Casual Classic,Clarks,Casual,Unisex,Red,"44,43,38,40,41,36,42,39,45,37",66.08,162.07,0.592274943,105,3.3,327
+P0169,Clarks Formal Classic,Clarks,Formal,Male,Pink,"41,36,43,45,39,44,40,38",43.14,104.37,0.586662834,141,3.8,13
+P0170,Clarks Formal Pro,Clarks,Formal,Female,Black,"42,38,37,36,40,43,41,45,39",72.94,135.46,0.461538462,90,3.5,208
+P0171,Clarks Formal Classic,Clarks,Formal,Unisex,Blue,"39,40,37,41,42,36,44,43,38,45",27.9,76.64,0.635960334,141,4,331
+P0172,Clarks Sports Classic,Clarks,Sports,Male,Navy,"41,37,36,44,42,40,39,45,43,38",20.95,36.09,0.419506789,175,4.9,465
+P0173,Clarks Sports Classic,Clarks,Sports,Female,Brown,"39,38,42,36,44",74.3,175.02,0.575477088,41,4.1,295
+P0174,Clarks Sports Pro,Clarks,Sports,Unisex,Brown,"38,37,41,36,42,39,44,43",103.47,207.55,0.501469525,87,4.2,319
+P0175,Clarks Sandals Pro,Clarks,Sandals,Male,Black,"40,43,44,37,38,45,39,42,36,41",115.49,232.79,0.503887624,21,4.5,156
+P0176,Clarks Sandals Classic,Clarks,Sandals,Female,Red,"38,42,41,45,36,43,40,37",99.81,242.24,0.587970608,113,3.7,143
+P0177,Clarks Sandals Classic,Clarks,Sandals,Unisex,Pink,"44,42,37,36,45,38,41,40,43",30.22,48.76,0.380229696,98,3,216
+P0178,Clarks Boots Pro,Clarks,Boots,Male,Blue,"44,38,42,37,43,45,40,41,39",58.78,94.64,0.378909552,37,3.1,227
+P0179,Clarks Boots Pro,Clarks,Boots,Female,Brown,"39,43,45,44,36,37,38",47.6,89.95,0.470817121,1,4.9,175
+P0180,Clarks Boots Pro,Clarks,Boots,Unisex,Green,"42,38,40,44,43,37,39",104.16,207.68,0.498459168,80,3.4,208

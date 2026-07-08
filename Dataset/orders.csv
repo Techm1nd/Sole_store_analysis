@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,month,quarter,year,order_status,sales_channel,payment_method,discount_pct,subtotal,shipping_cost,order_total,delivery_days
+O00001,C0288,12/31/2023,December,Q4,2023,Delivered,Mobile App,Google Pay,0,287.8,0,287.8,12
+O00002,C0081,1/19/2022,January,Q1,2022,Delivered,In-Store,PayPal,0,1596.55,0,1596.55,4
+O00003,C0078,12/16/2022,December,Q4,2022,Delivered,Online,Apple Pay,0.1,999.5,0,999.5,6
+O00004,C0230,7/10/2023,July,Q3,2023,Returned,Mobile App,Google Pay,0.1,583.45,0,583.45,
+O00005,C0466,5/19/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0,861.86,0,861.86,8
+O00006,C0382,10/15/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0,1815.27,0,1815.27,10
+O00007,C0119,8/25/2022,August,Q3,2022,Delivered,Online,Apple Pay,0,374.52,0,374.52,12
+O00008,C0333,1/18/2023,January,Q1,2023,Delivered,Online,Apple Pay,0,399.54,0,399.54,5
+O00009,C0487,2/27/2023,February,Q1,2023,Returned,Mobile App,Credit Card,0,634.98,0,634.98,
+O00010,C0219,2/19/2023,February,Q1,2023,Delivered,In-Store,Apple Pay,0.1,204.69,0,204.69,9
+O00011,C0329,12/23/2023,December,Q4,2023,Delivered,Online,Apple Pay,0.2,125.26,0,125.26,9
+O00012,C0203,2/10/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0.05,902.44,0,902.44,14
+O00013,C0331,4/8/2023,April,Q2,2023,Delivered,Mobile App,Google Pay,0.15,160.34,0,160.34,7
+O00014,C0166,4/7/2023,April,Q2,2023,Delivered,Online,Google Pay,0.15,230.1,0,230.1,5
+O00015,C0166,12/10/2023,December,Q4,2023,Delivered,Online,Credit Card,0.15,826.86,0,826.86,12
+O00016,C0406,6/8/2023,June,Q2,2023,Delivered,Mobile App,Apple Pay,0,401.6,0,401.6,3
+O00017,C0394,12/31/2023,December,Q4,2023,Delivered,In-Store,PayPal,0.15,236.78,0,236.78,2
+O00018,C0461,5/15/2022,May,Q2,2022,Delivered,Mobile App,PayPal,0,441.03,0,441.03,8
+O00019,C0122,8/11/2022,August,Q3,2022,Pending,Online,Apple Pay,0,1067.19,0,1067.19,
+O00020,C0029,10/31/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0.15,447.91,0,447.91,3
+O00021,C0345,10/19/2022,October,Q4,2022,Pending,Mobile App,PayPal,0,438.48,0,438.48,
+O00022,C0389,3/14/2023,March,Q1,2023,Cancelled,Online,Debit Card,0,189.28,0,189.28,
+O00023,C0270,2/28/2023,February,Q1,2023,Returned,Mobile App,Credit Card,0,631.25,0,631.25,
+O00024,C0479,12/25/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0,921.58,0,921.58,12
+O00025,C0324,5/25/2023,May,Q2,2023,Delivered,Mobile App,Debit Card,0.15,1321,0,1321,7
+O00026,C0024,12/8/2022,December,Q4,2022,Returned,Online,Debit Card,0.15,745.31,0,745.31,
+O00027,C0059,12/4/2023,December,Q4,2023,Delivered,Online,Google Pay,0.1,1137.63,0,1137.63,11
+O00028,C0070,5/9/2023,May,Q2,2023,Pending,Mobile App,PayPal,0.05,982.77,0,982.77,
+O00029,C0285,7/3/2023,July,Q3,2023,Returned,Mobile App,PayPal,0.2,70.17,4.21,74.38,
+O00030,C0016,12/14/2022,December,Q4,2022,Delivered,Mobile App,Google Pay,0.05,1201.59,0,1201.59,4
+O00031,C0191,4/8/2023,April,Q2,2023,Returned,Mobile App,PayPal,0,554.22,0,554.22,
+O00032,C0464,5/28/2023,May,Q2,2023,Returned,In-Store,Apple Pay,0.15,445.42,0,445.42,
+O00033,C0347,5/16/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.15,256.64,0,256.64,14
+O00034,C0045,12/8/2022,December,Q4,2022,Delivered,Online,Google Pay,0.2,820.05,0,820.05,6
+O00035,C0396,3/28/2023,March,Q1,2023,Cancelled,Mobile App,Debit Card,0,169.08,0,169.08,
+O00036,C0287,6/11/2023,June,Q2,2023,Returned,Mobile App,PayPal,0.1,417.44,0,417.44,
+O00037,C0483,12/23/2023,December,Q4,2023,Returned,Mobile App,Credit Card,0,1236.56,0,1236.56,
+O00038,C0055,1/28/2023,January,Q1,2023,Delivered,Online,Apple Pay,0,392.88,0,392.88,10
+O00039,C0183,11/16/2022,November,Q4,2022,Returned,Mobile App,Credit Card,0.2,591.16,0,591.16,
+O00040,C0241,8/26/2022,August,Q3,2022,Delivered,Mobile App,PayPal,0,917.97,0,917.97,8
+O00041,C0016,3/8/2022,March,Q1,2022,Delivered,In-Store,Apple Pay,0.05,1379.57,0,1379.57,11
+O00042,C0037,11/6/2022,November,Q4,2022,Delivered,Mobile App,Apple Pay,0,891.95,0,891.95,10
+O00043,C0404,12/17/2022,December,Q4,2022,Delivered,Online,Google Pay,0.2,775.06,0,775.06,9
+O00044,C0050,4/1/2023,April,Q2,2023,Cancelled,Online,Credit Card,0.1,1158.14,0,1158.14,
+O00045,C0331,11/8/2023,November,Q4,2023,Delivered,Mobile App,Debit Card,0.1,262.72,0,262.72,11
+O00046,C0077,4/9/2023,April,Q2,2023,Delivered,Mobile App,Google Pay,0.05,1276.79,0,1276.79,2
+O00047,C0299,1/9/2022,January,Q1,2022,Delivered,In-Store,Credit Card,0,933.92,0,933.92,7
+O00048,C0321,11/22/2022,November,Q4,2022,Delivered,Online,Apple Pay,0.1,1075.67,0,1075.67,14
+O00049,C0344,5/9/2022,May,Q2,2022,Delivered,Online,Credit Card,0,524.81,0,524.81,11
+O00050,C0413,3/2/2023,March,Q1,2023,Delivered,Mobile App,Debit Card,0.05,729.71,0,729.71,8
+O00051,C0434,8/31/2022,August,Q3,2022,Delivered,Mobile App,Google Pay,0,1167.96,0,1167.96,3
+O00052,C0374,6/24/2023,June,Q2,2023,Pending,Mobile App,Credit Card,0.1,1351.76,0,1351.76,
+O00053,C0314,2/24/2022,February,Q1,2022,Delivered,Online,Apple Pay,0.1,640.65,0,640.65,12
+O00054,C0473,9/4/2023,September,Q3,2023,Cancelled,Online,Apple Pay,0.1,493.21,0,493.21,
+O00055,C0249,3/26/2022,March,Q1,2022,Delivered,In-Store,PayPal,0,416.9,0,416.9,10
+O00056,C0090,8/29/2023,August,Q3,2023,Pending,In-Store,Debit Card,0,808.75,0,808.75,
+O00057,C0176,3/28/2022,March,Q1,2022,Delivered,Online,Apple Pay,0.2,771,0,771,4
+O00058,C0296,12/20/2022,December,Q4,2022,Cancelled,Online,Credit Card,0,413.32,0,413.32,
+O00059,C0155,5/3/2023,May,Q2,2023,Delivered,Online,Apple Pay,0,544.88,0,544.88,7
+O00060,C0348,11/20/2022,November,Q4,2022,Delivered,Mobile App,PayPal,0.2,211.32,0,211.32,6
+O00061,C0139,10/1/2022,October,Q4,2022,Cancelled,Mobile App,Apple Pay,0.05,498.81,0,498.81,
+O00062,C0376,11/20/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0.1,299.12,0,299.12,2
+O00063,C0269,4/17/2022,April,Q2,2022,Delivered,Mobile App,PayPal,0,1943.57,0,1943.57,2
+O00064,C0439,9/12/2023,September,Q3,2023,Delivered,Mobile App,Debit Card,0,502.84,0,502.84,11
+O00065,C0233,10/11/2022,October,Q4,2022,Delivered,In-Store,Debit Card,0.2,1047.09,0,1047.09,8
+O00066,C0476,7/25/2022,July,Q3,2022,Delivered,Online,Credit Card,0,1449.96,0,1449.96,10
+O00067,C0373,9/14/2022,September,Q3,2022,Delivered,Online,Debit Card,0.15,861.32,0,861.32,12
+O00068,C0482,5/18/2023,May,Q2,2023,Delivered,Online,Credit Card,0.1,1115.54,0,1115.54,7
+O00069,C0029,10/10/2023,October,Q4,2023,Delivered,Mobile App,PayPal,0,398.6,0,398.6,3
+O00070,C0284,2/10/2022,February,Q1,2022,Returned,In-Store,Apple Pay,0,713.28,0,713.28,
+O00071,C0369,8/31/2023,August,Q3,2023,Pending,Online,Credit Card,0.2,722.34,0,722.34,
+O00072,C0495,1/17/2022,January,Q1,2022,Delivered,Online,PayPal,0.2,250.52,0,250.52,4
+O00073,C0414,11/1/2023,November,Q4,2023,Delivered,Mobile App,Debit Card,0,898.9,0,898.9,11
+O00074,C0026,11/11/2022,November,Q4,2022,Pending,Mobile App,Debit Card,0.2,109.07,0,109.07,
+O00075,C0059,5/25/2023,May,Q2,2023,Delivered,Mobile App,Apple Pay,0,811.01,0,811.01,9
+O00076,C0071,11/26/2022,November,Q4,2022,Delivered,Mobile App,Debit Card,0,741.7,0,741.7,12
+O00077,C0190,7/21/2023,July,Q3,2023,Pending,Mobile App,Google Pay,0,333.41,0,333.41,
+O00078,C0009,5/14/2023,May,Q2,2023,Delivered,Online,Debit Card,0,519.9,0,519.9,7
+O00079,C0356,5/3/2023,May,Q2,2023,Returned,Mobile App,PayPal,0.1,317.43,0,317.43,
+O00080,C0306,7/4/2022,July,Q3,2022,Delivered,In-Store,PayPal,0.05,1038.36,0,1038.36,8
+O00081,C0395,10/4/2023,October,Q4,2023,Cancelled,Online,Debit Card,0,411.1,0,411.1,
+O00082,C0344,2/14/2022,February,Q1,2022,Delivered,In-Store,Debit Card,0.05,375.84,0,375.84,13
+O00083,C0456,4/10/2023,April,Q2,2023,Delivered,Online,Google Pay,0,103.61,0,103.61,9
+O00084,C0060,3/14/2022,March,Q1,2022,Pending,Mobile App,Google Pay,0,463.24,0,463.24,
+O00085,C0167,8/22/2022,August,Q3,2022,Returned,Online,Debit Card,0.05,141.67,0,141.67,
+O00086,C0300,5/12/2023,May,Q2,2023,Delivered,Mobile App,Debit Card,0.1,144.02,0,144.02,6
+O00087,C0070,4/14/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0,641.55,0,641.55,3
+O00088,C0057,4/22/2023,April,Q2,2023,Delivered,Mobile App,PayPal,0,1275.68,0,1275.68,8
+O00089,C0442,8/10/2022,August,Q3,2022,Pending,In-Store,Credit Card,0.15,1266.16,0,1266.16,
+O00090,C0021,4/27/2023,April,Q2,2023,Delivered,Mobile App,Apple Pay,0.05,85.45,7.43,92.88,2
+O00091,C0286,1/13/2022,January,Q1,2022,Returned,Mobile App,PayPal,0,852.51,0,852.51,
+O00092,C0238,5/22/2022,May,Q2,2022,Delivered,In-Store,Apple Pay,0.15,1411.66,0,1411.66,9
+O00093,C0295,8/1/2022,August,Q3,2022,Delivered,Online,Google Pay,0.15,120.92,0,120.92,7
+O00094,C0188,4/22/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0.15,305.25,0,305.25,9
+O00095,C0364,7/29/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0,1027.95,0,1027.95,13
+O00096,C0382,8/19/2022,August,Q3,2022,Delivered,In-Store,Google Pay,0.15,694.61,0,694.61,9
+O00097,C0425,5/6/2022,May,Q2,2022,Cancelled,Online,Google Pay,0,917.94,0,917.94,
+O00098,C0085,10/10/2022,October,Q4,2022,Delivered,Online,Debit Card,0.2,435.18,0,435.18,5
+O00099,C0214,11/30/2023,November,Q4,2023,Pending,In-Store,Apple Pay,0.05,593.18,0,593.18,
+O00100,C0447,8/26/2022,August,Q3,2022,Delivered,Mobile App,PayPal,0.15,887.3,0,887.3,10
+O00101,C0068,11/10/2022,November,Q4,2022,Cancelled,Mobile App,Apple Pay,0,625.96,0,625.96,
+O00102,C0490,6/20/2022,June,Q2,2022,Cancelled,Mobile App,Debit Card,0.2,137.02,0,137.02,
+O00103,C0022,11/21/2022,November,Q4,2022,Pending,In-Store,PayPal,0,903.06,0,903.06,
+O00104,C0177,6/1/2022,June,Q2,2022,Pending,Mobile App,Debit Card,0.1,915.6,0,915.6,
+O00105,C0003,7/14/2023,July,Q3,2023,Cancelled,Online,PayPal,0.2,705.28,0,705.28,
+O00106,C0461,2/11/2022,February,Q1,2022,Delivered,In-Store,Credit Card,0.05,409.97,0,409.97,1
+O00107,C0312,10/19/2023,October,Q4,2023,Returned,In-Store,Debit Card,0,901.68,0,901.68,
+O00108,C0100,5/18/2023,May,Q2,2023,Delivered,In-Store,Apple Pay,0,987.06,0,987.06,8
+O00109,C0448,7/29/2023,July,Q3,2023,Returned,Online,Apple Pay,0.2,208.22,0,208.22,
+O00110,C0413,3/11/2023,March,Q1,2023,Delivered,Mobile App,Google Pay,0,1191.81,0,1191.81,11
+O00111,C0469,10/7/2022,October,Q4,2022,Delivered,Mobile App,Apple Pay,0.15,1035.98,0,1035.98,8
+O00112,C0287,4/20/2023,April,Q2,2023,Delivered,Online,Debit Card,0,509.58,0,509.58,7
+O00113,C0092,5/19/2023,May,Q2,2023,Delivered,Online,PayPal,0.05,723.06,0,723.06,10
+O00114,C0224,9/22/2022,September,Q3,2022,Delivered,In-Store,Google Pay,0.15,707.21,0,707.21,1
+O00115,C0140,1/5/2023,January,Q1,2023,Delivered,Online,PayPal,0,738.72,0,738.72,14
+O00116,C0433,12/3/2023,December,Q4,2023,Cancelled,In-Store,Credit Card,0.1,611.03,0,611.03,
+O00117,C0211,12/15/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0.1,1050.81,0,1050.81,14
+O00118,C0273,12/31/2023,December,Q4,2023,Delivered,Online,Credit Card,0,154.8,0,154.8,6
+O00119,C0160,12/9/2023,December,Q4,2023,Delivered,Online,Google Pay,0.1,896.62,0,896.62,12
+O00120,C0117,11/11/2022,November,Q4,2022,Returned,Mobile App,Credit Card,0.05,461.7,0,461.7,
+O00121,C0022,7/21/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0,174.13,0,174.13,1
+O00122,C0034,11/5/2022,November,Q4,2022,Delivered,Online,Google Pay,0,86.04,10.06,96.1,1
+O00123,C0047,5/30/2022,May,Q2,2022,Delivered,In-Store,Debit Card,0.2,761.78,0,761.78,9
+O00124,C0112,7/16/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.15,553.01,0,553.01,11
+O00125,C0491,4/20/2022,April,Q2,2022,Delivered,Online,Apple Pay,0,717.12,0,717.12,8
+O00126,C0057,6/17/2023,June,Q2,2023,Pending,In-Store,PayPal,0.1,367.82,0,367.82,
+O00127,C0146,4/13/2023,April,Q2,2023,Pending,Mobile App,Google Pay,0.05,926.74,0,926.74,
+O00128,C0346,5/19/2023,May,Q2,2023,Delivered,Online,Google Pay,0.15,176.42,0,176.42,3
+O00129,C0203,2/15/2023,February,Q1,2023,Delivered,Online,PayPal,0,143.9,0,143.9,14
+O00130,C0207,5/6/2022,May,Q2,2022,Delivered,Online,PayPal,0.2,362.48,0,362.48,11
+O00131,C0309,2/19/2023,February,Q1,2023,Cancelled,Mobile App,Apple Pay,0,631.81,0,631.81,
+O00132,C0348,1/28/2022,January,Q1,2022,Delivered,Mobile App,PayPal,0,794.15,0,794.15,13
+O00133,C0253,4/23/2023,April,Q2,2023,Cancelled,Online,Apple Pay,0.1,1145.79,0,1145.79,
+O00134,C0488,2/2/2022,February,Q1,2022,Delivered,Online,Apple Pay,0,1490.36,0,1490.36,3
+O00135,C0160,2/3/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.15,1653.44,0,1653.44,8
+O00136,C0303,1/22/2023,January,Q1,2023,Cancelled,In-Store,Credit Card,0,882.27,0,882.27,
+O00137,C0195,4/10/2022,April,Q2,2022,Delivered,In-Store,Apple Pay,0,1639.18,0,1639.18,6
+O00138,C0087,1/21/2022,January,Q1,2022,Delivered,Online,Apple Pay,0.1,803.31,0,803.31,10
+O00139,C0200,11/27/2022,November,Q4,2022,Pending,Online,Debit Card,0,127.29,0,127.29,
+O00140,C0086,9/22/2023,September,Q3,2023,Delivered,Online,Debit Card,0.05,1193.23,0,1193.23,7
+O00141,C0412,8/20/2022,August,Q3,2022,Delivered,Mobile App,PayPal,0,250.86,0,250.86,8
+O00142,C0219,8/3/2022,August,Q3,2022,Delivered,In-Store,Google Pay,0.2,530.21,0,530.21,10
+O00143,C0264,4/10/2023,April,Q2,2023,Delivered,Mobile App,Debit Card,0.1,366.89,0,366.89,13
+O00144,C0315,3/21/2023,March,Q1,2023,Returned,In-Store,Apple Pay,0,106.93,0,106.93,
+O00145,C0433,3/22/2023,March,Q1,2023,Delivered,Online,Debit Card,0.2,1045.8,0,1045.8,3
+O00146,C0099,1/29/2022,January,Q1,2022,Cancelled,Online,Apple Pay,0.1,835.83,0,835.83,
+O00147,C0140,5/20/2022,May,Q2,2022,Cancelled,In-Store,Google Pay,0,108.05,0,108.05,
+O00148,C0401,1/21/2022,January,Q1,2022,Delivered,In-Store,Google Pay,0,466.4,0,466.4,11
+O00149,C0337,4/3/2022,April,Q2,2022,Delivered,Mobile App,Credit Card,0.1,911.34,0,911.34,13
+O00150,C0414,11/17/2022,November,Q4,2022,Delivered,Mobile App,Apple Pay,0,1164.57,0,1164.57,1
+O00151,C0252,7/1/2023,July,Q3,2023,Delivered,In-Store,Google Pay,0.05,1162.43,0,1162.43,14
+O00152,C0158,1/22/2022,January,Q1,2022,Delivered,Mobile App,PayPal,0.1,342.22,0,342.22,13
+O00153,C0351,5/5/2022,May,Q2,2022,Pending,Online,Credit Card,0.05,497.82,0,497.82,
+O00154,C0441,6/14/2022,June,Q2,2022,Delivered,Online,Credit Card,0,1223.56,0,1223.56,6
+O00155,C0216,9/9/2023,September,Q3,2023,Pending,Online,Credit Card,0.15,492.55,0,492.55,
+O00156,C0161,8/13/2023,August,Q3,2023,Delivered,Mobile App,Debit Card,0.1,155.97,0,155.97,11
+O00157,C0211,11/24/2022,November,Q4,2022,Pending,Mobile App,PayPal,0,896.17,0,896.17,
+O00158,C0115,1/22/2022,January,Q1,2022,Returned,Online,Apple Pay,0,430.26,0,430.26,
+O00159,C0026,2/15/2023,February,Q1,2023,Cancelled,Mobile App,Credit Card,0,1354.19,0,1354.19,
+O00160,C0366,7/28/2022,July,Q3,2022,Cancelled,In-Store,Apple Pay,0.05,230.71,0,230.71,
+O00161,C0373,11/25/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0.2,352.74,0,352.74,8
+O00162,C0465,9/12/2022,September,Q3,2022,Pending,Online,Credit Card,0.05,695.2,0,695.2,
+O00163,C0377,9/4/2023,September,Q3,2023,Delivered,Online,Google Pay,0,950.85,0,950.85,1
+O00164,C0130,6/1/2023,June,Q2,2023,Cancelled,Online,PayPal,0,1012.65,0,1012.65,
+O00165,C0163,12/29/2023,December,Q4,2023,Delivered,In-Store,Credit Card,0,1059.39,0,1059.39,6
+O00166,C0224,6/18/2022,June,Q2,2022,Pending,Mobile App,Google Pay,0.2,451.93,0,451.93,
+O00167,C0019,4/27/2023,April,Q2,2023,Delivered,Online,Apple Pay,0,900.04,0,900.04,14
+O00168,C0369,6/1/2022,June,Q2,2022,Delivered,Online,Debit Card,0.2,138.78,0,138.78,12
+O00169,C0261,10/7/2022,October,Q4,2022,Delivered,Mobile App,Google Pay,0,845.36,0,845.36,6
+O00170,C0014,10/19/2022,October,Q4,2022,Delivered,In-Store,Google Pay,0,108.54,0,108.54,2
+O00171,C0236,12/26/2023,December,Q4,2023,Pending,In-Store,Google Pay,0.15,910.92,0,910.92,
+O00172,C0166,2/26/2022,February,Q1,2022,Delivered,Online,Apple Pay,0,123.12,0,123.12,2
+O00173,C0011,8/2/2022,August,Q3,2022,Delivered,Online,PayPal,0.15,560.74,0,560.74,12
+O00174,C0413,11/14/2022,November,Q4,2022,Delivered,Online,PayPal,0.1,334.06,0,334.06,10
+O00175,C0308,3/10/2023,March,Q1,2023,Delivered,In-Store,Google Pay,0,731.07,0,731.07,2
+O00176,C0021,6/10/2023,June,Q2,2023,Pending,Mobile App,Debit Card,0.05,1178.67,0,1178.67,
+O00177,C0465,5/5/2023,May,Q2,2023,Delivered,Mobile App,PayPal,0.2,451.3,0,451.3,9
+O00178,C0056,6/7/2023,June,Q2,2023,Delivered,Online,Apple Pay,0.15,1250.82,0,1250.82,14
+O00179,C0202,2/16/2022,February,Q1,2022,Delivered,In-Store,PayPal,0.1,432.06,0,432.06,10
+O00180,C0414,9/29/2022,September,Q3,2022,Delivered,Mobile App,Debit Card,0,962.8,0,962.8,2
+O00181,C0007,6/25/2022,June,Q2,2022,Pending,Online,Google Pay,0.15,946.61,0,946.61,
+O00182,C0058,1/17/2022,January,Q1,2022,Delivered,Mobile App,Apple Pay,0.15,583.82,0,583.82,4
+O00183,C0045,11/5/2022,November,Q4,2022,Delivered,Online,Apple Pay,0,1301.44,0,1301.44,5
+O00184,C0292,2/6/2023,February,Q1,2023,Delivered,Online,Credit Card,0.15,149.68,0,149.68,12
+O00185,C0297,9/3/2023,September,Q3,2023,Delivered,Online,Apple Pay,0.05,1121.47,0,1121.47,7
+O00186,C0296,11/20/2022,November,Q4,2022,Cancelled,Online,Apple Pay,0,489.93,0,489.93,
+O00187,C0230,12/16/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0.15,1124.29,0,1124.29,3
+O00188,C0453,10/28/2022,October,Q4,2022,Delivered,In-Store,Apple Pay,0.2,807.99,0,807.99,10
+O00189,C0252,4/14/2022,April,Q2,2022,Pending,In-Store,Debit Card,0,1189.78,0,1189.78,
+O00190,C0173,3/17/2023,March,Q1,2023,Returned,Online,Google Pay,0,420.44,0,420.44,
+O00191,C0402,12/30/2022,December,Q4,2022,Cancelled,Mobile App,Google Pay,0.1,32.48,13.9,46.38,
+O00192,C0225,4/14/2023,April,Q2,2023,Delivered,Mobile App,Google Pay,0.2,234.93,0,234.93,9
+O00193,C0054,6/21/2022,June,Q2,2022,Returned,In-Store,Debit Card,0.15,588.45,0,588.45,
+O00194,C0391,6/3/2023,June,Q2,2023,Delivered,Mobile App,PayPal,0,1119.19,0,1119.19,2
+O00195,C0137,1/17/2023,January,Q1,2023,Delivered,Mobile App,Debit Card,0.2,1009.2,0,1009.2,3
+O00196,C0395,1/11/2022,January,Q1,2022,Delivered,In-Store,PayPal,0.05,245.08,0,245.08,7
+O00197,C0389,2/7/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0.05,818.41,0,818.41,6
+O00198,C0005,10/14/2022,October,Q4,2022,Delivered,Online,Debit Card,0.1,892.77,0,892.77,13
+O00199,C0401,10/27/2023,October,Q4,2023,Returned,In-Store,Credit Card,0,1453.61,0,1453.61,
+O00200,C0267,12/15/2022,December,Q4,2022,Delivered,Online,Google Pay,0.1,653.16,0,653.16,12
+O00201,C0031,1/17/2023,January,Q1,2023,Delivered,Online,Credit Card,0.2,1078.16,0,1078.16,4
+O00202,C0413,8/19/2023,August,Q3,2023,Delivered,In-Store,PayPal,0.15,510.75,0,510.75,2
+O00203,C0168,6/13/2023,June,Q2,2023,Delivered,Online,Credit Card,0,299.02,0,299.02,3
+O00204,C0244,8/8/2022,August,Q3,2022,Delivered,In-Store,Google Pay,0.05,680.3,0,680.3,14
+O00205,C0084,5/28/2022,May,Q2,2022,Pending,Online,Debit Card,0.15,256.77,0,256.77,
+O00206,C0017,6/10/2022,June,Q2,2022,Delivered,Mobile App,Apple Pay,0,756.65,0,756.65,5
+O00207,C0192,11/7/2022,November,Q4,2022,Pending,Online,Debit Card,0,798.42,0,798.42,
+O00208,C0002,5/6/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.05,944.35,0,944.35,3
+O00209,C0391,5/22/2022,May,Q2,2022,Pending,Online,Debit Card,0.2,709,0,709,
+O00210,C0491,11/18/2023,November,Q4,2023,Cancelled,Online,Debit Card,0.15,1344.44,0,1344.44,
+O00211,C0296,2/24/2022,February,Q1,2022,Pending,Mobile App,Credit Card,0,409.29,0,409.29,
+O00212,C0126,12/24/2023,December,Q4,2023,Delivered,Mobile App,Google Pay,0,776.75,0,776.75,7
+O00213,C0132,4/4/2022,April,Q2,2022,Delivered,Mobile App,Debit Card,0,162.79,0,162.79,13
+O00214,C0046,6/7/2022,June,Q2,2022,Delivered,Mobile App,Credit Card,0.1,476.49,0,476.49,3
+O00215,C0212,11/28/2022,November,Q4,2022,Delivered,Online,Credit Card,0,671.89,0,671.89,5
+O00216,C0032,11/22/2022,November,Q4,2022,Delivered,Online,Apple Pay,0,1793.32,0,1793.32,5
+O00217,C0291,2/21/2023,February,Q1,2023,Delivered,Mobile App,Debit Card,0.2,771.87,0,771.87,14
+O00218,C0318,10/24/2022,October,Q4,2022,Delivered,Online,Apple Pay,0,905.86,0,905.86,10
+O00219,C0431,6/7/2023,June,Q2,2023,Delivered,Mobile App,Google Pay,0.1,398.71,0,398.71,4
+O00220,C0313,6/1/2023,June,Q2,2023,Delivered,In-Store,Apple Pay,0,972.2,0,972.2,12
+O00221,C0069,10/24/2023,October,Q4,2023,Pending,Online,Credit Card,0.15,396.86,0,396.86,
+O00222,C0459,12/15/2023,December,Q4,2023,Delivered,Mobile App,Credit Card,0.2,1640.18,0,1640.18,7
+O00223,C0091,12/15/2023,December,Q4,2023,Delivered,Online,PayPal,0,130.14,0,130.14,12
+O00224,C0011,10/15/2022,October,Q4,2022,Returned,Online,Google Pay,0.15,723.04,0,723.04,
+O00225,C0108,1/8/2022,January,Q1,2022,Delivered,Online,PayPal,0.1,259.34,0,259.34,11
+O00226,C0350,9/10/2023,September,Q3,2023,Delivered,Mobile App,Debit Card,0.15,504.07,0,504.07,12
+O00227,C0401,10/8/2022,October,Q4,2022,Delivered,Mobile App,Google Pay,0,704.98,0,704.98,14
+O00228,C0481,11/27/2022,November,Q4,2022,Delivered,In-Store,Credit Card,0.15,1193.86,0,1193.86,8
+O00229,C0162,1/6/2022,January,Q1,2022,Returned,In-Store,Credit Card,0.1,580.81,0,580.81,
+O00230,C0015,5/7/2023,May,Q2,2023,Delivered,Mobile App,PayPal,0.2,1050.7,0,1050.7,10
+O00231,C0225,4/8/2022,April,Q2,2022,Delivered,Online,Credit Card,0,1306.8,0,1306.8,2
+O00232,C0053,11/25/2023,November,Q4,2023,Delivered,In-Store,Apple Pay,0.05,438.21,0,438.21,4
+O00233,C0443,9/6/2023,September,Q3,2023,Pending,Online,Apple Pay,0.2,403.74,0,403.74,
+O00234,C0052,12/14/2022,December,Q4,2022,Pending,Mobile App,PayPal,0.1,157.35,0,157.35,
+O00235,C0007,9/2/2023,September,Q3,2023,Returned,Mobile App,Debit Card,0.15,274.74,0,274.74,
+O00236,C0216,5/8/2023,May,Q2,2023,Delivered,Mobile App,Debit Card,0.2,1645.39,0,1645.39,3
+O00237,C0241,11/13/2022,November,Q4,2022,Cancelled,In-Store,Credit Card,0.1,731.77,0,731.77,
+O00238,C0217,12/19/2022,December,Q4,2022,Returned,Mobile App,Credit Card,0,710.04,0,710.04,
+O00239,C0437,8/16/2023,August,Q3,2023,Cancelled,Online,PayPal,0,825.51,0,825.51,
+O00240,C0239,10/1/2023,October,Q4,2023,Returned,Online,PayPal,0.2,314.02,0,314.02,
+O00241,C0006,3/17/2022,March,Q1,2022,Delivered,Mobile App,Credit Card,0,1204.35,0,1204.35,4
+O00242,C0146,6/28/2022,June,Q2,2022,Cancelled,Mobile App,PayPal,0.2,273.18,0,273.18,
+O00243,C0432,9/26/2022,September,Q3,2022,Delivered,Mobile App,Apple Pay,0.15,371.66,0,371.66,5
+O00244,C0234,9/3/2022,September,Q3,2022,Delivered,Mobile App,Google Pay,0.2,533.06,0,533.06,7
+O00245,C0356,1/19/2023,January,Q1,2023,Delivered,Mobile App,Credit Card,0.2,618.18,0,618.18,11
+O00246,C0408,10/14/2022,October,Q4,2022,Pending,Mobile App,Credit Card,0.2,526.27,0,526.27,
+O00247,C0199,10/23/2023,October,Q4,2023,Pending,Mobile App,Apple Pay,0,858.27,0,858.27,
+O00248,C0298,2/15/2023,February,Q1,2023,Returned,Mobile App,Debit Card,0.05,249.14,0,249.14,
+O00249,C0157,3/12/2023,March,Q1,2023,Delivered,In-Store,PayPal,0.1,730.22,0,730.22,6
+O00250,C0219,4/7/2023,April,Q2,2023,Delivered,Online,PayPal,0.2,847.22,0,847.22,5
+O00251,C0432,5/29/2023,May,Q2,2023,Cancelled,Mobile App,Credit Card,0,367.92,0,367.92,
+O00252,C0280,7/25/2022,July,Q3,2022,Returned,In-Store,PayPal,0,1425.38,0,1425.38,
+O00253,C0395,11/3/2022,November,Q4,2022,Delivered,Online,Apple Pay,0.2,463.74,0,463.74,12
+O00254,C0384,8/3/2022,August,Q3,2022,Returned,Mobile App,Google Pay,0.2,866.9,0,866.9,
+O00255,C0231,7/26/2023,July,Q3,2023,Delivered,Mobile App,Google Pay,0.2,202.6,0,202.6,8
+O00256,C0415,11/6/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0.05,1162.29,0,1162.29,13
+O00257,C0017,5/23/2022,May,Q2,2022,Delivered,Mobile App,Google Pay,0.1,543.34,0,543.34,9
+O00258,C0198,7/12/2022,July,Q3,2022,Delivered,In-Store,Google Pay,0.05,886.46,0,886.46,3
+O00259,C0102,3/13/2022,March,Q1,2022,Cancelled,Mobile App,Debit Card,0,997.9,0,997.9,
+O00260,C0081,4/24/2022,April,Q2,2022,Delivered,Online,Credit Card,0.05,466.37,0,466.37,3
+O00261,C0310,8/12/2023,August,Q3,2023,Returned,Mobile App,Apple Pay,0,649.97,0,649.97,
+O00262,C0169,8/6/2023,August,Q3,2023,Pending,Online,Google Pay,0,1117.85,0,1117.85,
+O00263,C0461,9/25/2023,September,Q3,2023,Pending,Online,Debit Card,0.15,1049.74,0,1049.74,
+O00264,C0358,8/11/2022,August,Q3,2022,Delivered,Mobile App,Credit Card,0,767.81,0,767.81,1
+O00265,C0038,10/17/2023,October,Q4,2023,Delivered,In-Store,Apple Pay,0.2,1006.91,0,1006.91,2
+O00266,C0043,7/16/2023,July,Q3,2023,Pending,Mobile App,Apple Pay,0.2,215.03,0,215.03,
+O00267,C0091,10/29/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0.15,401.19,0,401.19,3
+O00268,C0226,1/2/2023,January,Q1,2023,Returned,Online,Google Pay,0,399.99,0,399.99,
+O00269,C0200,12/8/2023,December,Q4,2023,Pending,Online,Google Pay,0,416.84,0,416.84,
+O00270,C0216,1/29/2022,January,Q1,2022,Delivered,Mobile App,Credit Card,0,461.28,0,461.28,12
+O00271,C0086,2/15/2022,February,Q1,2022,Delivered,In-Store,PayPal,0.1,1145.54,0,1145.54,6
+O00272,C0089,1/16/2022,January,Q1,2022,Delivered,Online,Apple Pay,0,1138.8,0,1138.8,13
+O00273,C0307,5/27/2023,May,Q2,2023,Delivered,In-Store,Credit Card,0.1,92.64,10.17,102.81,13
+O00274,C0356,5/17/2022,May,Q2,2022,Delivered,In-Store,Apple Pay,0,1314.31,0,1314.31,9
+O00275,C0301,12/23/2023,December,Q4,2023,Returned,Online,Google Pay,0.2,385.36,0,385.36,
+O00276,C0378,3/15/2023,March,Q1,2023,Delivered,Online,Debit Card,0,188.67,0,188.67,11
+O00277,C0020,9/1/2022,September,Q3,2022,Delivered,Mobile App,PayPal,0,1098.79,0,1098.79,4
+O00278,C0277,2/25/2022,February,Q1,2022,Returned,Mobile App,Apple Pay,0.1,303.3,0,303.3,
+O00279,C0036,7/17/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0,700.35,0,700.35,14
+O00280,C0408,7/29/2022,July,Q3,2022,Delivered,Online,Apple Pay,0,296.22,0,296.22,4
+O00281,C0156,10/20/2022,October,Q4,2022,Returned,In-Store,Apple Pay,0,1040.33,0,1040.33,
+O00282,C0011,1/26/2023,January,Q1,2023,Delivered,In-Store,Google Pay,0.1,1373.31,0,1373.31,8
+O00283,C0037,12/8/2022,December,Q4,2022,Pending,Mobile App,Debit Card,0,799.08,0,799.08,
+O00284,C0474,3/2/2023,March,Q1,2023,Delivered,Online,Apple Pay,0,898.89,0,898.89,13
+O00285,C0468,12/23/2022,December,Q4,2022,Delivered,Online,Apple Pay,0.05,1758.85,0,1758.85,5
+O00286,C0127,9/9/2023,September,Q3,2023,Delivered,Online,Credit Card,0.15,540.87,0,540.87,4
+O00287,C0449,3/10/2023,March,Q1,2023,Delivered,In-Store,PayPal,0.1,462.28,0,462.28,13
+O00288,C0449,4/2/2022,April,Q2,2022,Delivered,Mobile App,PayPal,0.15,302.34,0,302.34,12
+O00289,C0158,1/7/2022,January,Q1,2022,Pending,Online,Credit Card,0,599.13,0,599.13,
+O00290,C0376,3/18/2023,March,Q1,2023,Delivered,In-Store,Debit Card,0.15,530.37,0,530.37,8
+O00291,C0291,8/6/2022,August,Q3,2022,Returned,Online,Debit Card,0.2,765.66,0,765.66,
+O00292,C0056,10/14/2023,October,Q4,2023,Delivered,In-Store,Credit Card,0.05,463.36,0,463.36,4
+O00293,C0245,5/12/2023,May,Q2,2023,Delivered,Online,PayPal,0.2,259.77,0,259.77,13
+O00294,C0022,4/10/2022,April,Q2,2022,Delivered,Online,Google Pay,0.1,1022.5,0,1022.5,6
+O00295,C0190,11/30/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0.15,510.09,0,510.09,14
+O00296,C0358,2/16/2023,February,Q1,2023,Delivered,Mobile App,Credit Card,0.2,443.8,0,443.8,10
+O00297,C0352,11/6/2023,November,Q4,2023,Delivered,Mobile App,Credit Card,0.15,1017.16,0,1017.16,12
+O00298,C0314,3/25/2022,March,Q1,2022,Delivered,Online,Credit Card,0.15,909.23,0,909.23,1
+O00299,C0066,5/25/2023,May,Q2,2023,Cancelled,Mobile App,Apple Pay,0,139.28,0,139.28,
+O00300,C0340,7/8/2023,July,Q3,2023,Returned,Mobile App,Debit Card,0.2,415.78,0,415.78,
+O00301,C0083,12/1/2022,December,Q4,2022,Cancelled,Mobile App,PayPal,0.15,516.37,0,516.37,
+O00302,C0393,9/8/2023,September,Q3,2023,Delivered,Online,Apple Pay,0.15,275.52,0,275.52,13
+O00303,C0120,8/17/2022,August,Q3,2022,Delivered,In-Store,Credit Card,0,697.87,0,697.87,7
+O00304,C0296,1/2/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0,1439.36,0,1439.36,2
+O00305,C0203,1/10/2022,January,Q1,2022,Delivered,Mobile App,PayPal,0.2,1129.93,0,1129.93,5
+O00306,C0258,12/7/2023,December,Q4,2023,Cancelled,Mobile App,Apple Pay,0.15,436.6,0,436.6,
+O00307,C0361,1/21/2023,January,Q1,2023,Delivered,Mobile App,Debit Card,0.2,392.46,0,392.46,14
+O00308,C0398,7/3/2022,July,Q3,2022,Delivered,In-Store,Debit Card,0,1813.42,0,1813.42,5
+O00309,C0357,7/19/2022,July,Q3,2022,Delivered,Mobile App,PayPal,0.2,1008.81,0,1008.81,4
+O00310,C0112,7/20/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.15,283.84,0,283.84,11
+O00311,C0431,6/22/2022,June,Q2,2022,Delivered,In-Store,Apple Pay,0,62.88,9.75,72.63,10
+O00312,C0223,6/2/2022,June,Q2,2022,Returned,Online,Credit Card,0,1050.83,0,1050.83,
+O00313,C0141,10/10/2023,October,Q4,2023,Delivered,Online,Credit Card,0,1002.37,0,1002.37,5
+O00314,C0356,4/7/2022,April,Q2,2022,Delivered,Online,Apple Pay,0,202.43,0,202.43,3
+O00315,C0208,12/19/2023,December,Q4,2023,Delivered,Mobile App,Google Pay,0.2,168.76,0,168.76,9
+O00316,C0429,8/22/2023,August,Q3,2023,Returned,Online,Debit Card,0.2,408.18,0,408.18,
+O00317,C0003,7/23/2023,July,Q3,2023,Delivered,Online,Credit Card,0,746.39,0,746.39,6
+O00318,C0495,7/12/2023,July,Q3,2023,Delivered,Online,Debit Card,0,428.74,0,428.74,10
+O00319,C0252,12/13/2023,December,Q4,2023,Delivered,Mobile App,Google Pay,0.1,431.52,0,431.52,5
+O00320,C0439,8/9/2022,August,Q3,2022,Returned,Mobile App,PayPal,0,821.56,0,821.56,
+O00321,C0134,1/26/2023,January,Q1,2023,Delivered,Online,Credit Card,0,1215.54,0,1215.54,2
+O00322,C0323,10/3/2022,October,Q4,2022,Delivered,Mobile App,Google Pay,0.1,222.49,0,222.49,1
+O00323,C0494,9/11/2023,September,Q3,2023,Delivered,In-Store,Credit Card,0.1,808.3,0,808.3,11
+O00324,C0046,1/7/2023,January,Q1,2023,Cancelled,Mobile App,Debit Card,0,337.94,0,337.94,
+O00325,C0373,11/10/2022,November,Q4,2022,Delivered,Mobile App,PayPal,0.15,655.98,0,655.98,13
+O00326,C0380,11/26/2023,November,Q4,2023,Pending,Mobile App,Debit Card,0,1236.4,0,1236.4,
+O00327,C0363,9/13/2022,September,Q3,2022,Pending,Mobile App,Apple Pay,0,1829,0,1829,
+O00328,C0395,11/17/2022,November,Q4,2022,Delivered,Online,Debit Card,0,386.97,0,386.97,2
+O00329,C0381,10/20/2022,October,Q4,2022,Delivered,Online,Google Pay,0.15,892.22,0,892.22,14
+O00330,C0382,1/8/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0.15,885.67,0,885.67,6
+O00331,C0488,2/22/2022,February,Q1,2022,Pending,Online,Debit Card,0,1621.82,0,1621.82,
+O00332,C0002,10/9/2023,October,Q4,2023,Returned,In-Store,Google Pay,0.2,886.21,0,886.21,
+O00333,C0055,1/6/2022,January,Q1,2022,Delivered,Online,PayPal,0,389.4,0,389.4,2
+O00334,C0468,5/15/2023,May,Q2,2023,Delivered,In-Store,Debit Card,0.05,125.32,0,125.32,6
+O00335,C0220,7/6/2022,July,Q3,2022,Delivered,Online,Apple Pay,0,557.71,0,557.71,5
+O00336,C0021,5/17/2022,May,Q2,2022,Delivered,In-Store,Credit Card,0,1255.24,0,1255.24,9
+O00337,C0372,2/3/2023,February,Q1,2023,Delivered,Online,Credit Card,0,1214.28,0,1214.28,1
+O00338,C0348,12/17/2022,December,Q4,2022,Delivered,Online,Apple Pay,0,815.7,0,815.7,14
+O00339,C0135,12/19/2023,December,Q4,2023,Delivered,Mobile App,Apple Pay,0.15,779.22,0,779.22,4
+O00340,C0438,8/29/2023,August,Q3,2023,Returned,Online,Debit Card,0.05,657.41,0,657.41,
+O00341,C0316,7/24/2022,July,Q3,2022,Delivered,Online,Apple Pay,0.1,133.29,0,133.29,4
+O00342,C0173,3/13/2023,March,Q1,2023,Delivered,Mobile App,Apple Pay,0.15,850.2,0,850.2,1
+O00343,C0001,2/23/2022,February,Q1,2022,Returned,In-Store,Apple Pay,0,546.19,0,546.19,
+O00344,C0058,4/10/2022,April,Q2,2022,Delivered,In-Store,PayPal,0.15,589.83,0,589.83,9
+O00345,C0310,1/16/2023,January,Q1,2023,Cancelled,Mobile App,Google Pay,0.05,336.97,0,336.97,
+O00346,C0301,11/2/2023,November,Q4,2023,Returned,Online,Credit Card,0,800.89,0,800.89,
+O00347,C0390,7/26/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0.05,832.44,0,832.44,11
+O00348,C0368,5/1/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.1,1531.5,0,1531.5,12
+O00349,C0418,2/12/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.2,718.84,0,718.84,4
+O00350,C0304,12/15/2023,December,Q4,2023,Pending,Mobile App,Google Pay,0,201.57,0,201.57,
+O00351,C0363,10/2/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0.1,236.04,0,236.04,11
+O00352,C0076,10/12/2022,October,Q4,2022,Cancelled,Online,Debit Card,0.2,460.77,0,460.77,
+O00353,C0324,9/12/2023,September,Q3,2023,Delivered,Online,Google Pay,0,853.54,0,853.54,12
+O00354,C0495,10/14/2022,October,Q4,2022,Cancelled,Online,Google Pay,0.15,787.35,0,787.35,
+O00355,C0446,10/4/2023,October,Q4,2023,Pending,Mobile App,PayPal,0,634.17,0,634.17,
+O00356,C0119,3/21/2023,March,Q1,2023,Delivered,Online,Credit Card,0.05,1142.13,0,1142.13,11
+O00357,C0145,1/22/2022,January,Q1,2022,Delivered,Mobile App,Apple Pay,0.15,737.32,0,737.32,2
+O00358,C0371,6/24/2023,June,Q2,2023,Delivered,Mobile App,Credit Card,0.05,971.17,0,971.17,3
+O00359,C0128,3/27/2022,March,Q1,2022,Delivered,Mobile App,Credit Card,0.2,1250.94,0,1250.94,8
+O00360,C0389,7/31/2023,July,Q3,2023,Delivered,In-Store,PayPal,0.05,1809.55,0,1809.55,9
+O00361,C0152,4/16/2022,April,Q2,2022,Delivered,Online,Debit Card,0,1607.39,0,1607.39,2
+O00362,C0115,4/15/2022,April,Q2,2022,Delivered,Online,Google Pay,0,560.06,0,560.06,6
+O00363,C0308,7/5/2022,July,Q3,2022,Delivered,In-Store,Google Pay,0.2,1180.7,0,1180.7,6
+O00364,C0076,2/4/2023,February,Q1,2023,Pending,Online,Credit Card,0.1,922.94,0,922.94,
+O00365,C0247,12/12/2023,December,Q4,2023,Delivered,Mobile App,Debit Card,0.05,1003.15,0,1003.15,12
+O00366,C0216,6/24/2023,June,Q2,2023,Delivered,Mobile App,PayPal,0,585.04,0,585.04,2
+O00367,C0031,12/24/2022,December,Q4,2022,Delivered,In-Store,Apple Pay,0,440.14,0,440.14,7
+O00368,C0376,1/27/2022,January,Q1,2022,Delivered,Online,Credit Card,0.15,488.32,0,488.32,1
+O00369,C0292,3/3/2023,March,Q1,2023,Delivered,Online,Debit Card,0.15,332.24,0,332.24,8
+O00370,C0401,10/23/2023,October,Q4,2023,Cancelled,Online,Debit Card,0,108.05,0,108.05,
+O00371,C0385,6/27/2022,June,Q2,2022,Delivered,Online,Apple Pay,0.15,661.44,0,661.44,5
+O00372,C0364,8/21/2022,August,Q3,2022,Delivered,In-Store,Credit Card,0.1,881.55,0,881.55,14
+O00373,C0355,4/25/2023,April,Q2,2023,Delivered,Online,Apple Pay,0,897.97,0,897.97,1
+O00374,C0123,10/16/2022,October,Q4,2022,Delivered,Online,Debit Card,0.1,319.29,0,319.29,4
+O00375,C0138,3/29/2022,March,Q1,2022,Pending,Online,Credit Card,0,235.96,0,235.96,
+O00376,C0183,10/17/2022,October,Q4,2022,Returned,In-Store,Apple Pay,0.15,720.1,0,720.1,
+O00377,C0301,1/27/2023,January,Q1,2023,Delivered,In-Store,Debit Card,0,1444.3,0,1444.3,12
+O00378,C0312,10/30/2023,October,Q4,2023,Pending,Mobile App,PayPal,0,684.9,0,684.9,
+O00379,C0039,6/6/2022,June,Q2,2022,Delivered,Online,Debit Card,0.2,587.84,0,587.84,10
+O00380,C0187,12/28/2022,December,Q4,2022,Delivered,Mobile App,Apple Pay,0,363.46,0,363.46,11
+O00381,C0474,5/24/2022,May,Q2,2022,Pending,Online,PayPal,0.2,438.68,0,438.68,
+O00382,C0439,9/27/2023,September,Q3,2023,Pending,In-Store,Google Pay,0.2,677.89,0,677.89,
+O00383,C0260,4/6/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0.15,585.82,0,585.82,10
+O00384,C0205,3/16/2022,March,Q1,2022,Delivered,Online,Credit Card,0,726.56,0,726.56,3
+O00385,C0375,4/21/2022,April,Q2,2022,Delivered,Mobile App,Apple Pay,0,1680.96,0,1680.96,9
+O00386,C0080,4/27/2023,April,Q2,2023,Returned,In-Store,Google Pay,0,378.62,0,378.62,
+O00387,C0110,2/25/2022,February,Q1,2022,Delivered,Online,PayPal,0,415.03,0,415.03,7
+O00388,C0042,11/2/2022,November,Q4,2022,Delivered,Mobile App,Debit Card,0.15,872.71,0,872.71,8
+O00389,C0275,12/7/2023,December,Q4,2023,Delivered,In-Store,Google Pay,0.05,562.09,0,562.09,10
+O00390,C0075,11/28/2022,November,Q4,2022,Delivered,Mobile App,Apple Pay,0,1098.35,0,1098.35,8
+O00391,C0483,5/9/2022,May,Q2,2022,Delivered,Online,Debit Card,0.15,685.05,0,685.05,1
+O00392,C0190,1/8/2023,January,Q1,2023,Cancelled,In-Store,Google Pay,0.2,578.04,0,578.04,
+O00393,C0333,4/12/2023,April,Q2,2023,Delivered,In-Store,PayPal,0.2,1058.59,0,1058.59,3
+O00394,C0278,3/23/2023,March,Q1,2023,Cancelled,Online,PayPal,0.15,635.11,0,635.11,
+O00395,C0475,7/12/2023,July,Q3,2023,Pending,Mobile App,Google Pay,0.2,628.05,0,628.05,
+O00396,C0437,3/7/2023,March,Q1,2023,Returned,Online,Google Pay,0.05,639,0,639,
+O00397,C0212,10/23/2023,October,Q4,2023,Delivered,In-Store,Debit Card,0.1,1217.6,0,1217.6,1
+O00398,C0079,1/19/2023,January,Q1,2023,Delivered,Mobile App,Google Pay,0.05,880.69,0,880.69,7
+O00399,C0066,10/14/2023,October,Q4,2023,Delivered,Online,PayPal,0.1,1475.54,0,1475.54,14
+O00400,C0284,6/12/2022,June,Q2,2022,Returned,Online,Credit Card,0,1373.11,0,1373.11,
+O00401,C0472,3/22/2022,March,Q1,2022,Delivered,Mobile App,Apple Pay,0.15,1462.56,0,1462.56,13
+O00402,C0134,11/7/2023,November,Q4,2023,Cancelled,Online,Debit Card,0.15,707.34,0,707.34,
+O00403,C0444,4/16/2022,April,Q2,2022,Pending,Mobile App,Credit Card,0,325.58,0,325.58,
+O00404,C0459,7/4/2022,July,Q3,2022,Delivered,Online,PayPal,0.2,189.72,0,189.72,8
+O00405,C0408,1/23/2022,January,Q1,2022,Delivered,Online,Credit Card,0,1192.75,0,1192.75,11
+O00406,C0311,2/2/2022,February,Q1,2022,Delivered,In-Store,Apple Pay,0.1,459.21,0,459.21,3
+O00407,C0268,9/18/2022,September,Q3,2022,Returned,Mobile App,Credit Card,0.1,748.95,0,748.95,
+O00408,C0390,6/6/2022,June,Q2,2022,Delivered,Online,Debit Card,0,186.98,0,186.98,5
+O00409,C0141,5/9/2023,May,Q2,2023,Delivered,In-Store,Google Pay,0.15,536.93,0,536.93,7
+O00410,C0473,7/17/2022,July,Q3,2022,Delivered,Mobile App,PayPal,0.05,388.74,0,388.74,7
+O00411,C0306,10/6/2022,October,Q4,2022,Delivered,Mobile App,Apple Pay,0.05,764.52,0,764.52,5
+O00412,C0301,2/24/2023,February,Q1,2023,Delivered,Online,Credit Card,0,396.68,0,396.68,6
+O00413,C0075,11/18/2022,November,Q4,2022,Delivered,In-Store,Credit Card,0.15,180.16,0,180.16,10
+O00414,C0408,11/26/2022,November,Q4,2022,Delivered,Online,PayPal,0.1,567.04,0,567.04,12
+O00415,C0312,11/19/2023,November,Q4,2023,Delivered,Online,PayPal,0.2,185.53,0,185.53,1
+O00416,C0411,5/21/2023,May,Q2,2023,Delivered,In-Store,Apple Pay,0,1176.62,0,1176.62,11
+O00417,C0402,8/13/2023,August,Q3,2023,Pending,In-Store,Debit Card,0.2,179.19,0,179.19,
+O00418,C0471,6/25/2023,June,Q2,2023,Delivered,Online,Credit Card,0.05,292.14,0,292.14,5
+O00419,C0163,12/21/2022,December,Q4,2022,Delivered,Mobile App,PayPal,0.05,1592.17,0,1592.17,4
+O00420,C0025,1/11/2022,January,Q1,2022,Delivered,In-Store,Apple Pay,0,347.68,0,347.68,12
+O00421,C0445,2/23/2022,February,Q1,2022,Delivered,Online,Credit Card,0,1658.29,0,1658.29,3
+O00422,C0299,4/17/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0.2,66.12,10.02,76.14,9
+O00423,C0271,9/4/2022,September,Q3,2022,Pending,In-Store,PayPal,0.2,853.44,0,853.44,
+O00424,C0039,5/22/2023,May,Q2,2023,Returned,Online,Debit Card,0.05,180.61,0,180.61,
+O00425,C0054,12/15/2022,December,Q4,2022,Delivered,In-Store,Apple Pay,0.15,334.92,0,334.92,7
+O00426,C05,4/9/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0,979.86,0,979.86,3
+O00427,C0237,4/20/2022,April,Q2,2022,Returned,Online,Apple Pay,0,252.72,0,252.72,
+O00428,C0339,6/28/2023,June,Q2,2023,Delivered,In-Store,Credit Card,0.1,686.73,0,686.73,5
+O00429,C0190,4/11/2022,April,Q2,2022,Delivered,Online,Debit Card,0,480.12,0,480.12,10
+O00430,C0142,6/27/2023,June,Q2,2023,Delivered,Online,Credit Card,0.15,1227.21,0,1227.21,5
+O00431,C0116,9/28/2023,September,Q3,2023,Delivered,Online,Credit Card,0,1452.65,0,1452.65,2
+O00432,C0095,5/31/2023,May,Q2,2023,Cancelled,Mobile App,Debit Card,0,1259.11,0,1259.11,
+O00433,C0011,7/1/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.1,279.7,0,279.7,14
+O00434,C0009,8/4/2023,August,Q3,2023,Returned,Mobile App,Google Pay,0,866.47,0,866.47,
+O00435,C0280,9/21/2022,September,Q3,2022,Cancelled,In-Store,Apple Pay,0,1114.21,0,1114.21,
+O00436,C0076,2/25/2023,February,Q1,2023,Delivered,In-Store,Apple Pay,0,870.38,0,870.38,12
+O00437,C0046,7/18/2022,July,Q3,2022,Delivered,In-Store,Google Pay,0.05,1420.66,0,1420.66,1
+O00438,C0297,6/17/2023,June,Q2,2023,Delivered,Online,Apple Pay,0.1,1274.15,0,1274.15,9
+O00439,C0495,10/24/2022,October,Q4,2022,Cancelled,Online,PayPal,0,383.42,0,383.42,
+O00440,C0423,8/31/2023,August,Q3,2023,Delivered,Online,PayPal,0,176.1,0,176.1,1
+O00441,C0129,5/22/2022,May,Q2,2022,Cancelled,Mobile App,Google Pay,0,768.79,0,768.79,
+O00442,C0113,2/2/2022,February,Q1,2022,Delivered,Mobile App,Apple Pay,0.05,1406.54,0,1406.54,11
+O00443,C0394,7/24/2022,July,Q3,2022,Delivered,Online,Google Pay,0,837.9,0,837.9,7
+O00444,C0401,3/24/2023,March,Q1,2023,Delivered,Mobile App,Apple Pay,0.15,398.22,0,398.22,8
+O00445,C0182,3/14/2023,March,Q1,2023,Delivered,Online,Apple Pay,0,963.59,0,963.59,10
+O00446,C0279,8/3/2023,August,Q3,2023,Delivered,Online,Debit Card,0.05,402.03,0,402.03,14
+O00447,C0333,4/20/2022,April,Q2,2022,Delivered,In-Store,Google Pay,0.05,1342.2,0,1342.2,12
+O00448,C0105,6/13/2023,June,Q2,2023,Pending,Mobile App,Debit Card,0.15,984.33,0,984.33,
+O00449,C0413,5/12/2023,May,Q2,2023,Delivered,Online,Credit Card,0,678.76,0,678.76,2
+O00450,C0243,1/26/2022,January,Q1,2022,Delivered,Online,Credit Card,0,1574.76,0,1574.76,3
+O00451,C0326,1/23/2022,January,Q1,2022,Delivered,Mobile App,Debit Card,0.1,526.45,0,526.45,5
+O00452,C0342,4/13/2022,April,Q2,2022,Delivered,In-Store,Apple Pay,0.05,1130.44,0,1130.44,1
+O00453,C0298,11/7/2022,November,Q4,2022,Pending,Online,PayPal,0,618.51,0,618.51,
+O00454,C0142,1/10/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0,476.59,0,476.59,11
+O00455,C0078,12/27/2022,December,Q4,2022,Pending,Mobile App,PayPal,0.2,948.54,0,948.54,
+O00456,C0295,12/27/2023,December,Q4,2023,Delivered,In-Store,Google Pay,0.1,700.45,0,700.45,4
+O00457,C0050,11/13/2023,November,Q4,2023,Pending,Online,PayPal,0.2,358.05,0,358.05,
+O00458,C0054,6/28/2022,June,Q2,2022,Delivered,Online,Credit Card,0.1,1156.53,0,1156.53,7
+O00459,C0069,10/15/2023,October,Q4,2023,Returned,In-Store,Apple Pay,0.05,978.58,0,978.58,
+O00460,C0223,6/26/2023,June,Q2,2023,Delivered,Mobile App,Credit Card,0.15,161.38,0,161.38,6
+O00461,C0397,2/22/2023,February,Q1,2023,Delivered,Mobile App,Google Pay,0.05,228.06,0,228.06,14
+O00462,C0243,5/28/2023,May,Q2,2023,Delivered,Mobile App,Google Pay,0.2,283.22,0,283.22,13
+O00463,C0265,11/2/2022,November,Q4,2022,Delivered,Online,Debit Card,0,510.24,0,510.24,1
+O00464,C0115,10/24/2022,October,Q4,2022,Delivered,In-Store,Credit Card,0.2,1056.49,0,1056.49,5
+O00465,C0205,9/26/2023,September,Q3,2023,Delivered,Mobile App,Apple Pay,0,162.07,0,162.07,6
+O00466,C0216,9/25/2022,September,Q3,2022,Delivered,Online,Debit Card,0,692.58,0,692.58,2
+O00467,C0413,8/1/2023,August,Q3,2023,Delivered,Online,Apple Pay,0.1,231.25,0,231.25,8
+O00468,C0485,5/13/2022,May,Q2,2022,Delivered,Online,Credit Card,0.05,751.22,0,751.22,1
+O00469,C0014,7/20/2022,July,Q3,2022,Delivered,Mobile App,Apple Pay,0,684.11,0,684.11,6
+O00470,C0181,7/18/2022,July,Q3,2022,Delivered,Online,Debit Card,0,848.09,0,848.09,13
+O00471,C0008,9/13/2022,September,Q3,2022,Delivered,Online,Debit Card,0.05,227.82,0,227.82,6
+O00472,C0180,9/9/2023,September,Q3,2023,Cancelled,Mobile App,Google Pay,0.05,260.03,0,260.03,
+O00473,C0481,7/11/2023,July,Q3,2023,Pending,In-Store,Debit Card,0.05,979.92,0,979.92,
+O00474,C0270,10/1/2022,October,Q4,2022,Delivered,Online,PayPal,0.05,492.88,0,492.88,12
+O00475,C0284,8/4/2022,August,Q3,2022,Delivered,Mobile App,Credit Card,0,179.9,0,179.9,2
+O00476,C0011,5/26/2023,May,Q2,2023,Cancelled,In-Store,Google Pay,0.05,96.2,4.19,100.39,
+O00477,C0313,1/29/2023,January,Q1,2023,Delivered,Online,Apple Pay,0.05,1234.77,0,1234.77,13
+O00478,C0179,1/27/2022,January,Q1,2022,Cancelled,Mobile App,Debit Card,0.2,702.16,0,702.16,
+O00479,C0199,11/26/2023,November,Q4,2023,Pending,Online,Google Pay,0.15,452.54,0,452.54,
+O00480,C0144,11/30/2023,November,Q4,2023,Delivered,Mobile App,Google Pay,0,427.44,0,427.44,13
+O00481,C0335,9/15/2023,September,Q3,2023,Delivered,In-Store,Google Pay,0.15,184.52,0,184.52,8
+O00482,C0237,1/18/2022,January,Q1,2022,Delivered,Online,Credit Card,0,2122.6,0,2122.6,2
+O00483,C0226,7/4/2022,July,Q3,2022,Cancelled,In-Store,Apple Pay,0,1106.62,0,1106.62,
+O00484,C0336,2/9/2022,February,Q1,2022,Pending,Mobile App,PayPal,0,634.25,0,634.25,
+O00485,C0348,12/28/2022,December,Q4,2022,Returned,In-Store,Credit Card,0,290.42,0,290.42,
+O00486,C0262,3/21/2022,March,Q1,2022,Returned,In-Store,Google Pay,0,452.31,0,452.31,
+O00487,C0013,12/1/2022,December,Q4,2022,Delivered,Online,PayPal,0.05,351.08,0,351.08,1
+O00488,C0055,9/16/2023,September,Q3,2023,Delivered,Mobile App,Google Pay,0.2,446.45,0,446.45,11
+O00489,C0372,6/3/2022,June,Q2,2022,Delivered,Online,Debit Card,0.1,1509.33,0,1509.33,11
+O00490,C0269,6/17/2023,June,Q2,2023,Delivered,In-Store,Debit Card,0.2,1012.17,0,1012.17,8
+O00491,C0376,2/24/2023,February,Q1,2023,Delivered,In-Store,Google Pay,0.1,941.26,0,941.26,10
+O00492,C0424,5/9/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0.1,611.2,0,611.2,7
+O00493,C0216,6/2/2023,June,Q2,2023,Pending,Mobile App,Debit Card,0.05,470.4,0,470.4,
+O00494,C0365,4/27/2023,April,Q2,2023,Delivered,Online,Apple Pay,0,48.76,1.99,50.75,14
+O00495,C0272,2/2/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.15,1146.76,0,1146.76,2
+O00496,C0379,12/30/2022,December,Q4,2022,Delivered,Online,Apple Pay,0,1551.95,0,1551.95,6
+O00497,C0346,10/27/2023,October,Q4,2023,Delivered,In-Store,Apple Pay,0,914.13,0,914.13,10
+O00498,C0261,3/13/2023,March,Q1,2023,Delivered,Online,PayPal,0.2,806.48,0,806.48,10
+O00499,C0161,4/12/2022,April,Q2,2022,Cancelled,Mobile App,Credit Card,0,1173.19,0,1173.19,
+O005,C0474,8/26/2022,August,Q3,2022,Delivered,Online,Debit Card,0.1,764.58,0,764.58,8
+O00501,C0427,1/27/2022,January,Q1,2022,Returned,In-Store,Google Pay,0.05,614.05,0,614.05,
+O00502,C0253,9/27/2022,September,Q3,2022,Delivered,In-Store,Credit Card,0,520.14,0,520.14,12
+O00503,C0039,12/1/2022,December,Q4,2022,Delivered,In-Store,Apple Pay,0.15,226.22,0,226.22,2
+O00504,C0478,12/24/2023,December,Q4,2023,Returned,Mobile App,Credit Card,0.15,1022.16,0,1022.16,
+O00505,C0136,4/27/2023,April,Q2,2023,Pending,Mobile App,Apple Pay,0,966.09,0,966.09,
+O00506,C0002,3/21/2023,March,Q1,2023,Pending,Mobile App,Google Pay,0,123.12,0,123.12,
+O00507,C0353,9/27/2022,September,Q3,2022,Returned,In-Store,Apple Pay,0.1,1079.9,0,1079.9,
+O00508,C0152,4/9/2022,April,Q2,2022,Delivered,In-Store,Apple Pay,0.05,222.72,0,222.72,8
+O00509,C0490,11/23/2022,November,Q4,2022,Delivered,Online,Debit Card,0.2,153.2,0,153.2,7
+O00510,C0352,8/29/2022,August,Q3,2022,Cancelled,In-Store,Google Pay,0,217.4,0,217.4,
+O00511,C0396,11/27/2022,November,Q4,2022,Delivered,Online,Apple Pay,0.2,841.16,0,841.16,6
+O00512,C0326,2/16/2022,February,Q1,2022,Pending,Online,Debit Card,0.1,1314.16,0,1314.16,
+O00513,C0310,7/7/2023,July,Q3,2023,Delivered,Online,Credit Card,0.2,230.24,0,230.24,2
+O00514,C0336,2/20/2022,February,Q1,2022,Delivered,Mobile App,Debit Card,0,842.5,0,842.5,6
+O00515,C0170,2/28/2023,February,Q1,2023,Returned,Online,Credit Card,0.2,483.17,0,483.17,
+O00516,C0022,6/10/2022,June,Q2,2022,Cancelled,Online,Debit Card,0.15,528.94,0,528.94,
+O00517,C0442,3/28/2022,March,Q1,2022,Delivered,Mobile App,Apple Pay,0,711.54,0,711.54,10
+O00518,C0471,6/5/2022,June,Q2,2022,Delivered,Mobile App,Google Pay,0.2,315.88,0,315.88,9
+O00519,C0381,1/24/2022,January,Q1,2022,Cancelled,Online,Debit Card,0,683.02,0,683.02,
+O00520,C0496,2/21/2023,February,Q1,2023,Pending,In-Store,Google Pay,0.1,923.7,0,923.7,
+O00521,C0232,8/18/2022,August,Q3,2022,Delivered,Mobile App,Apple Pay,0,508.05,0,508.05,11
+O00522,C0160,12/7/2022,December,Q4,2022,Delivered,Online,Google Pay,0,405.95,0,405.95,7
+O00523,C0316,4/30/2023,April,Q2,2023,Delivered,Online,PayPal,0.05,460.96,0,460.96,10
+O00524,C0209,1/6/2022,January,Q1,2022,Returned,Mobile App,Apple Pay,0.1,787.18,0,787.18,
+O00525,C0440,3/25/2022,March,Q1,2022,Delivered,Online,Apple Pay,0,237.18,0,237.18,12
+O00526,C0063,6/20/2022,June,Q2,2022,Pending,Online,Credit Card,0.05,628.64,0,628.64,
+O00527,C0384,7/15/2023,July,Q3,2023,Delivered,Online,PayPal,0,1745.19,0,1745.19,9
+O00528,C0351,7/29/2022,July,Q3,2022,Cancelled,Online,Apple Pay,0,954.96,0,954.96,
+O00529,C0077,4/27/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0,94.64,6.88,101.52,2
+O00530,C0032,10/2/2023,October,Q4,2023,Delivered,Online,PayPal,0.15,1056.84,0,1056.84,6
+O00531,C0320,2/17/2023,February,Q1,2023,Returned,Online,Google Pay,0,987.51,0,987.51,
+O00532,C0301,10/23/2023,October,Q4,2023,Delivered,Mobile App,Google Pay,0.1,879.34,0,879.34,3
+O00533,C0085,5/2/2023,May,Q2,2023,Delivered,Online,Credit Card,0,323.22,0,323.22,11
+O00534,C0242,12/1/2022,December,Q4,2022,Delivered,Mobile App,Google Pay,0.05,1260.39,0,1260.39,10
+O00535,C0432,8/8/2022,August,Q3,2022,Cancelled,Mobile App,Apple Pay,0.1,487.05,0,487.05,
+O00536,C0286,3/22/2023,March,Q1,2023,Delivered,Online,PayPal,0.2,897.97,0,897.97,7
+O00537,C0192,7/3/2022,July,Q3,2022,Returned,Online,PayPal,0.1,157.35,0,157.35,
+O00538,C0159,12/3/2022,December,Q4,2022,Delivered,In-Store,Google Pay,0,440.14,0,440.14,11
+O00539,C0141,10/20/2023,October,Q4,2023,Delivered,Online,PayPal,0,1580.65,0,1580.65,13
+O00540,C0054,2/9/2022,February,Q1,2022,Delivered,Mobile App,Debit Card,0.15,584.54,0,584.54,6
+O00541,C0050,7/12/2023,July,Q3,2023,Returned,Mobile App,Credit Card,0,1478.49,0,1478.49,
+O00542,C0214,11/15/2023,November,Q4,2023,Delivered,Mobile App,Google Pay,0,252.72,0,252.72,8
+O00543,C0023,10/10/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0,733.18,0,733.18,10
+O00544,C0429,12/15/2023,December,Q4,2023,Pending,Online,Credit Card,0,359.73,0,359.73,
+O00545,C0096,11/22/2022,November,Q4,2022,Delivered,Online,Debit Card,0.15,116.78,0,116.78,12
+O00546,C0483,9/10/2022,September,Q3,2022,Returned,Mobile App,PayPal,0,1277.32,0,1277.32,
+O00547,C0428,7/12/2022,July,Q3,2022,Returned,Mobile App,PayPal,0,714.03,0,714.03,
+O00548,C0396,10/20/2023,October,Q4,2023,Delivered,Online,Google Pay,0.05,1709.09,0,1709.09,9
+O00549,C0425,10/3/2022,October,Q4,2022,Returned,In-Store,Debit Card,0.05,192.35,0,192.35,
+O00550,C0265,11/6/2023,November,Q4,2023,Pending,Mobile App,Apple Pay,0.1,478.53,0,478.53,
+O00551,C0462,2/4/2022,February,Q1,2022,Delivered,In-Store,Credit Card,0,666.87,0,666.87,8
+O00552,C0280,7/10/2022,July,Q3,2022,Pending,Mobile App,Apple Pay,0.1,194.52,0,194.52,
+O00553,C0375,2/13/2023,February,Q1,2023,Returned,In-Store,PayPal,0.1,769.54,0,769.54,
+O00554,C0489,8/15/2023,August,Q3,2023,Delivered,Mobile App,Google Pay,0,665.36,0,665.36,5
+O00555,C0406,5/25/2022,May,Q2,2022,Pending,Online,Debit Card,0.05,479.12,0,479.12,
+O00556,C0121,7/28/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0.15,934.56,0,934.56,8
+O00557,C0343,1/21/2023,January,Q1,2023,Returned,Online,Apple Pay,0,1111.74,0,1111.74,
+O00558,C0343,8/24/2023,August,Q3,2023,Returned,Mobile App,Debit Card,0.2,209.8,0,209.8,
+O00559,C0175,5/29/2023,May,Q2,2023,Delivered,Online,Debit Card,0,42.43,3.17,45.6,7
+O00560,C0048,12/14/2022,December,Q4,2022,Delivered,Online,Debit Card,0,810.44,0,810.44,14
+O00561,C0055,4/22/2023,April,Q2,2023,Delivered,Online,Apple Pay,0.2,189.74,0,189.74,3
+O00562,C0295,6/4/2023,June,Q2,2023,Pending,Online,Apple Pay,0.15,950.02,0,950.02,
+O00563,C0400,4/30/2023,April,Q2,2023,Delivered,Online,Debit Card,0.05,824.26,0,824.26,5
+O00564,C0102,6/12/2023,June,Q2,2023,Delivered,Online,Apple Pay,0,1534.77,0,1534.77,13
+O00565,C0420,1/25/2022,January,Q1,2022,Delivered,In-Store,PayPal,0.05,673.42,0,673.42,9
+O00566,C0379,2/10/2023,February,Q1,2023,Delivered,Online,Google Pay,0,713.78,0,713.78,6
+O00567,C0498,4/15/2023,April,Q2,2023,Pending,Online,Credit Card,0,663.35,0,663.35,
+O00568,C0196,6/9/2023,June,Q2,2023,Delivered,In-Store,Apple Pay,0.05,263.52,0,263.52,12
+O00569,C0335,3/23/2022,March,Q1,2022,Delivered,Mobile App,Google Pay,0,1260.33,0,1260.33,12
+O00570,C0353,7/10/2022,July,Q3,2022,Delivered,Mobile App,Apple Pay,0,725.24,0,725.24,5
+O00571,C0137,4/19/2023,April,Q2,2023,Delivered,Mobile App,Debit Card,0,1016.72,0,1016.72,7
+O00572,C0326,9/2/2023,September,Q3,2023,Delivered,Online,Google Pay,0,935.95,0,935.95,12
+O00573,C0088,11/21/2023,November,Q4,2023,Cancelled,Online,Credit Card,0.15,1212.93,0,1212.93,
+O00574,C0150,11/19/2022,November,Q4,2022,Pending,Online,Debit Card,0.1,921.6,0,921.6,
+O00575,C0121,1/20/2023,January,Q1,2023,Delivered,Mobile App,Credit Card,0,836.42,0,836.42,3
+O00576,C0443,6/12/2022,June,Q2,2022,Delivered,In-Store,Debit Card,0.05,2144.49,0,2144.49,4
+O00577,C0440,2/18/2023,February,Q1,2023,Pending,In-Store,Apple Pay,0,1713.12,0,1713.12,
+O00578,C0335,3/5/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0.1,1399.75,0,1399.75,10
+O00579,C0128,6/20/2022,June,Q2,2022,Delivered,In-Store,Credit Card,0.15,784.05,0,784.05,12
+O00580,C0472,7/24/2022,July,Q3,2022,Delivered,In-Store,Credit Card,0,992.08,0,992.08,13
+O00581,C0091,4/18/2023,April,Q2,2023,Delivered,Mobile App,Debit Card,0.05,79.44,10.23,89.67,7
+O00582,C0444,6/17/2023,June,Q2,2023,Delivered,Online,Apple Pay,0,1993.11,0,1993.11,14
+O00583,C0422,2/10/2022,February,Q1,2022,Delivered,Mobile App,Apple Pay,0.05,867.84,0,867.84,11
+O00584,C0174,5/26/2022,May,Q2,2022,Pending,Mobile App,PayPal,0,851.95,0,851.95,
+O00585,C0386,9/8/2022,September,Q3,2022,Delivered,In-Store,Apple Pay,0,971.1,0,971.1,9
+O00586,C0148,1/27/2022,January,Q1,2022,Delivered,Mobile App,PayPal,0.15,714.33,0,714.33,8
+O00587,C0366,3/27/2023,March,Q1,2023,Delivered,Mobile App,Debit Card,0.1,1120.52,0,1120.52,3
+O00588,C0300,1/13/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0.05,887.43,0,887.43,6
+O00589,C0194,5/12/2023,May,Q2,2023,Pending,Mobile App,Apple Pay,0.05,259.61,0,259.61,
+O00590,C0106,8/18/2022,August,Q3,2022,Cancelled,Mobile App,Credit Card,0.15,679.22,0,679.22,
+O00591,C0431,6/21/2023,June,Q2,2023,Returned,In-Store,Credit Card,0.05,378.24,0,378.24,
+O00592,C0284,7/2/2023,July,Q3,2023,Delivered,Online,Google Pay,0.1,118.38,0,118.38,13
+O00593,C0379,7/7/2022,July,Q3,2022,Returned,Online,Debit Card,0,912.93,0,912.93,
+O00594,C0376,3/7/2022,March,Q1,2022,Cancelled,Online,Debit Card,0,808.96,0,808.96,
+O00595,C0275,2/22/2022,February,Q1,2022,Delivered,Mobile App,Apple Pay,0,598.52,0,598.52,8
+O00596,C0154,8/6/2023,August,Q3,2023,Delivered,Online,Apple Pay,0.2,86.44,12.09,98.53,10
+O00597,C0387,4/13/2023,April,Q2,2023,Cancelled,Online,Google Pay,0,489.93,0,489.93,
+O00598,C0169,6/4/2023,June,Q2,2023,Cancelled,In-Store,PayPal,0.2,1258.49,0,1258.49,
+O00599,C0250,1/7/2022,January,Q1,2022,Pending,Online,Debit Card,0,1167.56,0,1167.56,
+O00600,C0422,7/7/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0,348.42,0,348.42,11
+O00601,C0154,9/17/2023,September,Q3,2023,Delivered,In-Store,Debit Card,0,323.66,0,323.66,6
+O00602,C0490,6/13/2023,June,Q2,2023,Delivered,In-Store,Debit Card,0,1692.43,0,1692.43,7
+O00603,C0289,2/7/2023,February,Q1,2023,Delivered,Online,Credit Card,0.05,1013.52,0,1013.52,1
+O00604,C0165,3/14/2023,March,Q1,2023,Delivered,Mobile App,Google Pay,0.15,780.65,0,780.65,12
+O00605,C0304,4/27/2023,April,Q2,2023,Delivered,Online,Debit Card,0,660.21,0,660.21,1
+O00606,C0052,2/27/2022,February,Q1,2022,Cancelled,Mobile App,PayPal,0.05,745.6,0,745.6,
+O00607,C0302,11/3/2022,November,Q4,2022,Delivered,Online,Debit Card,0,793.32,0,793.32,14
+O00608,C0150,12/8/2023,December,Q4,2023,Delivered,Online,PayPal,0.2,370.1,0,370.1,3
+O00609,C0165,4/25/2023,April,Q2,2023,Pending,In-Store,PayPal,0,1022.51,0,1022.51,
+O00610,C0072,5/3/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.2,874.56,0,874.56,8
+O00611,C0145,8/12/2023,August,Q3,2023,Delivered,Online,Google Pay,0,721.56,0,721.56,11
+O00612,C0098,3/16/2022,March,Q1,2022,Cancelled,Online,Apple Pay,0.15,1063.22,0,1063.22,
+O00613,C0295,10/28/2022,October,Q4,2022,Delivered,Online,Credit Card,0,217.08,0,217.08,5
+O00614,C0439,8/17/2022,August,Q3,2022,Pending,Mobile App,Google Pay,0,809.72,0,809.72,
+O00615,C0274,9/9/2023,September,Q3,2023,Delivered,Mobile App,PayPal,0,68.62,9.87,78.49,4
+O00616,C0156,6/17/2022,June,Q2,2022,Cancelled,Mobile App,Debit Card,0.2,611.44,0,611.44,
+O00617,C0229,3/26/2023,March,Q1,2023,Returned,Mobile App,Apple Pay,0.1,1227.95,0,1227.95,
+O00618,C0184,11/21/2022,November,Q4,2022,Returned,Mobile App,Credit Card,0.2,1047.49,0,1047.49,
+O00619,C0493,4/13/2022,April,Q2,2022,Delivered,In-Store,Credit Card,0.05,1290.66,0,1290.66,5
+O00620,C0374,10/25/2023,October,Q4,2023,Delivered,Mobile App,Debit Card,0,731.52,0,731.52,10
+O00621,C0411,8/3/2022,August,Q3,2022,Delivered,Mobile App,Apple Pay,0.2,535.35,0,535.35,13
+O00622,C0084,1/31/2022,January,Q1,2022,Returned,In-Store,Apple Pay,0.15,901.03,0,901.03,
+O00623,C0468,2/22/2023,February,Q1,2023,Delivered,Mobile App,Google Pay,0,103.61,0,103.61,6
+O00624,C0460,8/17/2022,August,Q3,2022,Delivered,Online,Credit Card,0.05,392.66,0,392.66,8
+O00625,C0069,9/10/2023,September,Q3,2023,Cancelled,Online,Apple Pay,0,253.24,0,253.24,
+O00626,C0188,9/21/2023,September,Q3,2023,Pending,Online,Google Pay,0,126.62,0,126.62,
+O00627,C0067,5/27/2022,May,Q2,2022,Delivered,Online,Apple Pay,0,344.65,0,344.65,12
+O00628,C0338,11/5/2022,November,Q4,2022,Pending,Mobile App,Google Pay,0.1,1002.54,0,1002.54,
+O00629,C0383,1/30/2023,January,Q1,2023,Returned,Mobile App,Credit Card,0,291.91,0,291.91,
+O00630,C0083,2/11/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.05,1207.55,0,1207.55,5
+O00631,C0280,3/27/2023,March,Q1,2023,Cancelled,Mobile App,PayPal,0,322.94,0,322.94,
+O00632,C0414,5/15/2023,May,Q2,2023,Delivered,In-Store,Google Pay,0,651.74,0,651.74,9
+O00633,C0365,10/30/2022,October,Q4,2022,Delivered,In-Store,Apple Pay,0.05,464.74,0,464.74,4
+O00634,C0073,11/28/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0.1,687.18,0,687.18,13
+O00635,C0273,1/7/2023,January,Q1,2023,Delivered,In-Store,Debit Card,0,827.36,0,827.36,9
+O00636,C0483,9/17/2023,September,Q3,2023,Returned,In-Store,Credit Card,0.05,754.49,0,754.49,
+O00637,C0129,12/27/2023,December,Q4,2023,Returned,Mobile App,Google Pay,0,445.92,0,445.92,
+O00638,C0331,3/6/2023,March,Q1,2023,Returned,Mobile App,PayPal,0,1087.05,0,1087.05,
+O00639,C0390,12/2/2022,December,Q4,2022,Delivered,Mobile App,PayPal,0.1,264.3,0,264.3,8
+O00640,C0119,11/8/2023,November,Q4,2023,Cancelled,Online,Google Pay,0.15,1506.59,0,1506.59,
+O00641,C0219,8/23/2023,August,Q3,2023,Pending,In-Store,Debit Card,0.1,499.89,0,499.89,
+O00642,C0124,11/12/2023,November,Q4,2023,Delivered,Online,Credit Card,0.15,1418.07,0,1418.07,1
+O00643,C0052,1/1/2024,January,Q1,2024,Returned,Mobile App,Apple Pay,0,1855.49,0,1855.49,
+O00644,C0446,11/15/2023,November,Q4,2023,Delivered,Mobile App,Credit Card,0.1,703.55,0,703.55,12
+O00645,C0382,2/10/2022,February,Q1,2022,Pending,Online,Google Pay,0.2,900.16,0,900.16,
+O00646,C0093,1/25/2022,January,Q1,2022,Delivered,In-Store,Apple Pay,0.2,743.74,0,743.74,13
+O00647,C0025,11/29/2022,November,Q4,2022,Cancelled,Mobile App,Debit Card,0.1,1152.39,0,1152.39,
+O00648,C0379,8/22/2022,August,Q3,2022,Cancelled,Online,Credit Card,0.15,968.3,0,968.3,
+O00649,C0180,12/12/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0,1629.01,0,1629.01,7
+O00650,C0317,12/14/2023,December,Q4,2023,Returned,Online,Credit Card,0.15,433.71,0,433.71,
+O00651,C0437,9/27/2022,September,Q3,2022,Delivered,Mobile App,PayPal,0.05,599.9,0,599.9,2
+O00652,C0166,8/19/2022,August,Q3,2022,Delivered,Mobile App,Google Pay,0,860.2,0,860.2,5
+O00653,C0125,1/22/2022,January,Q1,2022,Pending,Online,Google Pay,0.1,1535.74,0,1535.74,
+O00654,C0412,9/27/2022,September,Q3,2022,Delivered,In-Store,Debit Card,0,1584.24,0,1584.24,13
+O00655,C0260,12/27/2023,December,Q4,2023,Delivered,Online,Google Pay,0,1043.63,0,1043.63,8
+O00656,C0303,3/23/2023,March,Q1,2023,Delivered,Online,Google Pay,0.05,341.13,0,341.13,6
+O00657,C0245,12/25/2023,December,Q4,2023,Delivered,In-Store,Credit Card,0.15,988.82,0,988.82,8
+O00658,C0221,12/23/2023,December,Q4,2023,Delivered,Mobile App,Apple Pay,0,890.48,0,890.48,10
+O00659,C0409,6/5/2023,June,Q2,2023,Delivered,Mobile App,Google Pay,0,954.28,0,954.28,12
+O00660,C0100,9/12/2022,September,Q3,2022,Delivered,Online,Apple Pay,0.15,477.32,0,477.32,12
+O00661,C0486,12/3/2023,December,Q4,2023,Delivered,Online,Apple Pay,0,1180.86,0,1180.86,5
+O00662,C0206,7/25/2022,July,Q3,2022,Delivered,Online,PayPal,0.05,757.53,0,757.53,9
+O00663,C0031,12/1/2023,December,Q4,2023,Delivered,Mobile App,Credit Card,0.1,616.98,0,616.98,14
+O00664,C0036,6/26/2022,June,Q2,2022,Pending,Mobile App,Google Pay,0,929.13,0,929.13,
+O00665,C0294,7/1/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0.2,1110.82,0,1110.82,10
+O00666,C0266,6/21/2022,June,Q2,2022,Pending,Mobile App,Google Pay,0,513.88,0,513.88,
+O00667,C0476,11/6/2023,November,Q4,2023,Pending,Online,Google Pay,0,580.48,0,580.48,
+O00668,C0416,11/7/2023,November,Q4,2023,Delivered,In-Store,Google Pay,0.1,194.52,0,194.52,9
+O00669,C0202,7/14/2023,July,Q3,2023,Cancelled,In-Store,Debit Card,0.05,915.05,0,915.05,
+O00670,C0194,3/26/2022,March,Q1,2022,Delivered,Online,Credit Card,0,1277.09,0,1277.09,5
+O00671,C0457,8/25/2023,August,Q3,2023,Delivered,Online,Google Pay,0,754.92,0,754.92,1
+O00672,C0422,12/2/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0.15,536.43,0,536.43,10
+O00673,C0328,9/20/2023,September,Q3,2023,Delivered,Online,Debit Card,0.15,287.44,0,287.44,4
+O00674,C0338,12/5/2022,December,Q4,2022,Delivered,Mobile App,PayPal,0.2,491.95,0,491.95,10
+O00675,C0343,9/22/2022,September,Q3,2022,Cancelled,Mobile App,PayPal,0.05,546.96,0,546.96,
+O00676,C0022,12/14/2023,December,Q4,2023,Delivered,Mobile App,Credit Card,0.15,661.2,0,661.2,5
+O00677,C0275,10/21/2022,October,Q4,2022,Cancelled,Online,Credit Card,0.05,528.18,0,528.18,
+O00678,C0246,4/22/2022,April,Q2,2022,Returned,Online,Apple Pay,0,286.65,0,286.65,
+O00679,C0124,3/23/2023,March,Q1,2023,Pending,Mobile App,Apple Pay,0.1,619,0,619,
+O00680,C0008,6/6/2022,June,Q2,2022,Cancelled,Mobile App,PayPal,0.05,1053.62,0,1053.62,
+O00681,C0116,7/8/2022,July,Q3,2022,Delivered,Online,Credit Card,0.2,335.6,0,335.6,9
+O00682,C0083,5/27/2022,May,Q2,2022,Delivered,Online,Credit Card,0.05,797.93,0,797.93,3
+O00683,C0462,4/17/2022,April,Q2,2022,Delivered,Online,Credit Card,0.1,725.13,0,725.13,10
+O00684,C0280,3/17/2022,March,Q1,2022,Pending,Mobile App,Apple Pay,0,726.72,0,726.72,
+O00685,C0231,9/1/2022,September,Q3,2022,Cancelled,In-Store,Apple Pay,0.05,1210.19,0,1210.19,
+O00686,C0379,1/22/2022,January,Q1,2022,Cancelled,Mobile App,Credit Card,0.05,1130.12,0,1130.12,
+O00687,C0228,2/2/2023,February,Q1,2023,Delivered,In-Store,PayPal,0.15,999.39,0,999.39,6
+O00688,C0461,4/20/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0.05,1577.85,0,1577.85,6
+O00689,C0283,6/10/2022,June,Q2,2022,Delivered,Mobile App,Apple Pay,0,1506.22,0,1506.22,3
+O00690,C0211,11/21/2022,November,Q4,2022,Returned,Mobile App,Apple Pay,0,1236.09,0,1236.09,
+O00691,C0437,4/3/2022,April,Q2,2022,Delivered,Mobile App,Debit Card,0,1310.33,0,1310.33,12
+O00692,C0090,10/24/2022,October,Q4,2022,Delivered,Mobile App,Debit Card,0,782.11,0,782.11,11
+O00693,C0241,12/18/2023,December,Q4,2023,Returned,Online,Debit Card,0.05,647.69,0,647.69,
+O00694,C0301,12/6/2023,December,Q4,2023,Pending,Mobile App,Google Pay,0,1022.86,0,1022.86,
+O00695,C0036,7/1/2022,July,Q3,2022,Cancelled,Online,Debit Card,0,442.73,0,442.73,
+O00696,C0182,9/10/2023,September,Q3,2023,Delivered,Mobile App,Google Pay,0.05,1192.21,0,1192.21,11
+O00697,C0123,12/19/2023,December,Q4,2023,Cancelled,Online,Apple Pay,0,761.73,0,761.73,
+O00698,C0447,10/2/2023,October,Q4,2023,Delivered,In-Store,Apple Pay,0,348.26,0,348.26,1
+O00699,C0356,11/20/2023,November,Q4,2023,Delivered,In-Store,PayPal,0.2,898.56,0,898.56,9
+O00700,C0099,5/16/2023,May,Q2,2023,Cancelled,Online,Apple Pay,0.15,505.92,0,505.92,
+O00701,C0039,7/1/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0.2,902.81,0,902.81,3
+O00702,C0299,10/4/2023,October,Q4,2023,Delivered,Online,Google Pay,0,1051.6,0,1051.6,4
+O00703,C0026,3/23/2022,March,Q1,2022,Delivered,Mobile App,Debit Card,0.05,1107.91,0,1107.91,1
+O00704,C0041,6/30/2022,June,Q2,2022,Cancelled,Mobile App,Google Pay,0.1,402.96,0,402.96,
+O00705,C0435,11/26/2022,November,Q4,2022,Delivered,Online,Google Pay,0,611.63,0,611.63,5
+O00706,C0423,12/20/2022,December,Q4,2022,Delivered,In-Store,PayPal,0.2,413.02,0,413.02,12
+O00707,C0031,9/27/2023,September,Q3,2023,Delivered,Online,Credit Card,0.15,1330.8,0,1330.8,8
+O00708,C0184,5/7/2023,May,Q2,2023,Pending,In-Store,Apple Pay,0,1340.83,0,1340.83,
+O00709,C0451,4/18/2023,April,Q2,2023,Delivered,Online,Apple Pay,0.05,988.61,0,988.61,7
+O00710,C0188,1/15/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0,1384.46,0,1384.46,3
+O00711,C0156,7/17/2023,July,Q3,2023,Returned,Mobile App,Apple Pay,0.1,714.58,0,714.58,
+O00712,C0035,11/28/2022,November,Q4,2022,Cancelled,Mobile App,Debit Card,0.1,1173.62,0,1173.62,
+O00713,C0220,9/19/2023,September,Q3,2023,Delivered,Mobile App,PayPal,0,206.07,0,206.07,6
+O00714,C0290,4/30/2023,April,Q2,2023,Delivered,Online,PayPal,0.05,124.95,0,124.95,12
+O00715,C0120,11/17/2022,November,Q4,2022,Cancelled,Mobile App,PayPal,0.1,1048.47,0,1048.47,
+O00716,C0289,4/27/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0.05,475.83,0,475.83,2
+O00717,C0271,5/18/2023,May,Q2,2023,Cancelled,Online,Apple Pay,0.05,1134.89,0,1134.89,
+O00718,C0423,9/28/2023,September,Q3,2023,Delivered,In-Store,PayPal,0.05,1569.86,0,1569.86,12
+O00719,C0454,7/19/2022,July,Q3,2022,Returned,Online,Apple Pay,0.15,477.97,0,477.97,
+O00720,C0041,1/13/2023,January,Q1,2023,Delivered,Online,Apple Pay,0.1,727.18,0,727.18,3
+O00721,C0301,5/12/2022,May,Q2,2022,Delivered,Online,Credit Card,0.2,620.34,0,620.34,11
+O00722,C0223,10/24/2023,October,Q4,2023,Delivered,Mobile App,PayPal,0.1,1231.15,0,1231.15,12
+O00723,C0368,1/1/2024,January,Q1,2024,Pending,Online,Credit Card,0,546.96,0,546.96,
+O00724,C0048,1/4/2023,January,Q1,2023,Delivered,Online,Apple Pay,0,1136.7,0,1136.7,12
+O00725,C0080,7/16/2023,July,Q3,2023,Returned,Online,Debit Card,0,202.47,0,202.47,
+O00726,C0029,10/23/2023,October,Q4,2023,Delivered,Mobile App,Apple Pay,0,156.57,0,156.57,3
+O00727,C0489,5/21/2022,May,Q2,2022,Delivered,Online,Apple Pay,0,1017.2,0,1017.2,10
+O00728,C0019,8/2/2022,August,Q3,2022,Pending,Online,PayPal,0.15,371.42,0,371.42,
+O00729,C0109,6/5/2022,June,Q2,2022,Cancelled,In-Store,Google Pay,0,323.22,0,323.22,
+O00730,C0428,7/26/2022,July,Q3,2022,Delivered,Mobile App,PayPal,0,1109.65,0,1109.65,13
+O00731,C0208,7/29/2022,July,Q3,2022,Delivered,Online,Apple Pay,0.2,649.13,0,649.13,14
+O00732,C0354,11/22/2023,November,Q4,2023,Cancelled,In-Store,Apple Pay,0,496.65,0,496.65,
+O00733,C0262,1/25/2022,January,Q1,2022,Delivered,Mobile App,Debit Card,0.2,848.42,0,848.42,10
+O00734,C0386,6/19/2022,June,Q2,2022,Pending,Mobile App,Google Pay,0,751.11,0,751.11,
+O00735,C0156,4/1/2023,April,Q2,2023,Delivered,Online,Credit Card,0,1819.35,0,1819.35,2
+O00736,C0155,5/26/2022,May,Q2,2022,Pending,Mobile App,Credit Card,0.15,752.23,0,752.23,
+O00737,C0234,8/17/2023,August,Q3,2023,Cancelled,Online,Google Pay,0.05,637.73,0,637.73,
+O00738,C0255,3/19/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0.1,1033.58,0,1033.58,14
+O00739,C0097,8/29/2022,August,Q3,2022,Delivered,Online,Google Pay,0.2,632.99,0,632.99,14
+O00740,C0242,7/12/2023,July,Q3,2023,Delivered,In-Store,Google Pay,0.1,646.16,0,646.16,10
+O00741,C0206,1/17/2023,January,Q1,2023,Delivered,In-Store,Debit Card,0.2,1221.55,0,1221.55,11
+O00742,C0239,4/7/2023,April,Q2,2023,Delivered,In-Store,Google Pay,0.2,788.49,0,788.49,14
+O00743,C0409,8/11/2023,August,Q3,2023,Returned,Online,Credit Card,0.2,411.72,0,411.72,
+O00744,C0054,8/13/2023,August,Q3,2023,Cancelled,Mobile App,Debit Card,0.15,681.96,0,681.96,
+O00745,C0251,4/30/2022,April,Q2,2022,Delivered,Mobile App,Apple Pay,0.1,1294.77,0,1294.77,4
+O00746,C0328,10/22/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0.2,982.11,0,982.11,14
+O00747,C0098,1/25/2022,January,Q1,2022,Delivered,In-Store,Credit Card,0,484.41,0,484.41,2
+O00748,C0130,4/9/2023,April,Q2,2023,Delivered,In-Store,Apple Pay,0,269.85,0,269.85,6
+O00749,C0199,1/19/2023,January,Q1,2023,Cancelled,Online,Google Pay,0.1,719.98,0,719.98,
+O00750,C0017,5/27/2023,May,Q2,2023,Delivered,Online,PayPal,0.15,1243.26,0,1243.26,11
+O00751,C0252,1/28/2022,January,Q1,2022,Delivered,Online,Credit Card,0.05,973.33,0,973.33,8
+O00752,C0018,11/27/2022,November,Q4,2022,Pending,Mobile App,Google Pay,0.05,1284.84,0,1284.84,
+O00753,C0036,5/30/2023,May,Q2,2023,Pending,In-Store,Google Pay,0.05,983,0,983,
+O00754,C0061,12/16/2023,December,Q4,2023,Delivered,Online,PayPal,0.2,661.79,0,661.79,4
+O00755,C0003,2/1/2023,February,Q1,2023,Delivered,Online,PayPal,0,806.74,0,806.74,12
+O00756,C0228,12/19/2023,December,Q4,2023,Delivered,Mobile App,Debit Card,0,541.11,0,541.11,8
+O00757,C0255,1/11/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.15,1021.06,0,1021.06,2
+O00758,C0135,11/12/2023,November,Q4,2023,Pending,Online,Google Pay,0,1023.88,0,1023.88,
+O00759,C0229,11/7/2023,November,Q4,2023,Cancelled,Online,Credit Card,0.2,587.6,0,587.6,
+O00760,C0076,11/4/2022,November,Q4,2022,Delivered,Online,PayPal,0,873.15,0,873.15,10
+O00761,C0272,1/10/2022,January,Q1,2022,Delivered,In-Store,Debit Card,0.2,822.77,0,822.77,3
+O00762,C0199,7/21/2023,July,Q3,2023,Delivered,Mobile App,Google Pay,0,167.24,0,167.24,2
+O00763,C0290,6/18/2022,June,Q2,2022,Delivered,In-Store,Debit Card,0.2,288.66,0,288.66,13
+O00764,C0203,1/29/2022,January,Q1,2022,Delivered,Online,Apple Pay,0.1,636.22,0,636.22,11
+O00765,C0447,10/13/2023,October,Q4,2023,Returned,Mobile App,Google Pay,0,330.06,0,330.06,
+O00766,C0034,7/30/2023,July,Q3,2023,Delivered,Online,PayPal,0,452.1,0,452.1,11
+O00767,C0414,12/16/2022,December,Q4,2022,Delivered,In-Store,Apple Pay,0.1,1212.57,0,1212.57,3
+O00768,C0241,12/12/2022,December,Q4,2022,Pending,In-Store,Google Pay,0.1,401.94,0,401.94,
+O00769,C0129,10/7/2023,October,Q4,2023,Cancelled,In-Store,Google Pay,0.1,576.62,0,576.62,
+O00770,C0423,12/10/2022,December,Q4,2022,Cancelled,In-Store,Google Pay,0.05,1549.89,0,1549.89,
+O00771,C0105,4/19/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0,1215.89,0,1215.89,6
+O00772,C0126,2/6/2023,February,Q1,2023,Cancelled,Mobile App,Apple Pay,0.1,816.97,0,816.97,
+O00773,C0097,9/18/2022,September,Q3,2022,Pending,Mobile App,Google Pay,0.2,1099.24,0,1099.24,
+O00774,C0244,3/24/2023,March,Q1,2023,Delivered,Online,Debit Card,0,817.37,0,817.37,12
+O00775,C0352,3/10/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0,943.66,0,943.66,4
+O00776,C0119,8/14/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0,877.76,0,877.76,1
+O00777,C0489,6/14/2022,June,Q2,2022,Cancelled,Online,Credit Card,0,263.06,0,263.06,
+O00778,C0124,4/16/2023,April,Q2,2023,Delivered,Mobile App,PayPal,0,599.78,0,599.78,14
+O00779,C0308,1/31/2023,January,Q1,2023,Returned,Mobile App,Credit Card,0.2,1177.05,0,1177.05,
+O00780,C0452,11/21/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0,1419.1,0,1419.1,10
+O00781,C0429,12/17/2023,December,Q4,2023,Delivered,Online,Debit Card,0,1162.73,0,1162.73,4
+O00782,C0331,12/16/2023,December,Q4,2023,Pending,Online,Apple Pay,0.1,280.7,0,280.7,
+O00783,C0011,5/18/2023,May,Q2,2023,Pending,Online,Credit Card,0.05,1501.63,0,1501.63,
+O00784,C0307,6/28/2023,June,Q2,2023,Delivered,Online,PayPal,0,920.3,0,920.3,12
+O00785,C0284,2/21/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0.05,539.18,0,539.18,3
+O00786,C0267,3/10/2022,March,Q1,2022,Delivered,Mobile App,Credit Card,0.1,513.34,0,513.34,3
+O00787,C0121,1/18/2022,January,Q1,2022,Delivered,Online,Credit Card,0,580.5,0,580.5,12
+O00788,C0092,6/6/2022,June,Q2,2022,Returned,Online,PayPal,0.2,619.23,0,619.23,
+O00789,C0459,2/28/2022,February,Q1,2022,Delivered,Mobile App,Credit Card,0.05,1077.51,0,1077.51,12
+O00790,C0128,6/15/2022,June,Q2,2022,Delivered,Online,Debit Card,0,548.36,0,548.36,13
+O00791,C0251,11/25/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0.15,1045.67,0,1045.67,3
+O00792,C0413,2/7/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0.2,513.55,0,513.55,5
+O00793,C0192,1/25/2022,January,Q1,2022,Pending,Mobile App,Credit Card,0,1605.66,0,1605.66,
+O00794,C0203,9/8/2022,September,Q3,2022,Delivered,Mobile App,Apple Pay,0,684.38,0,684.38,8
+O00795,C0067,3/2/2023,March,Q1,2023,Returned,Mobile App,Credit Card,0,68.69,6.98,75.67,
+O00796,C0198,11/1/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0,1020.04,0,1020.04,1
+O00797,C0052,5/30/2022,May,Q2,2022,Delivered,Online,Google Pay,0,673.68,0,673.68,6
+O00798,C0319,12/1/2022,December,Q4,2022,Delivered,Online,Google Pay,0.1,1152.88,0,1152.88,9
+O00799,C0035,6/7/2022,June,Q2,2022,Delivered,Online,PayPal,0,1075.76,0,1075.76,3
+O00800,C0100,3/5/2023,March,Q1,2023,Delivered,Mobile App,Apple Pay,0.1,309.65,0,309.65,14
+O00801,C0020,9/29/2022,September,Q3,2022,Delivered,Mobile App,Apple Pay,0,1705.68,0,1705.68,10
+O00802,C0286,7/16/2023,July,Q3,2023,Delivered,Mobile App,Debit Card,0.15,925.92,0,925.92,7
+O00803,C0248,10/6/2022,October,Q4,2022,Cancelled,Online,Apple Pay,0,561,0,561,
+O00804,C0238,6/6/2022,June,Q2,2022,Delivered,Online,Apple Pay,0.05,424.04,0,424.04,2
+O00805,C0125,6/16/2022,June,Q2,2022,Delivered,In-Store,Credit Card,0.05,933.52,0,933.52,8
+O00806,C0476,2/10/2023,February,Q1,2023,Delivered,Online,Debit Card,0,499.04,0,499.04,6
+O00807,C0304,1/21/2023,January,Q1,2023,Delivered,Online,Credit Card,0.2,125.86,0,125.86,7
+O00808,C0253,4/5/2022,April,Q2,2022,Delivered,Online,Apple Pay,0,706.77,0,706.77,11
+O00809,C0293,3/31/2022,March,Q1,2022,Delivered,In-Store,PayPal,0,594.66,0,594.66,1
+O00810,C0315,1/1/2022,January,Q1,2022,Delivered,Online,Apple Pay,0,914.46,0,914.46,14
+O00811,C0314,10/19/2022,October,Q4,2022,Delivered,Online,Google Pay,0.2,568.83,0,568.83,10
+O00812,C0115,12/7/2023,December,Q4,2023,Delivered,Online,PayPal,0.15,635.06,0,635.06,7
+O00813,C0414,8/29/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0.05,977.63,0,977.63,8
+O00814,C0065,6/2/2022,June,Q2,2022,Cancelled,In-Store,PayPal,0.1,288.72,0,288.72,
+O00815,C0223,2/24/2023,February,Q1,2023,Cancelled,Mobile App,Apple Pay,0.15,444.88,0,444.88,
+O00816,C0201,7/16/2022,July,Q3,2022,Delivered,Online,Credit Card,0.2,884.94,0,884.94,8
+O00817,C0069,12/1/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0,919.49,0,919.49,8
+O00818,C0491,10/12/2022,October,Q4,2022,Delivered,Online,Credit Card,0.2,736.31,0,736.31,6
+O00819,C0002,4/18/2022,April,Q2,2022,Returned,Mobile App,Debit Card,0,1694,0,1694,
+O00820,C0395,2/10/2022,February,Q1,2022,Cancelled,Mobile App,Apple Pay,0,1682.81,0,1682.81,
+O00821,C0473,11/19/2022,November,Q4,2022,Pending,In-Store,PayPal,0.15,960.11,0,960.11,
+O00822,C0136,1/5/2022,January,Q1,2022,Delivered,Mobile App,Apple Pay,0,260.56,0,260.56,9
+O00823,C0417,7/14/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0.2,867.83,0,867.83,9
+O00824,C0372,12/3/2022,December,Q4,2022,Returned,Online,Apple Pay,0,385.46,0,385.46,
+O00825,C0067,9/22/2022,September,Q3,2022,Cancelled,In-Store,Apple Pay,0,867.33,0,867.33,
+O00826,C0392,10/23/2022,October,Q4,2022,Delivered,Online,Debit Card,0.2,466.67,0,466.67,2
+O00827,C0257,7/2/2023,July,Q3,2023,Delivered,Online,Google Pay,0,749.51,0,749.51,2
+O00828,C0084,5/30/2022,May,Q2,2022,Delivered,Mobile App,Google Pay,0,729.82,0,729.82,13
+O00829,C0416,2/17/2023,February,Q1,2023,Delivered,Mobile App,Google Pay,0.15,463.56,0,463.56,14
+O00830,C0337,5/22/2023,May,Q2,2023,Delivered,In-Store,PayPal,0,1418.78,0,1418.78,7
+O00831,C0384,1/8/2022,January,Q1,2022,Pending,Online,Debit Card,0.2,895.9,0,895.9,
+O00832,C0284,7/19/2023,July,Q3,2023,Delivered,Mobile App,Credit Card,0.2,894.02,0,894.02,1
+O00833,C0481,11/4/2022,November,Q4,2022,Cancelled,Online,Debit Card,0,360.87,0,360.87,
+O00834,C0256,11/12/2022,November,Q4,2022,Delivered,Online,Credit Card,0,636.7,0,636.7,2
+O00835,C0049,9/28/2022,September,Q3,2022,Delivered,Online,Debit Card,0.1,668.68,0,668.68,14
+O00836,C0041,12/31/2023,December,Q4,2023,Cancelled,Online,Apple Pay,0.2,520.08,0,520.08,
+O00837,C0049,8/26/2023,August,Q3,2023,Delivered,Online,Credit Card,0.05,439.48,0,439.48,2
+O00838,C0136,6/12/2022,June,Q2,2022,Delivered,In-Store,Debit Card,0,1189.44,0,1189.44,8
+O00839,C0112,12/27/2023,December,Q4,2023,Delivered,Mobile App,Debit Card,0.05,971.94,0,971.94,8
+O00840,C0281,9/1/2022,September,Q3,2022,Delivered,Mobile App,Google Pay,0.15,64.06,4.39,68.45,3
+O00841,C0208,8/28/2023,August,Q3,2023,Cancelled,In-Store,Debit Card,0.1,1112.82,0,1112.82,
+O00842,C0354,5/12/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0.15,513.51,0,513.51,11
+O00843,C0203,5/17/2022,May,Q2,2022,Cancelled,Online,Google Pay,0,875.61,0,875.61,
+O00844,C0212,4/20/2022,April,Q2,2022,Returned,Online,Debit Card,0,1234.26,0,1234.26,
+O00845,C0228,11/11/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0,873.46,0,873.46,5
+O00846,C0224,2/20/2022,February,Q1,2022,Delivered,Online,Apple Pay,0,1210.68,0,1210.68,5
+O00847,C0144,7/1/2022,July,Q3,2022,Delivered,Online,Google Pay,0,1451.25,0,1451.25,5
+O00848,C0083,5/7/2023,May,Q2,2023,Pending,Mobile App,Credit Card,0.2,348.61,0,348.61,
+O00849,C0261,10/20/2023,October,Q4,2023,Delivered,In-Store,PayPal,0.1,240.43,0,240.43,13
+O00850,C0159,2/18/2023,February,Q1,2023,Delivered,Mobile App,Credit Card,0,346.94,0,346.94,13
+O00851,C0491,11/16/2023,November,Q4,2023,Pending,Mobile App,Credit Card,0,900.79,0,900.79,
+O00852,C0175,1/2/2022,January,Q1,2022,Returned,Mobile App,Credit Card,0.15,985.71,0,985.71,
+O00853,C0183,4/9/2022,April,Q2,2022,Pending,Mobile App,Debit Card,0,1149.13,0,1149.13,
+O00854,C0009,12/8/2023,December,Q4,2023,Delivered,Mobile App,Debit Card,0,101.39,0,101.39,8
+O00855,C0212,7/2/2023,July,Q3,2023,Delivered,Mobile App,Apple Pay,0.15,51.96,3.28,55.24,2
+O00856,C0019,9/20/2022,September,Q3,2022,Delivered,Online,PayPal,0.15,146.26,0,146.26,2
+O00857,C0175,8/31/2022,August,Q3,2022,Delivered,In-Store,Google Pay,0.1,181.72,0,181.72,8
+O00858,C0353,10/11/2022,October,Q4,2022,Delivered,Online,Debit Card,0.2,589.79,0,589.79,4
+O00859,C0474,8/13/2023,August,Q3,2023,Delivered,Online,PayPal,0,912.44,0,912.44,1
+O00860,C0342,10/9/2022,October,Q4,2022,Delivered,Mobile App,Debit Card,0.15,241.49,0,241.49,5
+O00861,C0236,3/4/2022,March,Q1,2022,Returned,Mobile App,Debit Card,0,922.02,0,922.02,
+O00862,C0088,1/19/2023,January,Q1,2023,Delivered,Online,Credit Card,0,103.61,0,103.61,3
+O00863,C0213,4/22/2022,April,Q2,2022,Returned,Mobile App,PayPal,0.15,1120.8,0,1120.8,
+O00864,C0111,4/5/2023,April,Q2,2023,Delivered,Mobile App,Apple Pay,0,1531.63,0,1531.63,2
+O00865,C0448,8/19/2023,August,Q3,2023,Delivered,Online,Debit Card,0.15,529.59,0,529.59,9
+O00866,C0246,2/9/2023,February,Q1,2023,Delivered,Mobile App,Debit Card,0.1,476.15,0,476.15,9
+O00867,C0453,3/17/2022,March,Q1,2022,Delivered,In-Store,Google Pay,0.1,759.02,0,759.02,14
+O00868,C0092,2/15/2022,February,Q1,2022,Pending,Mobile App,Debit Card,0.2,1016.74,0,1016.74,
+O00869,C0042,11/26/2022,November,Q4,2022,Delivered,In-Store,PayPal,0,1520.38,0,1520.38,2
+O00870,C0043,12/6/2023,December,Q4,2023,Pending,Online,Apple Pay,0.2,795.41,0,795.41,
+O00871,C0014,6/3/2022,June,Q2,2022,Delivered,Online,Credit Card,0.2,924.98,0,924.98,10
+O00872,C0343,8/14/2023,August,Q3,2023,Cancelled,Online,Google Pay,0.2,1248.88,0,1248.88,
+O00873,C0223,4/24/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0,270.92,0,270.92,7
+O00874,C0177,10/14/2023,October,Q4,2023,Delivered,In-Store,Google Pay,0,743.37,0,743.37,13
+O00875,C0138,6/8/2023,June,Q2,2023,Delivered,In-Store,Credit Card,0,849.99,0,849.99,9
+O00876,C0366,2/10/2022,February,Q1,2022,Delivered,Online,Debit Card,0,1208.15,0,1208.15,2
+O00877,C0032,10/2/2022,October,Q4,2022,Delivered,Online,PayPal,0.2,84.38,13.73,98.11,12
+O00878,C0003,9/25/2022,September,Q3,2022,Delivered,Mobile App,Apple Pay,0.05,734.21,0,734.21,4
+O00879,C0080,11/21/2023,November,Q4,2023,Delivered,Online,Google Pay,0.15,186.45,0,186.45,9
+O00880,C0293,10/23/2023,October,Q4,2023,Delivered,In-Store,Debit Card,0,836.34,0,836.34,13
+O00881,C0129,3/26/2022,March,Q1,2022,Delivered,Online,PayPal,0.15,407.52,0,407.52,11
+O00882,C0096,10/28/2022,October,Q4,2022,Delivered,Online,Apple Pay,0.05,382.76,0,382.76,14
+O00883,C0272,6/2/2023,June,Q2,2023,Returned,Online,PayPal,0,594.06,0,594.06,
+O00884,C0266,7/2/2022,July,Q3,2022,Delivered,Mobile App,Apple Pay,0.1,933.92,0,933.92,14
+O00885,C0150,9/2/2022,September,Q3,2022,Returned,Mobile App,PayPal,0,852.51,0,852.51,
+O00886,C0203,8/16/2022,August,Q3,2022,Delivered,Online,Credit Card,0.15,841.77,0,841.77,9
+O00887,C0025,9/14/2023,September,Q3,2023,Returned,Mobile App,Credit Card,0.15,494.99,0,494.99,
+O00888,C0330,11/27/2022,November,Q4,2022,Delivered,Online,Credit Card,0.15,787.7,0,787.7,7
+O00889,C0049,4/18/2023,April,Q2,2023,Delivered,Online,Debit Card,0,1368.72,0,1368.72,4
+O00890,C0353,1/22/2023,January,Q1,2023,Pending,Online,PayPal,0.15,904.67,0,904.67,
+O00891,C0201,1/12/2023,January,Q1,2023,Delivered,Online,Credit Card,0,1631.58,0,1631.58,4
+O00892,C0119,2/11/2023,February,Q1,2023,Delivered,Online,Google Pay,0,931.4,0,931.4,5
+O00893,C0172,12/12/2022,December,Q4,2022,Delivered,Online,PayPal,0,1064.51,0,1064.51,8
+O00894,C0480,2/9/2023,February,Q1,2023,Delivered,Online,Google Pay,0.15,883.31,0,883.31,7
+O00895,C0453,9/15/2023,September,Q3,2023,Delivered,Online,Debit Card,0.15,136.02,0,136.02,12
+O00896,C0109,4/13/2022,April,Q2,2022,Returned,In-Store,PayPal,0,276.69,0,276.69,
+O00897,C0293,4/22/2022,April,Q2,2022,Pending,Online,Google Pay,0.15,1138.18,0,1138.18,
+O00898,C0003,6/25/2023,June,Q2,2023,Returned,In-Store,PayPal,0,722.64,0,722.64,
+O00899,C0028,4/15/2022,April,Q2,2022,Pending,Online,Google Pay,0.2,986.92,0,986.92,
+O00900,C0294,7/6/2022,July,Q3,2022,Pending,In-Store,Google Pay,0.2,206.38,0,206.38,
+O00901,C0362,8/10/2023,August,Q3,2023,Delivered,In-Store,Google Pay,0.15,1379.77,0,1379.77,11
+O00902,C0488,8/6/2023,August,Q3,2023,Delivered,In-Store,Google Pay,0,1051.53,0,1051.53,13
+O00903,C05,7/19/2022,July,Q3,2022,Returned,Online,Debit Card,0.2,247.82,0,247.82,
+O00904,C0287,2/26/2022,February,Q1,2022,Delivered,Mobile App,Apple Pay,0,1285.57,0,1285.57,12
+O00905,C0117,6/17/2023,June,Q2,2023,Delivered,Mobile App,PayPal,0.15,318.71,0,318.71,14
+O00906,C0002,12/19/2022,December,Q4,2022,Delivered,Mobile App,Google Pay,0.1,1223.44,0,1223.44,2
+O00907,C0402,7/18/2023,July,Q3,2023,Delivered,In-Store,Apple Pay,0.15,936.14,0,936.14,6
+O00908,C0473,5/4/2022,May,Q2,2022,Returned,In-Store,Apple Pay,0.1,421.9,0,421.9,
+O00909,C0245,8/18/2022,August,Q3,2022,Delivered,Mobile App,Apple Pay,0.1,406.88,0,406.88,1
+O00910,C0060,2/1/2023,February,Q1,2023,Delivered,Online,Debit Card,0.2,320.67,0,320.67,9
+O00911,C0029,9/19/2023,September,Q3,2023,Delivered,In-Store,Google Pay,0,565.74,0,565.74,8
+O00912,C0329,2/26/2023,February,Q1,2023,Delivered,In-Store,Debit Card,0.15,393.87,0,393.87,10
+O00913,C0145,2/5/2023,February,Q1,2023,Delivered,Online,Debit Card,0.15,829.71,0,829.71,6
+O00914,C0010,7/23/2023,July,Q3,2023,Pending,Online,Apple Pay,0,149.64,0,149.64,
+O00915,C0035,9/27/2022,September,Q3,2022,Delivered,Mobile App,Google Pay,0,83.62,3.04,86.66,4
+O00916,C0046,5/16/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0,1136.96,0,1136.96,11
+O00917,C0053,3/22/2022,March,Q1,2022,Delivered,Online,Credit Card,0,724.02,0,724.02,8
+O00918,C0280,8/11/2023,August,Q3,2023,Delivered,Online,Debit Card,0,1138.16,0,1138.16,12
+O00919,C0493,6/22/2022,June,Q2,2022,Delivered,Mobile App,Apple Pay,0,798.96,0,798.96,4
+O00920,C0350,9/14/2022,September,Q3,2022,Delivered,Online,Google Pay,0,325.58,0,325.58,11
+O00921,C0263,6/24/2022,June,Q2,2022,Delivered,Online,Debit Card,0.15,343.54,0,343.54,11
+O00922,C0100,9/25/2022,September,Q3,2022,Delivered,Mobile App,Google Pay,0,1018.41,0,1018.41,9
+O00923,C0349,11/23/2022,November,Q4,2022,Delivered,In-Store,Debit Card,0.1,1547.77,0,1547.77,12
+O00924,C0032,2/17/2023,February,Q1,2023,Returned,Online,Google Pay,0.2,901.22,0,901.22,
+O00925,C0323,12/24/2022,December,Q4,2022,Delivered,Online,Apple Pay,0.15,1024.06,0,1024.06,7
+O00926,C0292,6/3/2022,June,Q2,2022,Delivered,Online,Google Pay,0,102.93,0,102.93,8
+O00927,C0387,9/1/2023,September,Q3,2023,Cancelled,Mobile App,Apple Pay,0.1,594.18,0,594.18,
+O00928,C0402,7/14/2023,July,Q3,2023,Delivered,Mobile App,Credit Card,0.2,169.56,0,169.56,12
+O00929,C0374,8/24/2022,August,Q3,2022,Cancelled,Mobile App,PayPal,0.15,1581.06,0,1581.06,
+O00930,C0146,12/22/2022,December,Q4,2022,Pending,Online,Apple Pay,0,1253,0,1253,
+O00931,C0014,9/23/2023,September,Q3,2023,Cancelled,Online,Credit Card,0.1,1285.8,0,1285.8,
+O00932,C0295,3/23/2023,March,Q1,2023,Delivered,Mobile App,PayPal,0.1,1177.72,0,1177.72,11
+O00933,C0321,9/1/2022,September,Q3,2022,Delivered,In-Store,Credit Card,0.15,983.84,0,983.84,1
+O00934,C0345,5/8/2022,May,Q2,2022,Cancelled,Mobile App,Debit Card,0.2,307.89,0,307.89,
+O00935,C0202,4/17/2023,April,Q2,2023,Returned,Mobile App,PayPal,0.2,1097.87,0,1097.87,
+O00936,C0426,8/16/2022,August,Q3,2022,Delivered,In-Store,Apple Pay,0,780.79,0,780.79,13
+O00937,C0173,5/10/2023,May,Q2,2023,Delivered,Online,Debit Card,0.1,836.7,0,836.7,6
+O00938,C0272,9/15/2023,September,Q3,2023,Delivered,Mobile App,Google Pay,0,1323.09,0,1323.09,7
+O00939,C0487,7/27/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0.2,961.27,0,961.27,2
+O00940,C0450,11/23/2023,November,Q4,2023,Delivered,Online,Google Pay,0.05,122.54,0,122.54,9
+O00941,C0427,12/23/2023,December,Q4,2023,Returned,In-Store,Credit Card,0,973.76,0,973.76,
+O00942,C0168,12/2/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0,702.96,0,702.96,2
+O00943,C0122,3/13/2023,March,Q1,2023,Delivered,Online,Credit Card,0.1,659.86,0,659.86,10
+O00944,C0271,5/5/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0.2,1178.42,0,1178.42,3
+O00945,C0479,12/5/2022,December,Q4,2022,Delivered,Online,PayPal,0.2,496.97,0,496.97,9
+O00946,C0173,11/17/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0,1203.32,0,1203.32,2
+O00947,C0416,12/11/2023,December,Q4,2023,Delivered,Online,Debit Card,0.2,787.51,0,787.51,13
+O00948,C0167,11/21/2022,November,Q4,2022,Returned,Online,PayPal,0,95.75,3.06,98.81,
+O00949,C0325,3/12/2023,March,Q1,2023,Delivered,In-Store,PayPal,0,725.13,0,725.13,10
+O00950,C0367,5/18/2023,May,Q2,2023,Pending,Mobile App,Apple Pay,0.05,1067.1,0,1067.1,
+O00951,C0077,1/7/2022,January,Q1,2022,Delivered,Mobile App,Debit Card,0,392.75,0,392.75,12
+O00952,C0279,4/19/2022,April,Q2,2022,Returned,Online,Debit Card,0,1148.58,0,1148.58,
+O00953,C0320,4/5/2022,April,Q2,2022,Delivered,Online,Credit Card,0.1,435.78,0,435.78,8
+O00954,C0082,7/28/2022,July,Q3,2022,Delivered,Online,Google Pay,0,1027.66,0,1027.66,5
+O00955,C0383,1/7/2023,January,Q1,2023,Pending,Mobile App,Apple Pay,0,440.43,0,440.43,
+O00956,C0196,11/5/2023,November,Q4,2023,Delivered,Online,Credit Card,0.1,259.68,0,259.68,8
+O00957,C0352,8/9/2022,August,Q3,2022,Pending,Mobile App,Google Pay,0.15,172.38,0,172.38,
+O00958,C0080,8/14/2023,August,Q3,2023,Delivered,Mobile App,Credit Card,0.15,458.16,0,458.16,4
+O00959,C0284,7/18/2023,July,Q3,2023,Returned,Mobile App,PayPal,0.15,650.51,0,650.51,
+O00960,C0164,7/24/2023,July,Q3,2023,Cancelled,Online,Credit Card,0.05,712.63,0,712.63,
+O00961,C0293,12/7/2022,December,Q4,2022,Cancelled,Mobile App,Apple Pay,0.1,797.7,0,797.7,
+O00962,C0090,3/27/2023,March,Q1,2023,Delivered,Online,PayPal,0,229.92,0,229.92,13
+O00963,C0270,5/25/2023,May,Q2,2023,Returned,Online,PayPal,0,270.63,0,270.63,
+O00964,C0125,5/14/2022,May,Q2,2022,Delivered,Online,Debit Card,0.2,499.74,0,499.74,3
+O00965,C0020,2/15/2022,February,Q1,2022,Pending,Mobile App,Apple Pay,0.1,1219.37,0,1219.37,
+O00966,C0342,6/11/2023,June,Q2,2023,Delivered,Mobile App,Google Pay,0.05,785.25,0,785.25,14
+O00967,C0294,8/11/2023,August,Q3,2023,Delivered,Online,Credit Card,0,244.26,0,244.26,12
+O00968,C0179,11/11/2023,November,Q4,2023,Delivered,In-Store,Debit Card,0.05,703.65,0,703.65,4
+O00969,C0030,9/19/2023,September,Q3,2023,Delivered,Mobile App,Apple Pay,0.05,497.59,0,497.59,10
+O00970,C0496,4/28/2022,April,Q2,2022,Delivered,Online,Debit Card,0.15,215.49,0,215.49,7
+O00971,C0239,11/8/2023,November,Q4,2023,Delivered,Online,Google Pay,0.2,279.64,0,279.64,2
+O00972,C0067,7/5/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.05,174.21,0,174.21,11
+O00973,C0381,6/26/2023,June,Q2,2023,Returned,Mobile App,Google Pay,0.15,582.72,0,582.72,
+O00974,C0234,10/29/2023,October,Q4,2023,Delivered,Mobile App,PayPal,0,949.36,0,949.36,3
+O00975,C0473,12/12/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0.1,493.52,0,493.52,1
+O00976,C0431,8/29/2023,August,Q3,2023,Delivered,In-Store,Apple Pay,0.2,575.54,0,575.54,10
+O00977,C0177,5/12/2022,May,Q2,2022,Delivered,Online,Debit Card,0.05,1885.26,0,1885.26,13
+O00978,C0474,5/14/2022,May,Q2,2022,Delivered,In-Store,Credit Card,0.15,370.17,0,370.17,2
+O00979,C0186,9/21/2023,September,Q3,2023,Pending,Mobile App,Google Pay,0.05,805.03,0,805.03,
+O00980,C0227,3/29/2022,March,Q1,2022,Delivered,Mobile App,Credit Card,0.05,1791.31,0,1791.31,4
+O00981,C0360,12/29/2023,December,Q4,2023,Delivered,Mobile App,Credit Card,0,1131.63,0,1131.63,13
+O00982,C0158,9/30/2023,September,Q3,2023,Delivered,Online,Google Pay,0.15,266.3,0,266.3,7
+O00983,C0432,6/26/2022,June,Q2,2022,Cancelled,Online,Credit Card,0,602.28,0,602.28,
+O00984,C0285,3/2/2022,March,Q1,2022,Delivered,Online,Debit Card,0,304.17,0,304.17,2
+O00985,C0231,2/13/2023,February,Q1,2023,Delivered,Online,Debit Card,0.05,557.85,0,557.85,3
+O00986,C0304,2/1/2022,February,Q1,2022,Delivered,Online,Apple Pay,0,501.69,0,501.69,7
+O00987,C0232,4/15/2022,April,Q2,2022,Delivered,Online,Debit Card,0,874.43,0,874.43,8
+O00988,C0154,7/24/2022,July,Q3,2022,Delivered,Online,Debit Card,0,1517.08,0,1517.08,10
+O00989,C0130,5/24/2023,May,Q2,2023,Returned,Online,Google Pay,0,143.9,0,143.9,
+O00990,C0311,2/17/2023,February,Q1,2023,Pending,In-Store,Apple Pay,0.05,472.14,0,472.14,
+O00991,C0269,9/4/2022,September,Q3,2022,Pending,Online,Credit Card,0,729.43,0,729.43,
+O00992,C0495,12/5/2022,December,Q4,2022,Delivered,Online,Credit Card,0.05,163.48,0,163.48,2
+O00993,C0468,9/16/2022,September,Q3,2022,Delivered,In-Store,Google Pay,0,565.89,0,565.89,14
+O00994,C0367,7/31/2023,July,Q3,2023,Delivered,In-Store,Debit Card,0.15,1384.87,0,1384.87,13
+O00995,C0302,11/1/2022,November,Q4,2022,Delivered,Mobile App,Google Pay,0.05,1599.1,0,1599.1,10
+O00996,C0285,10/27/2022,October,Q4,2022,Delivered,Online,Credit Card,0,513.64,0,513.64,1
+O00997,C0249,5/7/2023,May,Q2,2023,Returned,Mobile App,Debit Card,0.2,959.47,0,959.47,
+O00998,C0299,8/6/2023,August,Q3,2023,Pending,Online,Credit Card,0.15,121.91,0,121.91,
+O00999,C0435,11/8/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0,472.66,0,472.66,7
+O010,C0029,6/12/2022,June,Q2,2022,Cancelled,Online,Google Pay,0.2,76.44,10.27,86.71,
+O01001,C0385,9/22/2023,September,Q3,2023,Delivered,Online,Credit Card,0.05,2044.69,0,2044.69,5
+O01002,C0156,7/2/2023,July,Q3,2023,Delivered,Online,Apple Pay,0,671.91,0,671.91,9
+O01003,C0192,3/25/2023,March,Q1,2023,Delivered,Online,Credit Card,0,289.39,0,289.39,8
+O01004,C0164,4/30/2023,April,Q2,2023,Delivered,Mobile App,Apple Pay,0.1,172,0,172,7
+O01005,C0047,10/26/2023,October,Q4,2023,Delivered,Mobile App,Apple Pay,0.15,231.78,0,231.78,10
+O01006,C0344,3/10/2023,March,Q1,2023,Pending,Online,Google Pay,0.15,562.13,0,562.13,
+O01007,C0302,12/30/2022,December,Q4,2022,Delivered,In-Store,Credit Card,0.2,388.37,0,388.37,8
+O01008,C0461,7/20/2023,July,Q3,2023,Delivered,Online,PayPal,0.15,293.27,0,293.27,6
+O01009,C0055,4/17/2023,April,Q2,2023,Delivered,In-Store,Credit Card,0.1,1293.8,0,1293.8,1
+O01010,C0137,4/9/2023,April,Q2,2023,Delivered,Online,Apple Pay,0,656.31,0,656.31,13
+O01011,C0125,10/8/2023,October,Q4,2023,Cancelled,Mobile App,Google Pay,0,883.52,0,883.52,
+O01012,C0022,3/23/2023,March,Q1,2023,Cancelled,Online,Apple Pay,0,620.01,0,620.01,
+O01013,C0012,10/1/2023,October,Q4,2023,Delivered,In-Store,Credit Card,0,655.86,0,655.86,6
+O01014,C0339,9/7/2023,September,Q3,2023,Returned,Online,Credit Card,0,602.27,0,602.27,
+O01015,C0096,9/12/2022,September,Q3,2022,Cancelled,In-Store,Google Pay,0.1,276.76,0,276.76,
+O01016,C0400,12/19/2023,December,Q4,2023,Delivered,In-Store,PayPal,0.2,322.52,0,322.52,5
+O01017,C0064,9/24/2023,September,Q3,2023,Delivered,In-Store,Credit Card,0.2,419.58,0,419.58,5
+O01018,C0015,8/4/2023,August,Q3,2023,Delivered,Online,Apple Pay,0.2,1221.48,0,1221.48,9
+O01019,C0278,1/3/2022,January,Q1,2022,Pending,Mobile App,Debit Card,0,1282.91,0,1282.91,
+O01020,C0485,9/29/2022,September,Q3,2022,Returned,Mobile App,Apple Pay,0.15,1534.26,0,1534.26,
+O01021,C0302,9/25/2022,September,Q3,2022,Delivered,Online,Credit Card,0.1,887.83,0,887.83,12
+O01022,C0476,1/26/2023,January,Q1,2023,Delivered,Online,Credit Card,0.05,329.42,0,329.42,4
+O01023,C0427,9/3/2023,September,Q3,2023,Returned,Online,PayPal,0,979.44,0,979.44,
+O01024,C0249,1/8/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0,122.26,0,122.26,10
+O01025,C0129,7/3/2022,July,Q3,2022,Cancelled,Online,Apple Pay,0.15,629.58,0,629.58,
+O01026,C0315,3/22/2023,March,Q1,2023,Pending,Online,Credit Card,0,1348.34,0,1348.34,
+O01027,C0457,1/30/2022,January,Q1,2022,Cancelled,In-Store,Debit Card,0,996.98,0,996.98,
+O01028,C0395,3/5/2023,March,Q1,2023,Cancelled,Online,Credit Card,0.05,883.48,0,883.48,
+O01029,C0083,7/11/2022,July,Q3,2022,Delivered,Mobile App,PayPal,0,97.06,10.41,107.47,8
+O01030,C0160,2/15/2023,February,Q1,2023,Delivered,Mobile App,Credit Card,0.05,287.65,0,287.65,2
+O01031,C0191,5/31/2023,May,Q2,2023,Delivered,Online,Credit Card,0.2,1376.1,0,1376.1,9
+O01032,C0066,7/20/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0,130.14,0,130.14,8
+O01033,C0070,2/23/2023,February,Q1,2023,Delivered,Online,Credit Card,0,665.24,0,665.24,6
+O01034,C0117,3/17/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0.05,669.35,0,669.35,3
+O01035,C0064,11/19/2023,November,Q4,2023,Delivered,In-Store,PayPal,0.2,483.6,0,483.6,11
+O01036,C0189,10/20/2022,October,Q4,2022,Delivered,Mobile App,Debit Card,0.2,1087.67,0,1087.67,12
+O01037,C0418,3/28/2022,March,Q1,2022,Pending,Online,Debit Card,0,873.82,0,873.82,
+O01038,C0195,12/3/2023,December,Q4,2023,Delivered,Online,PayPal,0.15,742.56,0,742.56,13
+O01039,C0199,9/10/2022,September,Q3,2022,Cancelled,In-Store,Debit Card,0,570.36,0,570.36,
+O01040,C0167,7/13/2023,July,Q3,2023,Cancelled,Mobile App,Debit Card,0,415.55,0,415.55,
+O01041,C0264,3/12/2022,March,Q1,2022,Pending,Online,Google Pay,0,1163.15,0,1163.15,
+O01042,C0219,2/24/2022,February,Q1,2022,Delivered,Online,Apple Pay,0.1,485.32,0,485.32,11
+O01043,C0352,10/29/2023,October,Q4,2023,Returned,Mobile App,Credit Card,0,1565.16,0,1565.16,
+O01044,C0297,3/12/2023,March,Q1,2023,Delivered,In-Store,PayPal,0.05,283,0,283,14
+O01045,C0231,11/29/2023,November,Q4,2023,Cancelled,Online,Debit Card,0,772.02,0,772.02,
+O01046,C0090,10/2/2022,October,Q4,2022,Returned,Mobile App,Debit Card,0.1,175.93,0,175.93,
+O01047,C0406,4/16/2022,April,Q2,2022,Delivered,Mobile App,Apple Pay,0,781.76,0,781.76,14
+O01048,C0264,2/20/2022,February,Q1,2022,Delivered,Mobile App,Credit Card,0,406.26,0,406.26,1
+O01049,C0033,12/10/2023,December,Q4,2023,Pending,Online,Apple Pay,0,1490.71,0,1490.71,
+O01050,C0281,3/27/2022,March,Q1,2022,Returned,In-Store,Apple Pay,0.2,1329.56,0,1329.56,
+O01051,C0329,3/29/2022,March,Q1,2022,Pending,In-Store,Apple Pay,0.2,384.51,0,384.51,
+O01052,C0100,11/19/2022,November,Q4,2022,Delivered,Mobile App,PayPal,0.2,764.77,0,764.77,3
+O01053,C0002,1/14/2023,January,Q1,2023,Delivered,Mobile App,Apple Pay,0.05,1892.08,0,1892.08,7
+O01054,C0138,4/5/2022,April,Q2,2022,Delivered,Online,PayPal,0,261.78,0,261.78,12
+O01055,C0431,8/19/2022,August,Q3,2022,Delivered,Online,Google Pay,0,769.81,0,769.81,10
+O01056,C0008,1/12/2023,January,Q1,2023,Delivered,Online,Google Pay,0,371.23,0,371.23,10
+O01057,C0319,2/19/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.2,358.5,0,358.5,9
+O01058,C0267,10/13/2023,October,Q4,2023,Pending,Mobile App,Apple Pay,0.2,119.1,0,119.1,
+O01059,C0016,1/15/2023,January,Q1,2023,Delivered,In-Store,Apple Pay,0.2,587.2,0,587.2,12
+O01060,C0392,1/3/2023,January,Q1,2023,Delivered,Online,Credit Card,0,890.04,0,890.04,2
+O01061,C0236,5/14/2023,May,Q2,2023,Cancelled,Online,Debit Card,0.05,936.04,0,936.04,
+O01062,C0365,8/30/2023,August,Q3,2023,Delivered,Online,PayPal,0,1456.92,0,1456.92,12
+O01063,C0375,1/11/2023,January,Q1,2023,Delivered,Online,Google Pay,0,817.89,0,817.89,1
+O01064,C0433,8/15/2023,August,Q3,2023,Delivered,In-Store,Apple Pay,0.2,160.54,0,160.54,4
+O01065,C0474,12/23/2023,December,Q4,2023,Delivered,In-Store,Credit Card,0.05,354.46,0,354.46,10
+O01066,C0168,10/14/2022,October,Q4,2022,Delivered,Online,Apple Pay,0.1,467.91,0,467.91,3
+O01067,C0353,9/26/2022,September,Q3,2022,Returned,Online,Debit Card,0.05,991.98,0,991.98,
+O01068,C0047,4/29/2022,April,Q2,2022,Delivered,Mobile App,Debit Card,0.2,462.78,0,462.78,12
+O01069,C0186,8/21/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0,1419.94,0,1419.94,9
+O01070,C0294,11/16/2022,November,Q4,2022,Cancelled,Mobile App,Debit Card,0.2,840.86,0,840.86,
+O01071,C0177,5/15/2022,May,Q2,2022,Cancelled,Online,Credit Card,0.05,522.55,0,522.55,
+O01072,C0110,3/14/2022,March,Q1,2022,Cancelled,In-Store,Credit Card,0,263.13,0,263.13,
+O01073,C0207,8/16/2022,August,Q3,2022,Delivered,Online,PayPal,0,631.24,0,631.24,14
+O01074,C0471,6/5/2022,June,Q2,2022,Delivered,Online,PayPal,0.1,1459.45,0,1459.45,9
+O01075,C0100,7/15/2023,July,Q3,2023,Delivered,In-Store,Debit Card,0.05,713.59,0,713.59,8
+O01076,C0418,3/31/2023,March,Q1,2023,Delivered,Online,PayPal,0.05,490.87,0,490.87,3
+O01077,C0374,1/10/2022,January,Q1,2022,Delivered,In-Store,Credit Card,0,489.93,0,489.93,12
+O01078,C0015,11/14/2023,November,Q4,2023,Returned,Online,Credit Card,0,619.98,0,619.98,
+O01079,C0049,9/8/2023,September,Q3,2023,Delivered,In-Store,PayPal,0.15,331.86,0,331.86,1
+O01080,C0352,12/21/2023,December,Q4,2023,Delivered,Online,Apple Pay,0.15,349.83,0,349.83,11
+O01081,C0091,1/1/2022,January,Q1,2022,Delivered,Mobile App,Apple Pay,0,298.38,0,298.38,1
+O01082,C0081,3/4/2023,March,Q1,2023,Delivered,In-Store,Credit Card,0,420.54,0,420.54,6
+O01083,C0495,11/2/2023,November,Q4,2023,Pending,Mobile App,PayPal,0,845.17,0,845.17,
+O01084,C0305,7/18/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0.15,90.95,0.72,91.67,7
+O01085,C0148,11/25/2023,November,Q4,2023,Cancelled,Online,Debit Card,0.15,310.68,0,310.68,
+O01086,C0481,2/2/2022,February,Q1,2022,Delivered,Online,Google Pay,0.1,549.32,0,549.32,11
+O01087,C0315,4/7/2022,April,Q2,2022,Delivered,Mobile App,Google Pay,0,687,0,687,6
+O01088,C0076,2/16/2022,February,Q1,2022,Delivered,Online,Credit Card,0,1729.22,0,1729.22,7
+O01089,C0483,7/15/2023,July,Q3,2023,Delivered,Mobile App,Apple Pay,0.15,286.66,0,286.66,1
+O01090,C0399,12/14/2023,December,Q4,2023,Pending,Mobile App,PayPal,0.15,916.5,0,916.5,
+O01091,C0292,10/23/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0,751.88,0,751.88,3
+O01092,C0325,12/23/2022,December,Q4,2022,Delivered,Online,Debit Card,0.05,296.7,0,296.7,7
+O01093,C0095,10/20/2022,October,Q4,2022,Pending,Mobile App,PayPal,0,41.33,9.92,51.25,
+O01094,C0294,12/21/2023,December,Q4,2023,Returned,Mobile App,PayPal,0,404.62,0,404.62,
+O01095,C0330,3/8/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0.15,737.94,0,737.94,9
+O01096,C0130,9/6/2022,September,Q3,2022,Delivered,Online,Credit Card,0.05,429.5,0,429.5,13
+O01097,C0070,9/24/2023,September,Q3,2023,Cancelled,In-Store,Apple Pay,0,447.57,0,447.57,
+O01098,C0231,11/28/2022,November,Q4,2022,Delivered,Mobile App,Google Pay,0.15,567.76,0,567.76,4
+O01099,C0489,9/4/2022,September,Q3,2022,Delivered,Online,Debit Card,0.05,574.67,0,574.67,8
+O01100,C0059,4/4/2022,April,Q2,2022,Delivered,Mobile App,Google Pay,0,863.94,0,863.94,2
+O01101,C0181,6/22/2023,June,Q2,2023,Pending,Online,PayPal,0.1,276.76,0,276.76,
+O01102,C0396,4/25/2022,April,Q2,2022,Returned,Mobile App,PayPal,0,1399.13,0,1399.13,
+O01103,C0265,2/15/2022,February,Q1,2022,Delivered,Mobile App,Apple Pay,0.1,560.73,0,560.73,2
+O01104,C0281,1/20/2023,January,Q1,2023,Pending,Mobile App,Google Pay,0,804.24,0,804.24,
+O01105,C0087,5/4/2023,May,Q2,2023,Delivered,Online,Debit Card,0.1,386.3,0,386.3,3
+O01106,C0340,6/9/2022,June,Q2,2022,Cancelled,Online,PayPal,0,420.44,0,420.44,
+O01107,C0375,5/15/2022,May,Q2,2022,Delivered,Online,PayPal,0.1,486.99,0,486.99,12
+O01108,C0006,11/21/2023,November,Q4,2023,Delivered,Mobile App,Credit Card,0.15,351.07,0,351.07,3
+O01109,C0368,3/26/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0,1021.9,0,1021.9,4
+O01110,C0002,11/30/2023,November,Q4,2023,Delivered,Mobile App,Debit Card,0.2,269.8,0,269.8,6
+O01111,C0204,8/22/2023,August,Q3,2023,Returned,Mobile App,Credit Card,0.15,707.34,0,707.34,
+O01112,C0307,4/2/2022,April,Q2,2022,Delivered,Online,PayPal,0.05,913.64,0,913.64,14
+O01113,C0142,3/10/2022,March,Q1,2022,Delivered,Mobile App,Debit Card,0.1,1191.67,0,1191.67,14
+O01114,C0214,2/7/2023,February,Q1,2023,Delivered,Online,Debit Card,0.15,1273.94,0,1273.94,13
+O01115,C0391,9/18/2022,September,Q3,2022,Delivered,Online,Apple Pay,0.05,1307.7,0,1307.7,6
+O01116,C0005,11/6/2022,November,Q4,2022,Delivered,Online,Debit Card,0,1075.78,0,1075.78,14
+O01117,C0379,12/18/2022,December,Q4,2022,Cancelled,Mobile App,Credit Card,0.15,1109.79,0,1109.79,
+O01118,C0477,2/22/2023,February,Q1,2023,Returned,In-Store,Credit Card,0.15,562.59,0,562.59,
+O01119,C0103,7/28/2023,July,Q3,2023,Returned,Mobile App,PayPal,0.05,631.66,0,631.66,
+O01120,C0134,7/27/2022,July,Q3,2022,Returned,Online,Credit Card,0.15,362.76,0,362.76,
+O01121,C0256,2/20/2023,February,Q1,2023,Delivered,In-Store,PayPal,0.2,494.82,0,494.82,12
+O01122,C0289,11/23/2023,November,Q4,2023,Pending,In-Store,Apple Pay,0.05,1198.26,0,1198.26,
+O01123,C0289,4/29/2023,April,Q2,2023,Delivered,Online,Google Pay,0.2,553.14,0,553.14,6
+O01124,C0147,1/14/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.2,225.94,0,225.94,2
+O01125,C0418,12/16/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0,281.46,0,281.46,3
+O01126,C0058,9/3/2022,September,Q3,2022,Pending,In-Store,Debit Card,0,405.54,0,405.54,
+O01127,C0061,9/30/2022,September,Q3,2022,Delivered,Online,PayPal,0,660.18,0,660.18,4
+O01128,C0406,6/11/2022,June,Q2,2022,Delivered,In-Store,PayPal,0,1728.75,0,1728.75,1
+O01129,C0274,10/24/2023,October,Q4,2023,Pending,Mobile App,PayPal,0,162.79,0,162.79,
+O01130,C0189,7/17/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0,1115.72,0,1115.72,1
+O01131,C0058,5/25/2023,May,Q2,2023,Delivered,Online,Google Pay,0.05,467.41,0,467.41,3
+O01132,C0296,3/17/2023,March,Q1,2023,Delivered,Online,Debit Card,0,1168.19,0,1168.19,1
+O01133,C0475,1/12/2023,January,Q1,2023,Delivered,Online,Credit Card,0,643.16,0,643.16,8
+O01134,C0340,7/19/2022,July,Q3,2022,Delivered,Online,Google Pay,0,802.32,0,802.32,13
+O01135,C0471,8/11/2022,August,Q3,2022,Delivered,Online,Debit Card,0,1563.25,0,1563.25,10
+O01136,C0331,7/10/2022,July,Q3,2022,Returned,In-Store,Debit Card,0.15,642.39,0,642.39,
+O01137,C0117,12/18/2023,December,Q4,2023,Delivered,Online,PayPal,0,642.71,0,642.71,3
+O01138,C0117,3/10/2023,March,Q1,2023,Delivered,Mobile App,PayPal,0,1234,0,1234,13
+O01139,C0492,5/4/2022,May,Q2,2022,Returned,Online,Credit Card,0,337.66,0,337.66,
+O01140,C0182,10/23/2023,October,Q4,2023,Delivered,Online,Apple Pay,0.15,1136.28,0,1136.28,13
+O01141,C0207,5/5/2023,May,Q2,2023,Delivered,Online,PayPal,0,285.53,0,285.53,12
+O01142,C0261,1/18/2022,January,Q1,2022,Cancelled,In-Store,Debit Card,0,359.1,0,359.1,
+O01143,C0079,11/12/2023,November,Q4,2023,Delivered,In-Store,Apple Pay,0,436.71,0,436.71,11
+O01144,C0026,2/3/2023,February,Q1,2023,Pending,Mobile App,Credit Card,0.2,686.95,0,686.95,
+O01145,C0351,5/19/2023,May,Q2,2023,Delivered,Mobile App,Credit Card,0.05,759.36,0,759.36,1
+O01146,C0455,11/7/2023,November,Q4,2023,Returned,Online,Debit Card,0.05,128.69,0,128.69,
+O01147,C0402,10/21/2022,October,Q4,2022,Returned,Mobile App,Apple Pay,0.15,1347.88,0,1347.88,
+O01148,C0038,6/28/2022,June,Q2,2022,Delivered,Online,Apple Pay,0.15,214.81,0,214.81,10
+O01149,C0393,11/21/2023,November,Q4,2023,Delivered,Online,PayPal,0,1131.75,0,1131.75,8
+O01150,C0281,5/24/2023,May,Q2,2023,Delivered,Online,Apple Pay,0.2,554.12,0,554.12,2
+O01151,C0319,10/30/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0,1099.38,0,1099.38,7
+O01152,C0019,8/3/2023,August,Q3,2023,Returned,Online,Debit Card,0.05,1153.47,0,1153.47,
+O01153,C0236,12/14/2022,December,Q4,2022,Delivered,In-Store,Debit Card,0.2,1654.74,0,1654.74,6
+O01154,C0159,7/12/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0,166.96,0,166.96,2
+O01155,C0301,3/12/2022,March,Q1,2022,Delivered,In-Store,Apple Pay,0.2,667.6,0,667.6,1
+O01156,C0072,3/7/2023,March,Q1,2023,Delivered,In-Store,PayPal,0.1,771.75,0,771.75,14
+O01157,C0104,1/30/2023,January,Q1,2023,Delivered,Online,PayPal,0.2,1423.55,0,1423.55,8
+O01158,C0102,2/8/2022,February,Q1,2022,Cancelled,Mobile App,Apple Pay,0.1,1323.17,0,1323.17,
+O01159,C0115,11/25/2022,November,Q4,2022,Delivered,In-Store,Google Pay,0.05,415.88,0,415.88,9
+O01160,C0083,4/19/2023,April,Q2,2023,Returned,Online,PayPal,0,1747.88,0,1747.88,
+O01161,C0473,10/16/2022,October,Q4,2022,Delivered,Mobile App,PayPal,0,1207.15,0,1207.15,10
+O01162,C0302,9/8/2022,September,Q3,2022,Cancelled,In-Store,Google Pay,0.05,805.08,0,805.08,
+O01163,C0009,6/23/2023,June,Q2,2023,Delivered,Mobile App,Credit Card,0.1,718.58,0,718.58,12
+O01164,C0479,8/12/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0,524.04,0,524.04,13
+O01165,C0023,5/6/2023,May,Q2,2023,Cancelled,Mobile App,PayPal,0,1053.57,0,1053.57,
+O01166,C0020,9/8/2022,September,Q3,2022,Delivered,In-Store,PayPal,0.1,158.5,0,158.5,2
+O01167,C0076,9/18/2023,September,Q3,2023,Delivered,Online,Debit Card,0.15,358.96,0,358.96,6
+O01168,C0440,2/7/2023,February,Q1,2023,Delivered,Mobile App,PayPal,0.1,882.05,0,882.05,10
+O01169,C0112,3/12/2022,March,Q1,2022,Delivered,Mobile App,PayPal,0,529.2,0,529.2,9
+O01170,C0282,1/15/2023,January,Q1,2023,Returned,In-Store,Debit Card,0,217.4,0,217.4,
+O01171,C0018,9/12/2022,September,Q3,2022,Cancelled,Online,PayPal,0,360.82,0,360.82,
+O01172,C0119,11/11/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0.2,1738.38,0,1738.38,1
+O01173,C0079,11/1/2023,November,Q4,2023,Pending,Online,PayPal,0,412.34,0,412.34,
+O01174,C0020,11/6/2022,November,Q4,2022,Delivered,Online,Debit Card,0,379.12,0,379.12,10
+O01175,C0484,10/15/2022,October,Q4,2022,Delivered,In-Store,Debit Card,0.05,522.58,0,522.58,3
+O01176,C0170,2/15/2023,February,Q1,2023,Returned,Mobile App,Credit Card,0,277.39,0,277.39,
+O01177,C0130,2/23/2023,February,Q1,2023,Pending,Online,Credit Card,0.15,1052.24,0,1052.24,
+O01178,C0128,2/28/2022,February,Q1,2022,Cancelled,In-Store,Debit Card,0,873.73,0,873.73,
+O01179,C0418,5/15/2023,May,Q2,2023,Returned,Online,Debit Card,0,476.78,0,476.78,
+O01180,C0035,8/19/2023,August,Q3,2023,Delivered,Online,Debit Card,0,135.46,0,135.46,1
+O01181,C0452,1/18/2023,January,Q1,2023,Pending,Online,PayPal,0.15,320.68,0,320.68,
+O01182,C0426,5/3/2023,May,Q2,2023,Delivered,In-Store,Apple Pay,0,936.35,0,936.35,13
+O01183,C0347,4/26/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0,1442.16,0,1442.16,7
+O01184,C0202,7/1/2023,July,Q3,2023,Cancelled,Mobile App,Debit Card,0,766.38,0,766.38,
+O01185,C0067,3/28/2022,March,Q1,2022,Delivered,Online,Google Pay,0.05,86.56,10.45,97.01,12
+O01186,C0284,3/2/2023,March,Q1,2023,Delivered,Online,Credit Card,0.2,336.36,0,336.36,13
+O01187,C0323,8/19/2022,August,Q3,2022,Delivered,Online,Google Pay,0.1,559.3,0,559.3,6
+O01188,C0377,4/23/2022,April,Q2,2022,Delivered,Mobile App,Debit Card,0,697.99,0,697.99,3
+O01189,C0074,4/26/2022,April,Q2,2022,Delivered,Online,PayPal,0.15,1050.84,0,1050.84,5
+O01190,C0151,11/6/2022,November,Q4,2022,Delivered,In-Store,Google Pay,0.2,556.68,0,556.68,14
+O01191,C0192,9/21/2023,September,Q3,2023,Delivered,Online,Google Pay,0.2,1532.73,0,1532.73,3
+O01192,C0486,9/5/2023,September,Q3,2023,Delivered,Mobile App,PayPal,0,684.68,0,684.68,1
+O01193,C0215,3/24/2022,March,Q1,2022,Delivered,Mobile App,Credit Card,0,975.27,0,975.27,2
+O01194,C0166,2/25/2023,February,Q1,2023,Delivered,Mobile App,Google Pay,0,621.76,0,621.76,7
+O01195,C0126,4/20/2023,April,Q2,2023,Delivered,Mobile App,Google Pay,0.15,192.43,0,192.43,2
+O01196,C0172,11/11/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0,891.03,0,891.03,9
+O01197,C0437,8/18/2022,August,Q3,2022,Delivered,Online,Debit Card,0.2,313.56,0,313.56,9
+O01198,C0340,4/26/2022,April,Q2,2022,Delivered,Online,Google Pay,0.05,615.72,0,615.72,6
+O01199,C0135,7/24/2023,July,Q3,2023,Delivered,In-Store,PayPal,0.2,146.7,0,146.7,1
+O01200,C0407,2/2/2023,February,Q1,2023,Pending,Online,Google Pay,0.05,1135.02,0,1135.02,
+O01201,C0327,2/16/2023,February,Q1,2023,Delivered,In-Store,Credit Card,0.1,809.1,0,809.1,13
+O01202,C0075,7/3/2022,July,Q3,2022,Returned,Mobile App,Credit Card,0,48.76,4.26,53.02,
+O01203,C0314,9/17/2022,September,Q3,2022,Delivered,In-Store,Apple Pay,0.1,574.68,0,574.68,8
+O01204,C0079,2/21/2023,February,Q1,2023,Delivered,Mobile App,Google Pay,0.15,600.34,0,600.34,1
+O01205,C0378,12/6/2023,December,Q4,2023,Delivered,Online,Credit Card,0,551.57,0,551.57,7
+O01206,C0097,4/9/2022,April,Q2,2022,Delivered,Online,PayPal,0.2,197,0,197,9
+O01207,C0461,8/29/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0.05,141.43,0,141.43,13
+O01208,C0314,3/5/2022,March,Q1,2022,Pending,Online,Google Pay,0.15,74.84,11.34,86.18,
+O01209,C0478,9/7/2022,September,Q3,2022,Delivered,Mobile App,Debit Card,0.2,405.29,0,405.29,7
+O01210,C0461,3/27/2022,March,Q1,2022,Delivered,Mobile App,Apple Pay,0,643.91,0,643.91,2
+O01211,C0098,6/8/2022,June,Q2,2022,Returned,Mobile App,Google Pay,0,750.09,0,750.09,
+O01212,C0179,7/11/2022,July,Q3,2022,Delivered,Mobile App,Apple Pay,0,1427.98,0,1427.98,1
+O01213,C0326,7/6/2023,July,Q3,2023,Cancelled,Mobile App,Credit Card,0.1,227.92,0,227.92,
+O01214,C0228,2/24/2023,February,Q1,2023,Pending,Mobile App,Credit Card,0,272.68,0,272.68,
+O01215,C0437,7/1/2023,July,Q3,2023,Cancelled,In-Store,Apple Pay,0,858.66,0,858.66,
+O01216,C0193,1/13/2023,January,Q1,2023,Delivered,Mobile App,Google Pay,0.2,689.13,0,689.13,3
+O01217,C0176,11/30/2022,November,Q4,2022,Cancelled,Online,Credit Card,0.2,347.14,0,347.14,
+O01218,C0228,10/2/2022,October,Q4,2022,Delivered,Mobile App,Apple Pay,0.05,1153.27,0,1153.27,13
+O01219,C0305,4/14/2023,April,Q2,2023,Pending,In-Store,Google Pay,0,994.33,0,994.33,
+O01220,C0411,9/15/2023,September,Q3,2023,Delivered,Online,Apple Pay,0,1181.98,0,1181.98,9
+O01221,C0414,7/1/2023,July,Q3,2023,Delivered,In-Store,Google Pay,0.1,192.6,0,192.6,6
+O01222,C0006,9/12/2023,September,Q3,2023,Delivered,Online,PayPal,0,399.34,0,399.34,1
+O01223,C0204,2/14/2023,February,Q1,2023,Delivered,Online,Google Pay,0,694.49,0,694.49,9
+O01224,C0294,7/23/2023,July,Q3,2023,Delivered,In-Store,Apple Pay,0,1098.09,0,1098.09,12
+O01225,C0243,9/26/2022,September,Q3,2022,Delivered,Online,Debit Card,0,168.86,0,168.86,1
+O01226,C0025,1/1/2022,January,Q1,2022,Delivered,In-Store,Apple Pay,0.2,703.61,0,703.61,11
+O01227,C0105,1/18/2022,January,Q1,2022,Delivered,In-Store,Credit Card,0.1,1081.95,0,1081.95,10
+O01228,C0027,5/30/2023,May,Q2,2023,Delivered,Online,Google Pay,0.05,1311.33,0,1311.33,1
+O01229,C0119,10/5/2022,October,Q4,2022,Cancelled,In-Store,Debit Card,0.1,1077.27,0,1077.27,
+O01230,C0463,2/15/2023,February,Q1,2023,Delivered,In-Store,Credit Card,0.05,991.43,0,991.43,3
+O01231,C0162,3/12/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0.1,713.85,0,713.85,8
+O01232,C0407,1/31/2022,January,Q1,2022,Pending,In-Store,Apple Pay,0.05,1384.78,0,1384.78,
+O01233,C0224,12/1/2022,December,Q4,2022,Delivered,Mobile App,Google Pay,0,420.56,0,420.56,6
+O01234,C0374,12/23/2022,December,Q4,2022,Delivered,Mobile App,Google Pay,0,651.87,0,651.87,2
+O01235,C0477,3/11/2022,March,Q1,2022,Returned,Mobile App,Apple Pay,0.05,2024.1,0,2024.1,
+O01236,C0365,11/23/2023,November,Q4,2023,Delivered,Mobile App,Debit Card,0.1,219.18,0,219.18,2
+O01237,C0258,12/2/2022,December,Q4,2022,Delivered,Mobile App,Credit Card,0.05,1230.44,0,1230.44,8
+O01238,C0158,10/3/2022,October,Q4,2022,Returned,In-Store,Debit Card,0,1074.69,0,1074.69,
+O01239,C0360,8/8/2023,August,Q3,2023,Returned,In-Store,PayPal,0.2,853.18,0,853.18,
+O01240,C0272,8/11/2022,August,Q3,2022,Delivered,Online,Debit Card,0,1244.8,0,1244.8,2
+O01241,C0181,6/28/2022,June,Q2,2022,Pending,Mobile App,Credit Card,0,1711.39,0,1711.39,
+O01242,C0210,12/1/2022,December,Q4,2022,Delivered,Mobile App,Apple Pay,0.2,495.03,0,495.03,6
+O01243,C0218,12/4/2023,December,Q4,2023,Returned,In-Store,PayPal,0.2,475.88,0,475.88,
+O01244,C0115,8/3/2022,August,Q3,2022,Delivered,Mobile App,Google Pay,0.1,1095.53,0,1095.53,12
+O01245,C0019,4/25/2022,April,Q2,2022,Delivered,Online,Debit Card,0.1,300.24,0,300.24,14
+O01246,C0477,12/2/2023,December,Q4,2023,Delivered,Online,Credit Card,0.1,1110.63,0,1110.63,7
+O01247,C0142,6/11/2023,June,Q2,2023,Pending,Mobile App,PayPal,0.05,761.19,0,761.19,
+O01248,C0065,6/15/2023,June,Q2,2023,Delivered,Mobile App,Debit Card,0,505.86,0,505.86,8
+O01249,C0375,7/6/2023,July,Q3,2023,Delivered,In-Store,Google Pay,0.1,648.15,0,648.15,14
+O01250,C0232,3/25/2022,March,Q1,2022,Delivered,In-Store,Google Pay,0.1,766.19,0,766.19,2
+O01251,C0043,7/6/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0.1,646.16,0,646.16,4
+O01252,C0313,5/19/2023,May,Q2,2023,Cancelled,In-Store,Google Pay,0,832.17,0,832.17,
+O01253,C0337,8/10/2023,August,Q3,2023,Delivered,Online,Apple Pay,0.1,681.58,0,681.58,7
+O01254,C0300,8/1/2022,August,Q3,2022,Delivered,Online,PayPal,0.15,727.42,0,727.42,13
+O01255,C0429,11/16/2023,November,Q4,2023,Returned,Mobile App,Apple Pay,0,1115.38,0,1115.38,
+O01256,C0437,8/11/2023,August,Q3,2023,Cancelled,Mobile App,PayPal,0,1941.88,0,1941.88,
+O01257,C0368,5/6/2022,May,Q2,2022,Cancelled,In-Store,Credit Card,0,101.26,0,101.26,
+O01258,C0106,2/15/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0,208.54,0,208.54,8
+O01259,C0041,8/11/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0,832.13,0,832.13,14
+O01260,C0385,3/17/2023,March,Q1,2023,Delivered,In-Store,Apple Pay,0.15,111.8,0,111.8,14
+O01261,C0198,1/20/2023,January,Q1,2023,Pending,Mobile App,Debit Card,0,494.11,0,494.11,
+O01262,C0202,11/27/2023,November,Q4,2023,Delivered,Mobile App,Debit Card,0.05,199.71,0,199.71,1
+O01263,C0438,6/12/2022,June,Q2,2022,Delivered,Online,Credit Card,0,533.74,0,533.74,2
+O01264,C0320,12/15/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0.1,936.75,0,936.75,3
+O01265,C0252,8/8/2022,August,Q3,2022,Cancelled,Mobile App,Apple Pay,0.05,225.28,0,225.28,
+O01266,C0479,6/6/2023,June,Q2,2023,Cancelled,In-Store,PayPal,0.05,481.89,0,481.89,
+O01267,C0118,8/30/2023,August,Q3,2023,Returned,Online,Google Pay,0.05,723.98,0,723.98,
+O01268,C0292,6/27/2022,June,Q2,2022,Cancelled,Mobile App,Google Pay,0.05,987.93,0,987.93,
+O01269,C0426,12/3/2022,December,Q4,2022,Delivered,Online,Credit Card,0.05,1425.59,0,1425.59,4
+O01270,C0157,8/2/2022,August,Q3,2022,Pending,Mobile App,Google Pay,0.05,370.89,0,370.89,
+O01271,C0493,6/9/2023,June,Q2,2023,Returned,Mobile App,Apple Pay,0,230.26,0,230.26,
+O01272,C0368,1/9/2022,January,Q1,2022,Delivered,In-Store,Debit Card,0.1,370.44,0,370.44,3
+O01273,C0280,5/11/2022,May,Q2,2022,Delivered,In-Store,PayPal,0.2,979.75,0,979.75,8
+O01274,C0237,5/18/2022,May,Q2,2022,Cancelled,In-Store,Credit Card,0,730.32,0,730.32,
+O01275,C0354,8/29/2023,August,Q3,2023,Delivered,Mobile App,Debit Card,0,798.88,0,798.88,5
+O01276,C0051,10/12/2023,October,Q4,2023,Delivered,In-Store,Google Pay,0.05,468.43,0,468.43,12
+O01277,C0200,9/19/2022,September,Q3,2022,Returned,Mobile App,Debit Card,0,803.26,0,803.26,
+O01278,C0052,4/21/2022,April,Q2,2022,Delivered,Mobile App,PayPal,0.05,310.26,0,310.26,12
+O01279,C0196,8/9/2022,August,Q3,2022,Pending,Online,Debit Card,0.1,237.54,0,237.54,
+O01280,C0029,6/5/2022,June,Q2,2022,Delivered,Mobile App,PayPal,0.2,209.8,0,209.8,12
+O01281,C0070,3/13/2022,March,Q1,2022,Returned,Online,Google Pay,0.1,746.91,0,746.91,
+O01282,C0050,5/22/2023,May,Q2,2023,Delivered,In-Store,Google Pay,0,600,0,600,4
+O01283,C0386,2/5/2022,February,Q1,2022,Delivered,Mobile App,Credit Card,0,1371.29,0,1371.29,3
+O01284,C0062,1/26/2022,January,Q1,2022,Delivered,In-Store,Apple Pay,0.2,484.09,0,484.09,5
+O01285,C0157,9/8/2022,September,Q3,2022,Delivered,Mobile App,Debit Card,0.2,763.22,0,763.22,4
+O01286,C0467,8/25/2023,August,Q3,2023,Delivered,Mobile App,Credit Card,0.1,524.01,0,524.01,11
+O01287,C0094,3/7/2023,March,Q1,2023,Delivered,Online,Debit Card,0,1694.73,0,1694.73,1
+O01288,C0497,11/25/2023,November,Q4,2023,Cancelled,In-Store,PayPal,0.1,401.44,0,401.44,
+O01289,C0055,4/19/2022,April,Q2,2022,Delivered,Mobile App,Google Pay,0.2,94.38,8.11,102.49,7
+O01290,C0388,12/21/2023,December,Q4,2023,Delivered,In-Store,Apple Pay,0.1,699.87,0,699.87,1
+O01291,C0257,6/23/2023,June,Q2,2023,Cancelled,Online,PayPal,0,802.64,0,802.64,
+O01292,C0017,5/18/2023,May,Q2,2023,Delivered,Online,Apple Pay,0,1330.83,0,1330.83,14
+O01293,C0102,11/30/2022,November,Q4,2022,Cancelled,Mobile App,PayPal,0.1,903.34,0,903.34,
+O01294,C0061,8/18/2022,August,Q3,2022,Delivered,In-Store,Apple Pay,0,1129.85,0,1129.85,6
+O01295,C0001,8/2/2022,August,Q3,2022,Delivered,Online,Credit Card,0,427.18,0,427.18,8
+O01296,C0123,8/31/2023,August,Q3,2023,Delivered,Online,Google Pay,0.1,204.69,0,204.69,2
+O01297,C0130,5/2/2022,May,Q2,2022,Delivered,Online,Google Pay,0.2,812.8,0,812.8,11
+O01298,C0273,8/15/2023,August,Q3,2023,Delivered,Online,Credit Card,0.1,996.33,0,996.33,1
+O01299,C0472,9/4/2023,September,Q3,2023,Returned,Mobile App,Apple Pay,0,1158.62,0,1158.62,
+O01300,C0340,9/11/2023,September,Q3,2023,Cancelled,In-Store,Google Pay,0,921.39,0,921.39,
+O01301,C0036,1/7/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.05,395.94,0,395.94,10
+O01302,C0306,9/14/2022,September,Q3,2022,Cancelled,Online,Apple Pay,0.05,656.56,0,656.56,
+O01303,C0415,5/23/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0.1,376.05,0,376.05,1
+O01304,C0077,2/5/2023,February,Q1,2023,Delivered,Mobile App,PayPal,0.1,188.71,0,188.71,4
+O01305,C0405,1/3/2023,January,Q1,2023,Delivered,In-Store,Debit Card,0,475.99,0,475.99,3
+O01306,C0318,4/7/2022,April,Q2,2022,Delivered,Online,Google Pay,0,538.25,0,538.25,6
+O01307,C0290,1/19/2022,January,Q1,2022,Delivered,Online,Credit Card,0,1034.3,0,1034.3,1
+O01308,C0044,5/11/2022,May,Q2,2022,Delivered,Online,Credit Card,0,787.61,0,787.61,2
+O01309,C0180,4/2/2022,April,Q2,2022,Delivered,In-Store,Google Pay,0.15,384.24,0,384.24,4
+O01310,C0490,9/22/2022,September,Q3,2022,Delivered,Online,PayPal,0.15,911.07,0,911.07,2
+O01311,C0319,4/1/2022,April,Q2,2022,Returned,Online,PayPal,0.05,1026.6,0,1026.6,
+O01312,C0493,3/8/2023,March,Q1,2023,Pending,Online,Google Pay,0,99.76,11.24,111,
+O01313,C0065,4/15/2023,April,Q2,2023,Delivered,Online,Credit Card,0.1,787.92,0,787.92,3
+O01314,C0439,5/14/2022,May,Q2,2022,Delivered,Mobile App,Apple Pay,0.05,912.72,0,912.72,11
+O01315,C0082,8/16/2023,August,Q3,2023,Returned,In-Store,Credit Card,0,101.39,0,101.39,
+O01316,C0156,5/28/2023,May,Q2,2023,Cancelled,Mobile App,Debit Card,0,1176.31,0,1176.31,
+O01317,C0486,4/24/2022,April,Q2,2022,Delivered,In-Store,Apple Pay,0.2,619.05,0,619.05,5
+O01318,C0295,6/26/2022,June,Q2,2022,Delivered,In-Store,PayPal,0.15,74.17,10.06,84.23,10
+O01319,C0253,7/20/2022,July,Q3,2022,Delivered,Online,Debit Card,0,72.18,4.6,76.78,6
+O01320,C0347,8/24/2023,August,Q3,2023,Delivered,Online,Google Pay,0.1,999.08,0,999.08,6
+O01321,C0434,4/11/2022,April,Q2,2022,Delivered,Mobile App,Credit Card,0,270.36,0,270.36,11
+O01322,C0384,10/13/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0,131.97,0,131.97,10
+O01323,C0381,6/25/2023,June,Q2,2023,Delivered,Mobile App,Apple Pay,0,518.39,0,518.39,8
+O01324,C0282,8/30/2023,August,Q3,2023,Delivered,Online,PayPal,0,237.18,0,237.18,8
+O01325,C0417,4/30/2022,April,Q2,2022,Delivered,Online,Credit Card,0.1,712.62,0,712.62,11
+O01326,C0388,2/2/2023,February,Q1,2023,Delivered,Mobile App,Credit Card,0.15,639.73,0,639.73,14
+O01327,C0326,4/23/2023,April,Q2,2023,Delivered,Online,Credit Card,0,1161.45,0,1161.45,1
+O01328,C0242,6/20/2022,June,Q2,2022,Delivered,Online,Debit Card,0.2,1633.35,0,1633.35,2
+O01329,C0399,9/23/2023,September,Q3,2023,Delivered,Mobile App,Debit Card,0.15,1436.46,0,1436.46,14
+O01330,C0117,2/11/2022,February,Q1,2022,Delivered,Mobile App,Credit Card,0,1465.69,0,1465.69,3
+O01331,C0334,9/21/2022,September,Q3,2022,Returned,Mobile App,Debit Card,0.05,1040.62,0,1040.62,
+O01332,C0283,12/27/2022,December,Q4,2022,Cancelled,Online,Apple Pay,0,1008.32,0,1008.32,
+O01333,C0046,11/26/2022,November,Q4,2022,Delivered,Online,PayPal,0.2,267.14,0,267.14,1
+O01334,C0246,1/10/2022,January,Q1,2022,Returned,In-Store,Credit Card,0.2,489.84,0,489.84,
+O01335,C0360,12/13/2023,December,Q4,2023,Returned,Mobile App,Debit Card,0,578.78,0,578.78,
+O01336,C0034,8/14/2022,August,Q3,2022,Delivered,In-Store,Credit Card,0.15,503.97,0,503.97,14
+O01337,C0008,11/20/2022,November,Q4,2022,Delivered,Mobile App,Credit Card,0,684.72,0,684.72,7
+O01338,C0358,10/25/2022,October,Q4,2022,Returned,Mobile App,Google Pay,0.2,703.19,0,703.19,
+O01339,C0216,9/23/2022,September,Q3,2022,Pending,Mobile App,Google Pay,0.2,508.88,0,508.88,
+O01340,C0173,11/25/2022,November,Q4,2022,Delivered,Mobile App,Credit Card,0.05,310.28,0,310.28,3
+O01341,C0120,8/30/2023,August,Q3,2023,Pending,Mobile App,Credit Card,0,1567.65,0,1567.65,
+O01342,C0117,1/28/2023,January,Q1,2023,Delivered,In-Store,PayPal,0.05,256.84,0,256.84,13
+O01343,C0237,4/25/2023,April,Q2,2023,Delivered,In-Store,Credit Card,0.05,363.35,0,363.35,8
+O01344,C0063,1/6/2023,January,Q1,2023,Cancelled,Online,Google Pay,0.15,1139.4,0,1139.4,
+O01345,C0398,7/10/2022,July,Q3,2022,Cancelled,Online,PayPal,0.1,489.45,0,489.45,
+O01346,C0351,6/25/2023,June,Q2,2023,Delivered,Online,Debit Card,0.1,799.28,0,799.28,11
+O01347,C0106,5/28/2022,May,Q2,2022,Delivered,Mobile App,PayPal,0,1255.58,0,1255.58,12
+O01348,C0259,5/2/2023,May,Q2,2023,Delivered,Online,PayPal,0.1,239.12,0,239.12,11
+O01349,C0120,6/30/2022,June,Q2,2022,Delivered,In-Store,Debit Card,0,216.48,0,216.48,11
+O01350,C0269,9/11/2023,September,Q3,2023,Pending,Mobile App,Google Pay,0.05,337.49,0,337.49,
+O01351,C0398,1/10/2022,January,Q1,2022,Returned,In-Store,Apple Pay,0.05,1276.29,0,1276.29,
+O01352,C0082,3/23/2023,March,Q1,2023,Delivered,Mobile App,Google Pay,0,166.96,0,166.96,4
+O01353,C0441,2/17/2023,February,Q1,2023,Pending,Mobile App,Debit Card,0,836.26,0,836.26,
+O01354,C0055,3/18/2022,March,Q1,2022,Delivered,Online,Apple Pay,0.1,1292.16,0,1292.16,5
+O01355,C0138,7/20/2023,July,Q3,2023,Returned,Online,PayPal,0,857.72,0,857.72,
+O01356,C0493,8/6/2023,August,Q3,2023,Delivered,In-Store,Debit Card,0.15,112.14,0,112.14,14
+O01357,C0040,3/4/2022,March,Q1,2022,Delivered,Online,Apple Pay,0.05,969.12,0,969.12,10
+O01358,C0102,8/2/2022,August,Q3,2022,Delivered,Online,Debit Card,0,463.08,0,463.08,3
+O01359,C0289,10/13/2022,October,Q4,2022,Delivered,Mobile App,Google Pay,0,1839,0,1839,12
+O01360,C0314,7/18/2023,July,Q3,2023,Delivered,Mobile App,Debit Card,0.15,907.49,0,907.49,3
+O01361,C0459,8/10/2023,August,Q3,2023,Delivered,Mobile App,PayPal,0.15,299.02,0,299.02,14
+O01362,C0220,3/2/2022,March,Q1,2022,Delivered,Online,Apple Pay,0.05,366.18,0,366.18,11
+O01363,C0156,12/31/2022,December,Q4,2022,Pending,In-Store,Google Pay,0.15,420.92,0,420.92,
+O01364,C0259,7/14/2023,July,Q3,2023,Cancelled,Online,Apple Pay,0.15,1467.45,0,1467.45,
+O01365,C0305,2/17/2022,February,Q1,2022,Delivered,Online,PayPal,0.2,452.83,0,452.83,9
+O01366,C0294,2/5/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0,312.85,0,312.85,6
+O01367,C0035,2/11/2022,February,Q1,2022,Delivered,In-Store,PayPal,0.2,853.12,0,853.12,6
+O01368,C0408,12/1/2023,December,Q4,2023,Returned,Online,Google Pay,0.1,268.29,0,268.29,
+O01369,C0356,8/2/2022,August,Q3,2022,Returned,Mobile App,Debit Card,0,583.63,0,583.63,
+O01370,C0004,7/5/2023,July,Q3,2023,Delivered,Mobile App,Google Pay,0.15,126.81,0,126.81,14
+O01371,C0495,10/3/2022,October,Q4,2022,Delivered,Mobile App,Google Pay,0,1202.22,0,1202.22,1
+O01372,C0061,5/27/2022,May,Q2,2022,Pending,Online,Debit Card,0,590.1,0,590.1,
+O01373,C0082,3/9/2022,March,Q1,2022,Delivered,Mobile App,Google Pay,0.2,606.54,0,606.54,10
+O01374,C0105,4/4/2023,April,Q2,2023,Delivered,Mobile App,Debit Card,0,827.56,0,827.56,12
+O01375,C0206,5/12/2022,May,Q2,2022,Cancelled,Online,PayPal,0,1316.53,0,1316.53,
+O01376,C0062,4/5/2023,April,Q2,2023,Delivered,Online,Google Pay,0.1,467.61,0,467.61,14
+O01377,C0071,10/4/2022,October,Q4,2022,Returned,Mobile App,Credit Card,0,263.13,0,263.13,
+O01378,C0441,12/6/2022,December,Q4,2022,Delivered,In-Store,Credit Card,0,682.52,0,682.52,9
+O01379,C0436,3/29/2023,March,Q1,2023,Pending,Mobile App,PayPal,0.05,969.33,0,969.33,
+O01380,C0363,9/18/2022,September,Q3,2022,Delivered,Mobile App,Debit Card,0.15,847.29,0,847.29,14
+O01381,C0295,7/23/2022,July,Q3,2022,Returned,Mobile App,Google Pay,0.1,514.94,0,514.94,
+O01382,C0483,2/28/2022,February,Q1,2022,Delivered,Online,Google Pay,0.15,616.82,0,616.82,11
+O01383,C0258,1/3/2023,January,Q1,2023,Delivered,In-Store,Apple Pay,0.15,339.86,0,339.86,5
+O01384,C0204,5/9/2023,May,Q2,2023,Delivered,In-Store,PayPal,0,849.31,0,849.31,7
+O01385,C0087,7/23/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0,724.82,0,724.82,3
+O01386,C0388,11/4/2022,November,Q4,2022,Delivered,Mobile App,Apple Pay,0,577.27,0,577.27,10
+O01387,C0294,6/29/2022,June,Q2,2022,Delivered,Mobile App,Apple Pay,0.05,244.83,0,244.83,1
+O01388,C0069,2/24/2023,February,Q1,2023,Delivered,In-Store,PayPal,0.2,563.01,0,563.01,10
+O01389,C0039,2/21/2022,February,Q1,2022,Returned,Mobile App,PayPal,0.2,324.84,0,324.84,
+O01390,C0091,5/18/2022,May,Q2,2022,Cancelled,Online,Credit Card,0,720.07,0,720.07,
+O01391,C0215,1/22/2022,January,Q1,2022,Pending,Online,Credit Card,0,621.42,0,621.42,
+O01392,C0426,2/26/2022,February,Q1,2022,Delivered,Mobile App,Apple Pay,0,916.15,0,916.15,7
+O01393,C0047,4/1/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0,1686.07,0,1686.07,3
+O01394,C0481,7/24/2022,July,Q3,2022,Delivered,In-Store,PayPal,0.2,219.34,0,219.34,8
+O01395,C0092,4/21/2023,April,Q2,2023,Delivered,Mobile App,PayPal,0.05,1117.23,0,1117.23,7
+O01396,C0415,3/13/2022,March,Q1,2022,Delivered,In-Store,Credit Card,0.1,1150.37,0,1150.37,1
+O01397,C0452,6/22/2022,June,Q2,2022,Returned,Online,PayPal,0,827.98,0,827.98,
+O01398,C0408,7/21/2022,July,Q3,2022,Cancelled,Online,Google Pay,0.2,1051.95,0,1051.95,
+O01399,C0291,2/12/2022,February,Q1,2022,Pending,Mobile App,Debit Card,0.1,1305.17,0,1305.17,
+O01400,C0257,12/12/2022,December,Q4,2022,Pending,In-Store,Debit Card,0,940.71,0,940.71,
+O01401,C0400,8/14/2022,August,Q3,2022,Delivered,In-Store,Apple Pay,0,1421.97,0,1421.97,5
+O01402,C0109,4/14/2023,April,Q2,2023,Delivered,Online,Credit Card,0.1,131.04,0,131.04,7
+O01403,C0132,3/1/2023,March,Q1,2023,Delivered,Online,Debit Card,0.05,1109.83,0,1109.83,1
+O01404,C0077,4/9/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0,909.19,0,909.19,6
+O01405,C0211,3/15/2023,March,Q1,2023,Delivered,Online,Debit Card,0.15,223.6,0,223.6,7
+O01406,C0304,6/6/2023,June,Q2,2023,Returned,Online,Apple Pay,0.05,654.68,0,654.68,
+O01407,C0242,12/19/2023,December,Q4,2023,Delivered,Mobile App,Debit Card,0.05,192.64,0,192.64,11
+O01408,C0144,3/25/2022,March,Q1,2022,Pending,Mobile App,Google Pay,0.05,201.35,0,201.35,
+O01409,C0390,12/4/2022,December,Q4,2022,Delivered,Online,Debit Card,0.1,98.78,10.2,108.98,3
+O01410,C0357,6/12/2023,June,Q2,2023,Delivered,Online,PayPal,0.2,1062.93,0,1062.93,1
+O01411,C0135,10/26/2023,October,Q4,2023,Delivered,Mobile App,Apple Pay,0.15,1147.57,0,1147.57,8
+O01412,C0099,8/18/2023,August,Q3,2023,Delivered,Mobile App,Google Pay,0,426.02,0,426.02,13
+O01413,C0105,8/27/2022,August,Q3,2022,Delivered,Online,Credit Card,0.1,671.49,0,671.49,9
+O01414,C0352,11/12/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0,932.52,0,932.52,6
+O01415,C0397,8/3/2023,August,Q3,2023,Pending,Online,Apple Pay,0.1,1237.11,0,1237.11,
+O01416,C0084,10/6/2022,October,Q4,2022,Cancelled,Mobile App,Credit Card,0.15,586.64,0,586.64,
+O01417,C0058,3/1/2023,March,Q1,2023,Delivered,Online,Apple Pay,0.15,1048.41,0,1048.41,11
+O01418,C0436,9/16/2022,September,Q3,2022,Delivered,In-Store,Credit Card,0,300.27,0,300.27,3
+O01419,C0212,10/8/2023,October,Q4,2023,Delivered,Online,Credit Card,0,998.18,0,998.18,7
+O01420,C0077,6/26/2023,June,Q2,2023,Delivered,Mobile App,Debit Card,0.15,272.52,0,272.52,8
+O01421,C0076,6/13/2023,June,Q2,2023,Delivered,Online,PayPal,0,1409.38,0,1409.38,7
+O01422,C0440,4/23/2022,April,Q2,2022,Pending,Online,Apple Pay,0,435.2,0,435.2,
+O01423,C0123,10/2/2023,October,Q4,2023,Pending,Online,Debit Card,0.05,498.27,0,498.27,
+O01424,C0144,10/3/2022,October,Q4,2022,Delivered,Mobile App,Apple Pay,0.15,716.4,0,716.4,11
+O01425,C0421,5/12/2023,May,Q2,2023,Delivered,Mobile App,Credit Card,0.15,186.45,0,186.45,5
+O01426,C0084,11/5/2023,November,Q4,2023,Returned,Online,Google Pay,0,526.1,0,526.1,
+O01427,C0283,9/30/2022,September,Q3,2022,Delivered,Online,Debit Card,0.1,849.05,0,849.05,1
+O01428,C0181,12/30/2022,December,Q4,2022,Delivered,In-Store,Google Pay,0.2,748.38,0,748.38,11
+O01429,C0009,9/6/2022,September,Q3,2022,Cancelled,Mobile App,Google Pay,0,1081.85,0,1081.85,
+O01430,C0102,5/11/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.05,931.69,0,931.69,10
+O01431,C0038,5/13/2022,May,Q2,2022,Cancelled,Mobile App,Apple Pay,0.2,704.15,0,704.15,
+O01432,C0199,7/8/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0,504.78,0,504.78,10
+O01433,C0299,2/22/2023,February,Q1,2023,Returned,In-Store,Apple Pay,0.1,827.34,0,827.34,
+O01434,C0406,7/16/2023,July,Q3,2023,Returned,In-Store,Google Pay,0.15,656.19,0,656.19,
+O01435,C0231,9/18/2023,September,Q3,2023,Delivered,Online,Credit Card,0,613.23,0,613.23,9
+O01436,C0486,9/15/2022,September,Q3,2022,Delivered,In-Store,Debit Card,0.1,5.84,0,5.84,7
+O01437,C0006,1/31/2022,January,Q1,2022,Delivered,In-Store,PayPal,0,486.21,0,486.21,7
+O01438,C0076,9/24/2023,September,Q3,2023,Cancelled,Mobile App,Credit Card,0.2,416.34,0,416.34,
+O01439,C0037,8/11/2022,August,Q3,2022,Delivered,Online,Debit Card,0.1,456.49,0,456.49,10
+O01440,C0277,3/22/2023,March,Q1,2023,Delivered,In-Store,Debit Card,0.15,439.08,0,439.08,1
+O01441,C0266,7/7/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.1,529.81,0,529.81,5
+O01442,C0287,9/28/2023,September,Q3,2023,Delivered,Mobile App,Google Pay,0.2,1088.55,0,1088.55,8
+O01443,C0316,2/23/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.1,1076.82,0,1076.82,2
+O01444,C0364,6/17/2022,June,Q2,2022,Returned,Online,Debit Card,0.05,688.23,0,688.23,
+O01445,C0254,7/21/2022,July,Q3,2022,Delivered,Online,PayPal,0,459.53,0,459.53,1
+O01446,C0076,12/13/2023,December,Q4,2023,Delivered,Mobile App,Debit Card,0.1,649.84,0,649.84,13
+O01447,C0151,11/14/2022,November,Q4,2022,Pending,In-Store,Google Pay,0.1,835.32,0,835.32,
+O01448,C0397,8/19/2022,August,Q3,2022,Delivered,Online,Apple Pay,0.05,1429.14,0,1429.14,14
+O01449,C0400,1/1/2023,January,Q1,2023,Pending,Mobile App,Debit Card,0.2,568.47,0,568.47,
+O01450,C0041,10/2/2022,October,Q4,2022,Delivered,Mobile App,PayPal,0,940.74,0,940.74,12
+O01451,C0041,4/8/2022,April,Q2,2022,Pending,In-Store,PayPal,0.15,877.84,0,877.84,
+O01452,C0332,5/19/2023,May,Q2,2023,Delivered,Online,PayPal,0,1085.97,0,1085.97,13
+O01453,C0365,7/14/2023,July,Q3,2023,Delivered,Online,Google Pay,0,935.51,0,935.51,13
+O01454,C0482,2/10/2022,February,Q1,2022,Delivered,Mobile App,Google Pay,0.05,1029.99,0,1029.99,9
+O01455,C0277,1/13/2022,January,Q1,2022,Delivered,In-Store,Debit Card,0.1,339.98,0,339.98,12
+O01456,C0308,7/31/2022,July,Q3,2022,Returned,In-Store,Apple Pay,0,622.23,0,622.23,
+O01457,C0135,1/22/2022,January,Q1,2022,Delivered,Online,Credit Card,0.1,486.99,0,486.99,1
+O01458,C0306,6/22/2022,June,Q2,2022,Delivered,Mobile App,Google Pay,0,868.17,0,868.17,14
+O01459,C0114,3/22/2022,March,Q1,2022,Returned,Mobile App,Apple Pay,0.05,71.26,8.06,79.32,
+O01460,C0284,12/13/2022,December,Q4,2022,Delivered,Mobile App,Apple Pay,0,484.41,0,484.41,2
+O01461,C0305,11/3/2023,November,Q4,2023,Delivered,In-Store,Apple Pay,0.2,766.73,0,766.73,5
+O01462,C0187,12/30/2023,December,Q4,2023,Cancelled,Online,Credit Card,0.2,572.66,0,572.66,
+O01463,C0200,3/17/2022,March,Q1,2022,Returned,Mobile App,PayPal,0.05,684.37,0,684.37,
+O01464,C0193,1/3/2022,January,Q1,2022,Returned,Online,Debit Card,0.15,738.75,0,738.75,
+O01465,C0465,4/5/2023,April,Q2,2023,Returned,Online,Google Pay,0.05,334.2,0,334.2,
+O01466,C0202,8/31/2022,August,Q3,2022,Delivered,Online,Debit Card,0.05,298.92,0,298.92,3
+O01467,C0375,6/28/2023,June,Q2,2023,Delivered,In-Store,Credit Card,0.1,509.31,0,509.31,1
+O01468,C0441,8/10/2022,August,Q3,2022,Delivered,Mobile App,Credit Card,0.2,314.7,0,314.7,3
+O01469,C0187,5/19/2022,May,Q2,2022,Cancelled,In-Store,Debit Card,0.15,230.1,0,230.1,
+O01470,C0292,4/24/2023,April,Q2,2023,Returned,Online,Google Pay,0.15,979.83,0,979.83,
+O01471,C0069,4/20/2023,April,Q2,2023,Pending,In-Store,PayPal,0,984.95,0,984.95,
+O01472,C0493,9/12/2023,September,Q3,2023,Cancelled,In-Store,Debit Card,0.1,857.6,0,857.6,
+O01473,C0179,10/7/2023,October,Q4,2023,Returned,In-Store,PayPal,0.2,507.06,0,507.06,
+O01474,C0253,9/24/2023,September,Q3,2023,Delivered,In-Store,Apple Pay,0.05,1298.84,0,1298.84,5
+O01475,C0230,10/18/2023,October,Q4,2023,Delivered,Online,Credit Card,0,430.36,0,430.36,1
+O01476,C0037,1/19/2023,January,Q1,2023,Delivered,Online,Apple Pay,0,791.37,0,791.37,6
+O01477,C0217,2/25/2022,February,Q1,2022,Pending,Mobile App,Credit Card,0,795.36,0,795.36,
+O01478,C0158,3/29/2023,March,Q1,2023,Delivered,Online,PayPal,0.15,1112.31,0,1112.31,6
+O01479,C0371,4/17/2023,April,Q2,2023,Delivered,Mobile App,Google Pay,0.1,118.72,0,118.72,14
+O01480,C0368,2/19/2023,February,Q1,2023,Delivered,In-Store,Apple Pay,0,492.76,0,492.76,8
+O01481,C0136,10/5/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0,1343.72,0,1343.72,13
+O01482,C0329,4/13/2022,April,Q2,2022,Delivered,Online,Google Pay,0,138.29,0,138.29,12
+O01483,C0362,9/11/2023,September,Q3,2023,Returned,Mobile App,Debit Card,0.1,873.31,0,873.31,
+O01484,C0193,9/25/2023,September,Q3,2023,Cancelled,Mobile App,Apple Pay,0.05,553.68,0,553.68,
+O01485,C0445,12/13/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0.15,777.32,0,777.32,2
+O01486,C0217,9/24/2023,September,Q3,2023,Returned,Mobile App,Google Pay,0,174.9,0,174.9,
+O01487,C0310,8/29/2023,August,Q3,2023,Delivered,Online,PayPal,0.2,402.98,0,402.98,3
+O01488,C0460,2/3/2023,February,Q1,2023,Pending,In-Store,Apple Pay,0.1,131.64,0,131.64,
+O01489,C0036,7/26/2022,July,Q3,2022,Delivered,Online,Credit Card,0.15,634.49,0,634.49,3
+O01490,C0397,3/19/2023,March,Q1,2023,Delivered,Online,Apple Pay,0.05,683.82,0,683.82,12
+O01491,C0492,2/4/2022,February,Q1,2022,Delivered,In-Store,Apple Pay,0,1101.55,0,1101.55,3
+O01492,C0320,5/31/2023,May,Q2,2023,Delivered,In-Store,Credit Card,0.15,1184.73,0,1184.73,5
+O01493,C0010,11/23/2023,November,Q4,2023,Pending,In-Store,Google Pay,0,646.04,0,646.04,
+O01494,C0362,2/19/2023,February,Q1,2023,Delivered,Online,PayPal,0.05,853.88,0,853.88,10
+O01495,C0249,10/24/2023,October,Q4,2023,Delivered,Mobile App,Debit Card,0.1,447.57,0,447.57,14
+O01496,C0278,12/27/2023,December,Q4,2023,Delivered,In-Store,Google Pay,0.15,878.73,0,878.73,10
+O01497,C0360,11/9/2023,November,Q4,2023,Delivered,Online,Apple Pay,0,636.68,0,636.68,7
+O01498,C0052,5/14/2022,May,Q2,2022,Delivered,Mobile App,Google Pay,0.15,388.77,0,388.77,11
+O01499,C0444,4/17/2022,April,Q2,2022,Cancelled,Mobile App,PayPal,0,921.11,0,921.11,
+O015,C0071,7/17/2022,July,Q3,2022,Pending,In-Store,Debit Card,0.2,828.39,0,828.39,
+O01501,C0033,6/10/2023,June,Q2,2023,Delivered,Mobile App,Apple Pay,0.1,461.52,0,461.52,11
+O01502,C0280,10/25/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0.05,85.45,10.47,95.92,5
+O01503,C0295,10/20/2023,October,Q4,2023,Delivered,In-Store,Apple Pay,0.15,871.02,0,871.02,11
+O01504,C0228,10/1/2023,October,Q4,2023,Delivered,Mobile App,Google Pay,0,541.2,0,541.2,1
+O01505,C0294,5/25/2022,May,Q2,2022,Delivered,Online,Apple Pay,0,954.6,0,954.6,6
+O01506,C0256,11/13/2023,November,Q4,2023,Delivered,In-Store,PayPal,0.05,760.62,0,760.62,8
+O01507,C0173,6/18/2023,June,Q2,2023,Delivered,In-Store,Credit Card,0,757.37,0,757.37,2
+O01508,C0395,6/9/2023,June,Q2,2023,Cancelled,Online,Debit Card,0.2,939.51,0,939.51,
+O01509,C0232,1/21/2022,January,Q1,2022,Delivered,Mobile App,Credit Card,0.1,773.48,0,773.48,1
+O01510,C0089,2/16/2022,February,Q1,2022,Delivered,Mobile App,Google Pay,0.15,896.69,0,896.69,11
+O01511,C0297,1/13/2022,January,Q1,2022,Delivered,Mobile App,Apple Pay,0.1,937.74,0,937.74,10
+O01512,C0139,6/24/2023,June,Q2,2023,Cancelled,In-Store,Credit Card,0.05,344.5,0,344.5,
+O01513,C0385,12/9/2023,December,Q4,2023,Cancelled,Mobile App,Credit Card,0.1,1219.59,0,1219.59,
+O01514,C0024,5/24/2022,May,Q2,2022,Delivered,Mobile App,Google Pay,0,1347.91,0,1347.91,5
+O01515,C0313,1/18/2022,January,Q1,2022,Returned,In-Store,Debit Card,0,1894.65,0,1894.65,
+O01516,C0313,1/10/2023,January,Q1,2023,Cancelled,Online,Google Pay,0.05,720.24,0,720.24,
+O01517,C0370,6/12/2022,June,Q2,2022,Delivered,Mobile App,Google Pay,0.2,599.8,0,599.8,13
+O01518,C0481,10/11/2022,October,Q4,2022,Delivered,Mobile App,Debit Card,0.15,126.76,0,126.76,1
+O01519,C0378,10/21/2023,October,Q4,2023,Delivered,Mobile App,PayPal,0,688.77,0,688.77,12
+O01520,C0002,1/29/2023,January,Q1,2023,Delivered,Mobile App,Debit Card,0.15,570.61,0,570.61,13
+O01521,C0076,1/26/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.05,461.69,0,461.69,12
+O01522,C0074,8/14/2022,August,Q3,2022,Delivered,Online,Google Pay,0.1,893.14,0,893.14,6
+O01523,C0422,10/7/2022,October,Q4,2022,Delivered,Mobile App,PayPal,0.2,924.24,0,924.24,4
+O01524,C0304,6/22/2023,June,Q2,2023,Delivered,Online,Debit Card,0.05,86.56,8.75,95.31,6
+O01525,C0253,9/9/2023,September,Q3,2023,Cancelled,In-Store,Google Pay,0.1,290.82,0,290.82,
+O01526,C0208,7/18/2023,July,Q3,2023,Cancelled,Mobile App,Google Pay,0.05,461.21,0,461.21,
+O01527,C0351,5/6/2023,May,Q2,2023,Delivered,Mobile App,Debit Card,0.1,1374.14,0,1374.14,2
+O01528,C0080,8/4/2023,August,Q3,2023,Delivered,Mobile App,Debit Card,0.2,841.38,0,841.38,10
+O01529,C0068,8/13/2022,August,Q3,2022,Delivered,Mobile App,Google Pay,0,1481.26,0,1481.26,10
+O01530,C0462,4/11/2023,April,Q2,2023,Returned,In-Store,Credit Card,0.05,95.46,7.67,103.13,
+O01531,C0212,6/16/2023,June,Q2,2023,Returned,In-Store,PayPal,0.15,438.38,0,438.38,
+O01532,C0393,6/24/2022,June,Q2,2022,Delivered,In-Store,PayPal,0,918.87,0,918.87,6
+O01533,C0066,10/22/2023,October,Q4,2023,Pending,Mobile App,Google Pay,0.15,380.28,0,380.28,
+O01534,C0364,10/14/2022,October,Q4,2022,Delivered,In-Store,PayPal,0.1,496.08,0,496.08,11
+O01535,C0471,12/20/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0.2,140.71,0,140.71,9
+O01536,C0228,4/27/2022,April,Q2,2022,Delivered,Mobile App,Google Pay,0,1137.83,0,1137.83,14
+O01537,C0452,5/26/2022,May,Q2,2022,Cancelled,In-Store,PayPal,0.05,611.56,0,611.56,
+O01538,C0415,10/28/2022,October,Q4,2022,Returned,Online,Apple Pay,0,277.39,0,277.39,
+O01539,C0112,5/18/2022,May,Q2,2022,Pending,Mobile App,Apple Pay,0.1,705,0,705,
+O01540,C0308,12/22/2023,December,Q4,2023,Pending,Mobile App,Credit Card,0.1,933.51,0,933.51,
+O01541,C0070,8/2/2023,August,Q3,2023,Delivered,Mobile App,PayPal,0.15,230.28,0,230.28,14
+O01542,C0117,8/21/2022,August,Q3,2022,Cancelled,Online,Apple Pay,0.2,365.55,0,365.55,
+O01543,C0276,9/11/2022,September,Q3,2022,Delivered,Online,Apple Pay,0,1683.92,0,1683.92,6
+O01544,C0279,10/18/2022,October,Q4,2022,Pending,In-Store,Google Pay,0,197.63,0,197.63,
+O01545,C0002,12/11/2022,December,Q4,2022,Delivered,Mobile App,Credit Card,0.1,68.98,8.47,77.45,2
+O01546,C0331,10/21/2022,October,Q4,2022,Returned,In-Store,PayPal,0.15,287.9,0,287.9,
+O01547,C0362,8/28/2023,August,Q3,2023,Returned,Online,Apple Pay,0,1212.58,0,1212.58,
+O01548,C0498,7/26/2022,July,Q3,2022,Delivered,Online,PayPal,0.15,272.85,0,272.85,7
+O01549,C0363,7/11/2022,July,Q3,2022,Returned,Online,Apple Pay,0.05,189.34,0,189.34,
+O01550,C0383,1/22/2023,January,Q1,2023,Delivered,Online,Credit Card,0,804.78,0,804.78,5
+O01551,C0315,8/26/2023,August,Q3,2023,Delivered,Mobile App,Apple Pay,0.05,94.4,7.32,101.72,10
+O01552,C0380,1/17/2022,January,Q1,2022,Pending,Online,Google Pay,0,34.31,4.14,38.45,
+O01553,C0207,5/4/2022,May,Q2,2022,Cancelled,Online,Google Pay,0,937.68,0,937.68,
+O01554,C0452,11/11/2022,November,Q4,2022,Delivered,Online,Credit Card,0.1,578.98,0,578.98,2
+O01555,C0291,8/22/2023,August,Q3,2023,Delivered,Mobile App,PayPal,0,763.76,0,763.76,13
+O01556,C0048,11/2/2022,November,Q4,2022,Delivered,Mobile App,Google Pay,0,128.64,0,128.64,6
+O01557,C0033,8/2/2022,August,Q3,2022,Cancelled,In-Store,Google Pay,0.05,541.44,0,541.44,
+O01558,C0241,9/4/2022,September,Q3,2022,Delivered,In-Store,PayPal,0,375.45,0,375.45,5
+O01559,C0298,7/22/2022,July,Q3,2022,Delivered,Online,Credit Card,0,438.02,0,438.02,10
+O01560,C0422,11/21/2022,November,Q4,2022,Delivered,Mobile App,Credit Card,0,515.69,0,515.69,8
+O01561,C0334,3/22/2023,March,Q1,2023,Delivered,Mobile App,Debit Card,0,457.65,0,457.65,4
+O01562,C0299,3/28/2022,March,Q1,2022,Delivered,Online,PayPal,0,615.81,0,615.81,13
+O01563,C0281,3/21/2022,March,Q1,2022,Delivered,Online,Google Pay,0.15,1224.24,0,1224.24,11
+O01564,C0429,1/3/2022,January,Q1,2022,Delivered,Mobile App,Debit Card,0,573.99,0,573.99,1
+O01565,C0207,2/4/2022,February,Q1,2022,Delivered,Mobile App,Credit Card,0,249.68,0,249.68,11
+O01566,C0354,12/10/2022,December,Q4,2022,Delivered,Mobile App,Debit Card,0,153.76,0,153.76,13
+O01567,C0079,1/28/2022,January,Q1,2022,Delivered,Online,Credit Card,0,1788.78,0,1788.78,4
+O01568,C0106,6/16/2023,June,Q2,2023,Delivered,Mobile App,Debit Card,0,1181.51,0,1181.51,3
+O01569,C0341,6/30/2022,June,Q2,2022,Delivered,Online,Debit Card,0.15,90.95,11.36,102.31,14
+O01570,C0039,4/27/2022,April,Q2,2022,Cancelled,Mobile App,PayPal,0,235.56,0,235.56,
+O01571,C0187,7/5/2022,July,Q3,2022,Delivered,Mobile App,Debit Card,0,997.29,0,997.29,7
+O01572,C0153,11/2/2022,November,Q4,2022,Delivered,Online,Debit Card,0,733.06,0,733.06,7
+O01573,C0385,4/10/2023,April,Q2,2023,Returned,In-Store,Google Pay,0.1,1339.05,0,1339.05,
+O01574,C0197,2/18/2023,February,Q1,2023,Delivered,Mobile App,Credit Card,0,750.16,0,750.16,7
+O01575,C0214,11/4/2022,November,Q4,2022,Cancelled,Online,PayPal,0,263.06,0,263.06,
+O01576,C0358,1/15/2023,January,Q1,2023,Cancelled,Online,PayPal,0.2,1127.37,0,1127.37,
+O01577,C0174,8/2/2022,August,Q3,2022,Delivered,Mobile App,Google Pay,0,1258.32,0,1258.32,8
+O01578,C0042,6/10/2022,June,Q2,2022,Delivered,Mobile App,Google Pay,0,1258.32,0,1258.32,1
+O01579,C0212,4/14/2022,April,Q2,2022,Delivered,In-Store,Google Pay,0.05,1507.09,0,1507.09,11
+O01580,C0485,5/28/2023,May,Q2,2023,Delivered,Online,Google Pay,0.15,426.45,0,426.45,2
+O01581,C0015,9/8/2022,September,Q3,2022,Pending,Mobile App,Apple Pay,0,104.27,0,104.27,
+O01582,C0354,6/20/2022,June,Q2,2022,Delivered,In-Store,Google Pay,0.1,355.74,0,355.74,12
+O01583,C0010,7/24/2023,July,Q3,2023,Delivered,In-Store,Google Pay,0,447.25,0,447.25,10
+O01584,C0394,11/1/2022,November,Q4,2022,Delivered,Mobile App,PayPal,0.15,917.88,0,917.88,10
+O01585,C0056,4/17/2023,April,Q2,2023,Cancelled,Online,Debit Card,0.05,624.81,0,624.81,
+O01586,C0093,10/20/2023,October,Q4,2023,Delivered,In-Store,Google Pay,0.05,815.73,0,815.73,10
+O01587,C0057,2/3/2022,February,Q1,2022,Delivered,Online,Debit Card,0,75.81,6.02,81.83,12
+O01588,C0127,8/5/2023,August,Q3,2023,Delivered,Online,Debit Card,0,1413.06,0,1413.06,9
+O01589,C0407,4/13/2022,April,Q2,2022,Delivered,Mobile App,Google Pay,0.2,371.39,0,371.39,4
+O01590,C0020,3/17/2022,March,Q1,2022,Delivered,Online,Apple Pay,0,953.11,0,953.11,14
+O01591,C0160,11/3/2023,November,Q4,2023,Delivered,Mobile App,Google Pay,0.1,321.44,0,321.44,10
+O01592,C0309,2/10/2022,February,Q1,2022,Cancelled,Mobile App,Credit Card,0.2,648.8,0,648.8,
+O01593,C0134,6/9/2022,June,Q2,2022,Returned,In-Store,Debit Card,0,197.63,0,197.63,
+O01594,C0290,11/19/2023,November,Q4,2023,Pending,Mobile App,Credit Card,0,377.26,0,377.26,
+O01595,C0041,11/28/2022,November,Q4,2022,Delivered,Online,Apple Pay,0,879.1,0,879.1,3
+O01596,C0497,6/18/2023,June,Q2,2023,Cancelled,Online,Credit Card,0,304.92,0,304.92,
+O01597,C0163,5/20/2022,May,Q2,2022,Delivered,Mobile App,Debit Card,0.05,1085.33,0,1085.33,13
+O01598,C0494,3/23/2022,March,Q1,2022,Pending,In-Store,Google Pay,0,208.74,0,208.74,
+O01599,C0401,8/15/2023,August,Q3,2023,Delivered,Mobile App,Debit Card,0,506.01,0,506.01,1
+O01600,C0211,9/4/2023,September,Q3,2023,Delivered,Online,Credit Card,0.05,921.27,0,921.27,3
+O01601,C0325,1/8/2023,January,Q1,2023,Pending,Online,Apple Pay,0.1,1142.44,0,1142.44,
+O01602,C0310,10/17/2022,October,Q4,2022,Delivered,Online,PayPal,0,732.16,0,732.16,6
+O01603,C0481,11/11/2023,November,Q4,2023,Returned,In-Store,PayPal,0.2,745.66,0,745.66,
+O01604,C0208,1/11/2023,January,Q1,2023,Cancelled,Online,Credit Card,0.05,790.56,0,790.56,
+O01605,C0043,10/29/2022,October,Q4,2022,Delivered,Mobile App,Credit Card,0.2,843.97,0,843.97,8
+O01606,C0399,4/16/2022,April,Q2,2022,Delivered,Online,Apple Pay,0.1,153.07,0,153.07,13
+O01607,C0389,4/13/2022,April,Q2,2022,Delivered,Mobile App,Debit Card,0,1172.32,0,1172.32,3
+O01608,C0283,6/1/2022,June,Q2,2022,Delivered,Mobile App,Debit Card,0,948.08,0,948.08,9
+O01609,C0099,1/2/2023,January,Q1,2023,Delivered,Online,PayPal,0,1001.25,0,1001.25,12
+O01610,C0060,9/10/2022,September,Q3,2022,Delivered,In-Store,Debit Card,0,1020.29,0,1020.29,5
+O01611,C0061,10/17/2023,October,Q4,2023,Pending,Mobile App,Credit Card,0.1,723.11,0,723.11,
+O01612,C0459,11/4/2022,November,Q4,2022,Cancelled,In-Store,Debit Card,0,735.6,0,735.6,
+O01613,C0447,5/10/2022,May,Q2,2022,Cancelled,In-Store,Apple Pay,0.1,391.32,0,391.32,
+O01614,C0376,10/6/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0.15,560.88,0,560.88,7
+O01615,C0114,12/19/2022,December,Q4,2022,Delivered,Mobile App,Apple Pay,0.1,1001.17,0,1001.17,14
+O01616,C0369,2/17/2023,February,Q1,2023,Delivered,In-Store,Google Pay,0,311.9,0,311.9,10
+O01617,C0293,11/10/2022,November,Q4,2022,Cancelled,Mobile App,Google Pay,0.15,218.68,0,218.68,
+O01618,C0494,3/17/2023,March,Q1,2023,Cancelled,In-Store,Debit Card,0.1,594.18,0,594.18,
+O01619,C0008,1/22/2023,January,Q1,2023,Delivered,Online,PayPal,0.05,189.34,0,189.34,8
+O01620,C0388,10/7/2022,October,Q4,2022,Pending,Online,Credit Card,0.05,966.16,0,966.16,
+O01621,C0036,11/3/2022,November,Q4,2022,Delivered,In-Store,Debit Card,0.15,707.34,0,707.34,4
+O01622,C0246,2/13/2023,February,Q1,2023,Delivered,In-Store,PayPal,0,241.73,0,241.73,5
+O01623,C0346,7/8/2022,July,Q3,2022,Delivered,In-Store,Debit Card,0,383.81,0,383.81,8
+O01624,C0364,5/10/2022,May,Q2,2022,Delivered,In-Store,PayPal,0,1006.96,0,1006.96,14
+O01625,C0490,8/22/2023,August,Q3,2023,Delivered,Mobile App,Apple Pay,0.1,95.04,4.16,99.2,6
+O01626,C0232,3/4/2022,March,Q1,2022,Returned,Mobile App,Debit Card,0.1,703.57,0,703.57,
+O01627,C0477,8/16/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0.1,67.83,4.19,72.02,14
+O01628,C0072,9/12/2023,September,Q3,2023,Delivered,Mobile App,Google Pay,0.1,490.25,0,490.25,2
+O01629,C0209,4/21/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0.1,423.21,0,423.21,14
+O01630,C0428,1/6/2022,January,Q1,2022,Returned,Mobile App,PayPal,0.2,1868.49,0,1868.49,
+O01631,C0095,6/4/2022,June,Q2,2022,Delivered,Online,Google Pay,0,802.32,0,802.32,11
+O01632,C0125,8/5/2022,August,Q3,2022,Returned,Online,Google Pay,0.05,835.43,0,835.43,
+O01633,C0332,12/16/2022,December,Q4,2022,Delivered,Online,Debit Card,0,1440.84,0,1440.84,5
+O01634,C0002,4/6/2023,April,Q2,2023,Returned,Online,PayPal,0.2,330.22,0,330.22,
+O01635,C0334,10/5/2023,October,Q4,2023,Pending,Mobile App,Credit Card,0,1478.07,0,1478.07,
+O01636,C0484,12/28/2022,December,Q4,2022,Delivered,Online,Apple Pay,0.05,666.94,0,666.94,6
+O01637,C0091,11/6/2023,November,Q4,2023,Delivered,Online,Debit Card,0,784.49,0,784.49,13
+O01638,C0370,10/2/2023,October,Q4,2023,Delivered,Mobile App,Debit Card,0,175.02,0,175.02,8
+O01639,C0321,7/15/2023,July,Q3,2023,Delivered,Online,Apple Pay,0.15,831.01,0,831.01,3
+O01640,C0037,5/22/2022,May,Q2,2022,Cancelled,Mobile App,PayPal,0.05,573.53,0,573.53,
+O01641,C0233,12/11/2022,December,Q4,2022,Delivered,Mobile App,Credit Card,0,932.99,0,932.99,14
+O01642,C0195,1/25/2023,January,Q1,2023,Delivered,Online,Google Pay,0.15,427.41,0,427.41,7
+O01643,C0176,8/7/2023,August,Q3,2023,Delivered,Mobile App,Google Pay,0,156.57,0,156.57,13
+O01644,C0141,11/15/2023,November,Q4,2023,Delivered,In-Store,Debit Card,0.15,286,0,286,3
+O01645,C0221,4/1/2023,April,Q2,2023,Delivered,Online,Debit Card,0.05,341.02,0,341.02,8
+O01646,C0487,1/10/2023,January,Q1,2023,Delivered,Online,Google Pay,0.05,1286.6,0,1286.6,5
+O01647,C0363,1/12/2023,January,Q1,2023,Delivered,In-Store,Apple Pay,0.15,86.52,14.38,100.9,10
+O01648,C0067,8/5/2023,August,Q3,2023,Delivered,Online,Google Pay,0,1350.76,0,1350.76,4
+O01649,C0379,11/24/2022,November,Q4,2022,Pending,Mobile App,Debit Card,0,484.48,0,484.48,
+O01650,C0038,5/15/2022,May,Q2,2022,Cancelled,Online,PayPal,0,161.47,0,161.47,
+O01651,C0150,5/21/2023,May,Q2,2023,Delivered,In-Store,PayPal,0.05,766.64,0,766.64,11
+O01652,C0313,6/27/2023,June,Q2,2023,Delivered,In-Store,Apple Pay,0.1,502.53,0,502.53,12
+O01653,C0029,8/5/2023,August,Q3,2023,Delivered,Online,Apple Pay,0.05,1173.96,0,1173.96,14
+O01654,C0442,6/17/2023,June,Q2,2023,Returned,Online,Credit Card,0,1046.67,0,1046.67,
+O01655,C0396,7/11/2023,July,Q3,2023,Returned,Mobile App,Apple Pay,0.2,256.48,0,256.48,
+O01656,C0086,12/9/2023,December,Q4,2023,Pending,Online,Debit Card,0.05,1356.02,0,1356.02,
+O01657,C0190,3/6/2023,March,Q1,2023,Delivered,Online,Debit Card,0,527.09,0,527.09,2
+O01658,C0056,12/6/2022,December,Q4,2022,Delivered,Online,Apple Pay,0,478.39,0,478.39,10
+O01659,C0328,2/6/2022,February,Q1,2022,Cancelled,Online,Credit Card,0,907.76,0,907.76,
+O01660,C0039,12/5/2023,December,Q4,2023,Delivered,Mobile App,Google Pay,0.15,525.15,0,525.15,8
+O01661,C0159,4/15/2023,April,Q2,2023,Delivered,Mobile App,Credit Card,0,947.05,0,947.05,5
+O01662,C0230,4/23/2022,April,Q2,2022,Pending,Mobile App,PayPal,0,2017.19,0,2017.19,
+O01663,C0248,12/20/2023,December,Q4,2023,Delivered,Online,Credit Card,0,106.76,0,106.76,13
+O01664,C0265,3/9/2023,March,Q1,2023,Delivered,Mobile App,Google Pay,0.05,361.22,0,361.22,10
+O01665,C0377,12/31/2023,December,Q4,2023,Returned,Mobile App,Apple Pay,0,701.76,0,701.76,
+O01666,C0497,7/4/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0,686.83,0,686.83,6
+O01667,C0226,12/24/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0,665.22,0,665.22,5
+O01668,C0082,2/2/2023,February,Q1,2023,Delivered,Online,Apple Pay,0.2,932.82,0,932.82,9
+O01669,C0249,9/12/2023,September,Q3,2023,Delivered,Mobile App,Credit Card,0,407.3,0,407.3,8
+O01670,C0387,1/29/2023,January,Q1,2023,Returned,In-Store,PayPal,0,1431.63,0,1431.63,
+O01671,C0003,7/12/2023,July,Q3,2023,Returned,Online,Google Pay,0.1,1308.96,0,1308.96,
+O01672,C0471,4/29/2022,April,Q2,2022,Cancelled,Mobile App,PayPal,0,283.92,0,283.92,
+O01673,C0335,6/1/2023,June,Q2,2023,Returned,Online,Google Pay,0,716.94,0,716.94,
+O01674,C0251,8/10/2022,August,Q3,2022,Delivered,Online,Apple Pay,0.05,438.21,0,438.21,2
+O01675,C0348,8/17/2023,August,Q3,2023,Delivered,Online,PayPal,0.15,1320.74,0,1320.74,9
+O01676,C0438,8/29/2022,August,Q3,2022,Cancelled,In-Store,Credit Card,0,433.39,0,433.39,
+O01677,C0346,1/24/2023,January,Q1,2023,Returned,Online,Google Pay,0,341.17,0,341.17,
+O01678,C0361,1/14/2022,January,Q1,2022,Delivered,In-Store,PayPal,0.05,922.21,0,922.21,12
+O01679,C0360,4/9/2022,April,Q2,2022,Delivered,Online,Debit Card,0.05,149.46,0,149.46,1
+O01680,C0069,2/15/2023,February,Q1,2023,Returned,In-Store,Apple Pay,0,1084.18,0,1084.18,
+O01681,C0366,7/31/2022,July,Q3,2022,Pending,Online,Google Pay,0,1206.91,0,1206.91,
+O01682,C0125,12/29/2023,December,Q4,2023,Delivered,In-Store,Debit Card,0.2,1347.93,0,1347.93,3
+O01683,C0159,2/7/2023,February,Q1,2023,Cancelled,Mobile App,Debit Card,0.15,425.71,0,425.71,
+O01684,C0011,7/14/2023,July,Q3,2023,Delivered,Online,PayPal,0.15,1021.25,0,1021.25,2
+O01685,C0206,10/30/2023,October,Q4,2023,Delivered,Mobile App,Debit Card,0,584.88,0,584.88,13
+O01686,C0007,4/2/2022,April,Q2,2022,Delivered,Online,Google Pay,0,489.87,0,489.87,4
+O01687,C0034,7/21/2023,July,Q3,2023,Delivered,Online,PayPal,0.2,1202.14,0,1202.14,13
+O01688,C0093,10/2/2023,October,Q4,2023,Returned,Online,PayPal,0.15,380.28,0,380.28,
+O01689,C0214,3/11/2023,March,Q1,2023,Returned,Online,Apple Pay,0,457.38,0,457.38,
+O01690,C0263,3/26/2022,March,Q1,2022,Delivered,Online,Google Pay,0,540.73,0,540.73,13
+O01691,C0235,1/4/2022,January,Q1,2022,Returned,Online,Credit Card,0,709.86,0,709.86,
+O01692,C0477,7/27/2022,July,Q3,2022,Cancelled,Mobile App,Credit Card,0.1,988.14,0,988.14,
+O01693,C0332,1/30/2022,January,Q1,2022,Delivered,Online,Apple Pay,0.05,46.32,7.43,53.75,7
+O01694,C0446,5/9/2022,May,Q2,2022,Delivered,Mobile App,Apple Pay,0.1,509.86,0,509.86,12
+O01695,C0336,2/11/2023,February,Q1,2023,Pending,Online,Debit Card,0.1,477.14,0,477.14,
+O01696,C0264,12/9/2023,December,Q4,2023,Returned,Online,Apple Pay,0,131.92,0,131.92,
+O01697,C0096,7/18/2023,July,Q3,2023,Pending,In-Store,Google Pay,0.1,192.48,0,192.48,
+O01698,C0275,4/19/2022,April,Q2,2022,Delivered,In-Store,Google Pay,0.05,552.6,0,552.6,14
+O01699,C0254,1/25/2023,January,Q1,2023,Delivered,Mobile App,Debit Card,0.1,548.54,0,548.54,2
+O01700,C0457,2/1/2023,February,Q1,2023,Pending,Mobile App,Google Pay,0,445.56,0,445.56,
+O01701,C0273,3/28/2023,March,Q1,2023,Delivered,In-Store,Google Pay,0.05,148.74,0,148.74,13
+O01702,C0023,1/5/2022,January,Q1,2022,Cancelled,In-Store,Google Pay,0.15,830.55,0,830.55,
+O01703,C0179,10/17/2023,October,Q4,2023,Delivered,Mobile App,Credit Card,0.2,693.24,0,693.24,7
+O01704,C0428,10/3/2023,October,Q4,2023,Pending,In-Store,Debit Card,0.1,499.3,0,499.3,
+O01705,C0177,6/2/2022,June,Q2,2022,Delivered,Mobile App,Debit Card,0.05,283.99,0,283.99,3
+O01706,C0454,2/12/2022,February,Q1,2022,Pending,Mobile App,Credit Card,0,202.47,0,202.47,
+O01707,C0334,12/29/2023,December,Q4,2023,Delivered,In-Store,Google Pay,0.05,1737.81,0,1737.81,5
+O01708,C0201,11/11/2023,November,Q4,2023,Delivered,Online,PayPal,0,1299.06,0,1299.06,4
+O01709,C0131,12/5/2022,December,Q4,2022,Cancelled,Online,Apple Pay,0.1,639.51,0,639.51,
+O01710,C0182,6/11/2023,June,Q2,2023,Cancelled,Mobile App,Debit Card,0.2,462.78,0,462.78,
+O01711,C0336,7/15/2023,July,Q3,2023,Delivered,Online,Apple Pay,0,1123.97,0,1123.97,9
+O01712,C0242,1/5/2022,January,Q1,2022,Returned,Mobile App,Apple Pay,0.2,1424.55,0,1424.55,
+O01713,C0306,12/9/2023,December,Q4,2023,Delivered,In-Store,Credit Card,0.2,1218.19,0,1218.19,7
+O01714,C0238,6/19/2022,June,Q2,2022,Delivered,Online,Debit Card,0,700.35,0,700.35,10
+O01715,C0024,12/15/2023,December,Q4,2023,Pending,Mobile App,Apple Pay,0,1184.77,0,1184.77,
+O01716,C0172,7/27/2023,July,Q3,2023,Delivered,In-Store,Credit Card,0.15,554.1,0,554.1,9
+O01717,C0049,11/16/2022,November,Q4,2022,Delivered,Mobile App,Credit Card,0,544.28,0,544.28,10
+O01718,C0440,12/5/2022,December,Q4,2022,Delivered,Online,Credit Card,0,318.23,0,318.23,14
+O01719,C0086,2/15/2023,February,Q1,2023,Delivered,Online,PayPal,0,1104.83,0,1104.83,9
+O01720,C0187,5/23/2023,May,Q2,2023,Returned,Mobile App,PayPal,0,705.03,0,705.03,
+O01721,C0021,9/11/2023,September,Q3,2023,Returned,In-Store,Credit Card,0,508.05,0,508.05,
+O01722,C0177,1/2/2023,January,Q1,2023,Returned,Online,Credit Card,0.2,427.47,0,427.47,
+O01723,C0127,3/29/2023,March,Q1,2023,Delivered,Online,Debit Card,0.2,633.3,0,633.3,2
+O01724,C0089,3/11/2023,March,Q1,2023,Cancelled,Mobile App,Credit Card,0.1,291.72,0,291.72,
+O01725,C0082,1/15/2022,January,Q1,2022,Delivered,Mobile App,Debit Card,0,360.74,0,360.74,1
+O01726,C0405,8/29/2022,August,Q3,2022,Delivered,Online,Apple Pay,0,1809.06,0,1809.06,3
+O01727,C0470,5/9/2022,May,Q2,2022,Pending,Mobile App,Credit Card,0,1797.42,0,1797.42,
+O01728,C0333,6/5/2022,June,Q2,2022,Delivered,In-Store,Google Pay,0.2,387.36,0,387.36,6
+O01729,C0024,11/27/2023,November,Q4,2023,Delivered,Mobile App,Credit Card,0,551.36,0,551.36,7
+O01730,C0239,7/9/2022,July,Q3,2022,Delivered,In-Store,PayPal,0.1,504.03,0,504.03,11
+O01731,C0133,7/18/2022,July,Q3,2022,Returned,In-Store,Debit Card,0.05,282.86,0,282.86,
+O01732,C0469,3/28/2022,March,Q1,2022,Delivered,Mobile App,Apple Pay,0.05,392.31,0,392.31,6
+O01733,C0009,2/22/2023,February,Q1,2023,Delivered,Online,Google Pay,0,219.27,0,219.27,9
+O01734,C0058,3/14/2023,March,Q1,2023,Delivered,Online,Google Pay,0.05,388.22,0,388.22,9
+O01735,C0127,2/11/2023,February,Q1,2023,Delivered,Online,Debit Card,0.15,338.82,0,338.82,2
+O01736,C0396,1/28/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0.15,767.9,0,767.9,14
+O01737,C0374,3/24/2022,March,Q1,2022,Returned,Online,PayPal,0,766.78,0,766.78,
+O01738,C0125,7/28/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0.15,936.32,0,936.32,5
+O01739,C0005,9/12/2023,September,Q3,2023,Cancelled,Online,Apple Pay,0.15,657.66,0,657.66,
+O01740,C0123,3/11/2023,March,Q1,2023,Delivered,Online,Debit Card,0.2,384.51,0,384.51,8
+O01741,C0089,3/15/2022,March,Q1,2022,Delivered,Online,Debit Card,0,238.32,0,238.32,2
+O01742,C0280,11/14/2022,November,Q4,2022,Delivered,Online,Credit Card,0,919.32,0,919.32,3
+O01743,C0017,7/18/2023,July,Q3,2023,Delivered,Online,Google Pay,0,307.19,0,307.19,9
+O01744,C0290,11/24/2023,November,Q4,2023,Pending,Mobile App,Apple Pay,0.1,426.92,0,426.92,
+O01745,C0304,12/25/2023,December,Q4,2023,Pending,Online,Apple Pay,0,1310.72,0,1310.72,
+O01746,C0400,2/21/2022,February,Q1,2022,Delivered,Online,Credit Card,0.05,1070.68,0,1070.68,1
+O01747,C0271,1/16/2023,January,Q1,2023,Delivered,Mobile App,Credit Card,0.1,387.24,0,387.24,6
+O01748,C0133,1/8/2023,January,Q1,2023,Pending,Mobile App,Google Pay,0.05,1021.68,0,1021.68,
+O01749,C0229,12/2/2023,December,Q4,2023,Delivered,Mobile App,Apple Pay,0,82.66,1.6,84.26,12
+O01750,C0206,1/26/2023,January,Q1,2023,Returned,Online,PayPal,0,1191.93,0,1191.93,
+O01751,C0374,5/24/2022,May,Q2,2022,Cancelled,Online,Credit Card,0,654.62,0,654.62,
+O01752,C0105,8/12/2022,August,Q3,2022,Cancelled,Online,Credit Card,0.2,318.88,0,318.88,
+O01753,C0351,11/2/2022,November,Q4,2022,Delivered,In-Store,Debit Card,0,696.49,0,696.49,12
+O01754,C0216,8/1/2022,August,Q3,2022,Cancelled,Online,Credit Card,0.2,1054.62,0,1054.62,
+O01755,C0194,7/19/2023,July,Q3,2023,Delivered,Online,PayPal,0.1,970.26,0,970.26,7
+O01756,C0374,8/21/2022,August,Q3,2022,Delivered,Mobile App,Debit Card,0.15,425.76,0,425.76,2
+O01757,C0339,10/22/2023,October,Q4,2023,Pending,Online,Apple Pay,0,503.68,0,503.68,
+O01758,C0026,1/22/2023,January,Q1,2023,Delivered,Online,Google Pay,0.05,485.41,0,485.41,2
+O01759,C0266,7/17/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.05,256.35,0,256.35,11
+O01760,C0028,5/7/2023,May,Q2,2023,Pending,Mobile App,Google Pay,0.15,1118.7,0,1118.7,
+O01761,C0320,9/7/2023,September,Q3,2023,Delivered,Mobile App,Debit Card,0,50.24,4.19,54.43,14
+O01762,C0210,12/10/2022,December,Q4,2022,Delivered,Mobile App,Credit Card,0.1,562.41,0,562.41,2
+O01763,C0209,7/24/2022,July,Q3,2022,Delivered,Mobile App,Apple Pay,0,175.42,0,175.42,12
+O01764,C0444,3/1/2023,March,Q1,2023,Delivered,Mobile App,PayPal,0.1,91.25,13.71,104.96,9
+O01765,C0037,4/1/2022,April,Q2,2022,Delivered,Online,Google Pay,0,617.62,0,617.62,8
+O01766,C0040,3/13/2023,March,Q1,2023,Delivered,Mobile App,Debit Card,0,921.88,0,921.88,5
+O01767,C0297,2/7/2022,February,Q1,2022,Cancelled,Mobile App,Credit Card,0,545.19,0,545.19,
+O01768,C0308,1/1/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.1,976.72,0,976.72,13
+O01769,C0426,5/7/2022,May,Q2,2022,Pending,In-Store,Debit Card,0.1,629.58,0,629.58,
+O01770,C0225,10/6/2022,October,Q4,2022,Delivered,In-Store,Google Pay,0,605.73,0,605.73,14
+O01771,C0253,3/8/2023,March,Q1,2023,Delivered,Mobile App,Debit Card,0.05,1022.55,0,1022.55,10
+O01772,C0307,9/25/2022,September,Q3,2022,Cancelled,Online,Debit Card,0.15,701.72,0,701.72,
+O01773,C0309,9/6/2022,September,Q3,2022,Pending,Mobile App,Apple Pay,0.1,365.73,0,365.73,
+O01774,C0397,9/29/2023,September,Q3,2023,Delivered,In-Store,PayPal,0.2,216.51,0,216.51,3
+O01775,C0323,10/12/2022,October,Q4,2022,Delivered,Online,Apple Pay,0.05,277.31,0,277.31,11
+O01776,C0485,4/6/2022,April,Q2,2022,Delivered,Mobile App,Credit Card,0,1247.97,0,1247.97,11
+O01777,C0116,12/25/2023,December,Q4,2023,Delivered,Mobile App,PayPal,0,779.73,0,779.73,13
+O01778,C0415,3/4/2022,March,Q1,2022,Returned,Mobile App,Debit Card,0.05,1182.46,0,1182.46,
+O01779,C0390,7/21/2023,July,Q3,2023,Delivered,Online,Debit Card,0.15,742.67,0,742.67,12
+O01780,C0458,4/4/2022,April,Q2,2022,Delivered,Online,PayPal,0.05,234.55,0,234.55,13
+O01781,C0295,10/19/2022,October,Q4,2022,Cancelled,Online,PayPal,0,423.63,0,423.63,
+O01782,C0362,3/8/2022,March,Q1,2022,Pending,Online,PayPal,0,644.95,0,644.95,
+O01783,C0029,6/5/2023,June,Q2,2023,Delivered,Online,Credit Card,0,486.8,0,486.8,5
+O01784,C0093,8/15/2023,August,Q3,2023,Delivered,Mobile App,Debit Card,0.05,548.13,0,548.13,13
+O01785,C0086,8/7/2023,August,Q3,2023,Returned,Mobile App,Google Pay,0.05,936.06,0,936.06,
+O01786,C0347,1/17/2022,January,Q1,2022,Cancelled,Mobile App,PayPal,0.15,486.78,0,486.78,
+O01787,C0345,7/1/2022,July,Q3,2022,Cancelled,Online,Debit Card,0,828.84,0,828.84,
+O01788,C0488,9/1/2022,September,Q3,2022,Returned,Online,PayPal,0,1533.75,0,1533.75,
+O01789,C0398,1/6/2023,January,Q1,2023,Delivered,In-Store,Debit Card,0.15,942.4,0,942.4,8
+O01790,C0138,7/29/2022,July,Q3,2022,Delivered,Mobile App,PayPal,0,15.53,0,15.53,4
+O01791,C0292,3/14/2023,March,Q1,2023,Cancelled,In-Store,Debit Card,0,1493.78,0,1493.78,
+O01792,C0003,2/8/2022,February,Q1,2022,Cancelled,Mobile App,Google Pay,0.1,1333.12,0,1333.12,
+O01793,C0265,3/21/2023,March,Q1,2023,Pending,Mobile App,Google Pay,0.1,914.94,0,914.94,
+O01794,C0434,9/25/2022,September,Q3,2022,Delivered,Online,Credit Card,0.2,1013.52,0,1013.52,1
+O01795,C0335,12/13/2022,December,Q4,2022,Delivered,Online,Credit Card,0.05,143.19,0,143.19,5
+O01796,C0289,12/1/2023,December,Q4,2023,Returned,In-Store,Debit Card,0,1131.28,0,1131.28,
+O01797,C0010,10/12/2022,October,Q4,2022,Delivered,In-Store,Apple Pay,0.05,990.08,0,990.08,3
+O01798,C0408,7/29/2023,July,Q3,2023,Delivered,Online,Google Pay,0.1,1198.56,0,1198.56,14
+O01799,C0362,5/18/2023,May,Q2,2023,Delivered,Online,PayPal,0.1,1670.73,0,1670.73,11
+O01800,C0198,7/20/2022,July,Q3,2022,Delivered,Mobile App,Credit Card,0.15,1083.3,0,1083.3,6
+O01801,C0044,9/18/2023,September,Q3,2023,Delivered,In-Store,Google Pay,0.2,591.56,0,591.56,9
+O01802,C0193,5/2/2023,May,Q2,2023,Returned,Online,PayPal,0.05,158.61,0,158.61,
+O01803,C0383,3/9/2023,March,Q1,2023,Cancelled,In-Store,PayPal,0,716.02,0,716.02,
+O01804,C0194,9/8/2022,September,Q3,2022,Delivered,Mobile App,Credit Card,0.15,356.07,0,356.07,2
+O01805,C0245,2/18/2022,February,Q1,2022,Returned,Online,Apple Pay,0,817.15,0,817.15,
+O01806,C0161,12/15/2023,December,Q4,2023,Pending,Online,PayPal,0.2,261.3,0,261.3,
+O01807,C0140,12/2/2023,December,Q4,2023,Returned,In-Store,Google Pay,0.15,477.4,0,477.4,
+O01808,C0493,9/3/2022,September,Q3,2022,Delivered,Online,Apple Pay,0.1,940.9,0,940.9,10
+O01809,C0228,12/26/2022,December,Q4,2022,Cancelled,Online,Credit Card,0,640.96,0,640.96,
+O01810,C0302,3/1/2022,March,Q1,2022,Delivered,Mobile App,PayPal,0.15,444.88,0,444.88,7
+O01811,C0183,6/3/2023,June,Q2,2023,Returned,In-Store,PayPal,0,810.78,0,810.78,
+O01812,C0176,7/4/2022,July,Q3,2022,Delivered,Online,Apple Pay,0,838.52,0,838.52,8
+O01813,C0015,8/8/2023,August,Q3,2023,Delivered,Online,Debit Card,0.2,118.5,0,118.5,14
+O01814,C0216,3/21/2022,March,Q1,2022,Delivered,In-Store,Credit Card,0,160.21,0,160.21,9
+O01815,C0111,4/4/2023,April,Q2,2023,Delivered,Online,Credit Card,0,1038.97,0,1038.97,11
+O01816,C0001,10/15/2022,October,Q4,2022,Delivered,Online,Apple Pay,0.1,1104.36,0,1104.36,1
+O01817,C0270,10/20/2023,October,Q4,2023,Cancelled,Mobile App,Debit Card,0.15,126.81,0,126.81,
+O01818,C0295,12/23/2023,December,Q4,2023,Pending,Online,PayPal,0.2,552.71,0,552.71,
+O01819,C0320,7/2/2023,July,Q3,2023,Delivered,Mobile App,Credit Card,0,1016.12,0,1016.12,8
+O01820,C0445,9/7/2022,September,Q3,2022,Delivered,In-Store,Apple Pay,0.15,350.73,0,350.73,14
+O01821,C0155,5/12/2022,May,Q2,2022,Returned,In-Store,Google Pay,0,173.47,0,173.47,
+O01822,C0477,11/20/2023,November,Q4,2023,Returned,Mobile App,Apple Pay,0.15,533.91,0,533.91,
+O01823,C0212,11/14/2022,November,Q4,2022,Pending,In-Store,Credit Card,0,1310.18,0,1310.18,
+O01824,C0137,3/5/2023,March,Q1,2023,Delivered,In-Store,Debit Card,0.1,1336.45,0,1336.45,10
+O01825,C0168,12/18/2022,December,Q4,2022,Cancelled,Online,Debit Card,0.1,190.08,0,190.08,
+O01826,C0414,6/16/2023,June,Q2,2023,Delivered,Online,PayPal,0.2,112.97,0,112.97,9
+O01827,C0106,4/10/2022,April,Q2,2022,Cancelled,Mobile App,Google Pay,0,637.2,0,637.2,
+O01828,C0034,9/22/2022,September,Q3,2022,Returned,In-Store,Debit Card,0.15,1007.63,0,1007.63,
+O01829,C0377,4/15/2022,April,Q2,2022,Delivered,Mobile App,PayPal,0,523.09,0,523.09,12
+O01830,C0206,4/1/2022,April,Q2,2022,Returned,Online,PayPal,0.15,328.25,0,328.25,
+O01831,C0115,2/9/2022,February,Q1,2022,Delivered,In-Store,PayPal,0,651.45,0,651.45,1
+O01832,C0316,2/22/2023,February,Q1,2023,Cancelled,In-Store,PayPal,0.05,911.46,0,911.46,
+O01833,C0380,7/8/2022,July,Q3,2022,Delivered,Online,Google Pay,0.2,272.12,0,272.12,3
+O01834,C0029,3/3/2023,March,Q1,2023,Delivered,Mobile App,Credit Card,0,873.6,0,873.6,2
+O01835,C0009,3/2/2022,March,Q1,2022,Delivered,In-Store,Debit Card,0.2,936.42,0,936.42,3
+O01836,C0078,12/5/2023,December,Q4,2023,Pending,In-Store,Apple Pay,0,346.6,0,346.6,
+O01837,C0292,1/26/2023,January,Q1,2023,Delivered,Mobile App,Debit Card,0.15,547.08,0,547.08,1
+O01838,C0177,8/6/2023,August,Q3,2023,Delivered,In-Store,Apple Pay,0,563.77,0,563.77,3
+O01839,C0075,2/1/2022,February,Q1,2022,Pending,In-Store,Google Pay,0,297.74,0,297.74,
+O01840,C0131,7/15/2022,July,Q3,2022,Delivered,Mobile App,Google Pay,0,1324.13,0,1324.13,11
+O01841,C0486,6/13/2023,June,Q2,2023,Delivered,Online,Credit Card,0,1119.46,0,1119.46,13
+O01842,C0205,12/11/2023,December,Q4,2023,Delivered,Mobile App,Credit Card,0,1412.06,0,1412.06,12
+O01843,C0133,7/29/2022,July,Q3,2022,Delivered,Online,PayPal,0.15,149.1,0,149.1,4
+O01844,C0264,7/27/2023,July,Q3,2023,Pending,Online,PayPal,0.05,852.82,0,852.82,
+O01845,C0012,4/1/2022,April,Q2,2022,Returned,Mobile App,Apple Pay,0,238.32,0,238.32,
+O01846,C0142,11/13/2023,November,Q4,2023,Delivered,Mobile App,Google Pay,0,1335.93,0,1335.93,9
+O01847,C0087,8/7/2023,August,Q3,2023,Cancelled,Online,Google Pay,0.15,1297.18,0,1297.18,
+O01848,C0066,7/29/2023,July,Q3,2023,Delivered,Online,Apple Pay,0.05,635,0,635,3
+O01849,C0337,2/8/2023,February,Q1,2023,Delivered,Mobile App,PayPal,0.2,1398.62,0,1398.62,6
+O01850,C0397,11/11/2023,November,Q4,2023,Delivered,Mobile App,Debit Card,0.15,310.67,0,310.67,4
+O01851,C0192,8/3/2022,August,Q3,2022,Delivered,Mobile App,Google Pay,0,504.69,0,504.69,11
+O01852,C0483,3/9/2023,March,Q1,2023,Delivered,Online,Google Pay,0,1717.86,0,1717.86,14
+O01853,C0295,5/2/2023,May,Q2,2023,Delivered,Online,Debit Card,0,1374.66,0,1374.66,9
+O01854,C0359,9/30/2023,September,Q3,2023,Cancelled,Mobile App,Apple Pay,0,1709.22,0,1709.22,
+O01855,C0430,10/30/2023,October,Q4,2023,Pending,Online,PayPal,0,327.04,0,327.04,
+O01856,C0209,12/31/2022,December,Q4,2022,Delivered,In-Store,Apple Pay,0,1432.05,0,1432.05,13
+O01857,C0026,8/3/2023,August,Q3,2023,Delivered,Mobile App,Debit Card,0,284.58,0,284.58,10
+O01858,C0244,10/30/2023,October,Q4,2023,Delivered,In-Store,Debit Card,0,728.19,0,728.19,3
+O01859,C0246,1/26/2023,January,Q1,2023,Delivered,Mobile App,Google Pay,0.2,886.92,0,886.92,4
+O01860,C0466,11/4/2022,November,Q4,2022,Delivered,In-Store,Debit Card,0.05,203.16,0,203.16,7
+O01861,C0205,5/13/2023,May,Q2,2023,Delivered,In-Store,PayPal,0,109.76,0,109.76,4
+O01862,C0300,6/7/2022,June,Q2,2022,Delivered,Mobile App,Apple Pay,0.05,1876.7,0,1876.7,7
+O01863,C0474,12/15/2023,December,Q4,2023,Delivered,Online,Google Pay,0.15,1091.41,0,1091.41,12
+O01864,C0022,6/24/2022,June,Q2,2022,Delivered,In-Store,Debit Card,0.1,217.89,0,217.89,8
+O01865,C0175,11/24/2022,November,Q4,2022,Delivered,Mobile App,Apple Pay,0,514.7,0,514.7,8
+O01866,C0329,6/9/2023,June,Q2,2023,Cancelled,Online,Credit Card,0.05,1262.07,0,1262.07,
+O01867,C0481,4/13/2022,April,Q2,2022,Pending,Online,PayPal,0,83.62,10.16,93.78,
+O01868,C0142,11/3/2022,November,Q4,2022,Cancelled,Mobile App,Debit Card,0,543.96,0,543.96,
+O01869,C0220,10/10/2022,October,Q4,2022,Returned,Mobile App,PayPal,0.15,437.82,0,437.82,
+O01870,C0180,1/24/2023,January,Q1,2023,Delivered,Online,Credit Card,0,930.27,0,930.27,9
+O01871,C0242,11/5/2023,November,Q4,2023,Delivered,In-Store,Apple Pay,0.2,1487.52,0,1487.52,5
+O01872,C0443,4/26/2022,April,Q2,2022,Returned,In-Store,Google Pay,0.05,935.87,0,935.87,
+O01873,C0237,4/11/2023,April,Q2,2023,Cancelled,Mobile App,PayPal,0,958.26,0,958.26,
+O01874,C0248,5/17/2022,May,Q2,2022,Delivered,In-Store,Apple Pay,0.1,377.79,0,377.79,5
+O01875,C0332,10/12/2023,October,Q4,2023,Cancelled,Online,Apple Pay,0.1,906.03,0,906.03,
+O01876,C0188,1/17/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.05,914.07,0,914.07,3
+O01877,C0404,6/28/2023,June,Q2,2023,Delivered,Mobile App,Apple Pay,0,925.29,0,925.29,8
+O01878,C0053,9/15/2022,September,Q3,2022,Pending,Online,PayPal,0.15,953.56,0,953.56,
+O01879,C0293,12/15/2022,December,Q4,2022,Returned,Online,PayPal,0,223.99,0,223.99,
+O01880,C0237,1/27/2022,January,Q1,2022,Delivered,Online,Credit Card,0,1067.85,0,1067.85,13
+O01881,C0054,3/25/2023,March,Q1,2023,Delivered,Online,Google Pay,0.2,277.62,0,277.62,1
+O01882,C0251,7/11/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0,1402.13,0,1402.13,8
+O01883,C0206,11/25/2023,November,Q4,2023,Delivered,Mobile App,Apple Pay,0.05,690,0,690,10
+O01884,C0209,2/16/2022,February,Q1,2022,Delivered,Online,Debit Card,0,1045.83,0,1045.83,2
+O01885,C0140,7/14/2022,July,Q3,2022,Pending,In-Store,Debit Card,0.05,554.62,0,554.62,
+O01886,C0117,3/19/2023,March,Q1,2023,Returned,In-Store,Apple Pay,0.15,1532.92,0,1532.92,
+O01887,C0469,4/13/2023,April,Q2,2023,Delivered,Online,PayPal,0.1,291.76,0,291.76,3
+O01888,C0486,11/17/2023,November,Q4,2023,Returned,Online,Google Pay,0,1199.37,0,1199.37,
+O01889,C0490,7/20/2022,July,Q3,2022,Delivered,In-Store,Debit Card,0,420.41,0,420.41,13
+O01890,C0329,7/14/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0.05,532.82,0,532.82,12
+O01891,C0110,7/5/2022,July,Q3,2022,Delivered,In-Store,PayPal,0,1208.17,0,1208.17,7
+O01892,C0472,4/6/2023,April,Q2,2023,Delivered,In-Store,Debit Card,0,643.33,0,643.33,4
+O01893,C0228,3/16/2023,March,Q1,2023,Delivered,Mobile App,PayPal,0.2,368.56,0,368.56,11
+O01894,C0268,9/7/2022,September,Q3,2022,Returned,In-Store,PayPal,0,372.38,0,372.38,
+O01895,C0107,2/3/2023,February,Q1,2023,Returned,Online,Google Pay,0.05,125.32,0,125.32,
+O01896,C0465,5/10/2023,May,Q2,2023,Delivered,Online,Apple Pay,0.05,762.21,0,762.21,13
+O01897,C0239,1/22/2023,January,Q1,2023,Delivered,Online,Apple Pay,0.05,734.79,0,734.79,3
+O01898,C0491,4/7/2022,April,Q2,2022,Delivered,Online,PayPal,0.1,421.45,0,421.45,4
+O01899,C0454,11/19/2023,November,Q4,2023,Delivered,In-Store,PayPal,0.2,510.14,0,510.14,2
+O01900,C0302,9/20/2023,September,Q3,2023,Delivered,Online,PayPal,0.15,205.9,0,205.9,11
+O01901,C0011,2/1/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0.15,1141.77,0,1141.77,8
+O01902,C0350,2/24/2022,February,Q1,2022,Delivered,In-Store,Google Pay,0.1,67.51,14.9,82.41,3
+O01903,C0297,2/5/2023,February,Q1,2023,Delivered,Online,PayPal,0,1406.48,0,1406.48,7
+O01904,C0408,1/4/2022,January,Q1,2022,Delivered,Online,Apple Pay,0.1,792.41,0,792.41,13
+O01905,C0142,6/11/2023,June,Q2,2023,Delivered,Mobile App,Debit Card,0,405.54,0,405.54,13
+O01906,C0258,11/2/2022,November,Q4,2022,Delivered,Online,Apple Pay,0,492.42,0,492.42,6
+O01907,C0471,9/17/2022,September,Q3,2022,Returned,In-Store,Credit Card,0,1299.26,0,1299.26,
+O01908,C0189,6/10/2023,June,Q2,2023,Delivered,Mobile App,PayPal,0.2,865.95,0,865.95,9
+O01909,C0232,2/28/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0.15,452.79,0,452.79,10
+O01910,C0165,8/2/2022,August,Q3,2022,Pending,Online,Google Pay,0,734.2,0,734.2,
+O01911,C0444,11/15/2023,November,Q4,2023,Delivered,Online,Apple Pay,0,1347.85,0,1347.85,13
+O01912,C0122,2/15/2022,February,Q1,2022,Returned,Mobile App,PayPal,0.1,264.96,0,264.96,
+O01913,C0060,1/1/2022,January,Q1,2022,Cancelled,Mobile App,Credit Card,0.1,882.9,0,882.9,
+O01914,C0199,1/21/2022,January,Q1,2022,Cancelled,Mobile App,Apple Pay,0,795.58,0,795.58,
+O01915,C0426,5/1/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.1,327.12,0,327.12,8
+O01916,C0186,10/24/2022,October,Q4,2022,Delivered,In-Store,Apple Pay,0,549.52,0,549.52,9
+O01917,C0173,10/2/2022,October,Q4,2022,Returned,Mobile App,Credit Card,0.1,261.38,0,261.38,
+O01918,C0271,12/24/2022,December,Q4,2022,Delivered,Online,Apple Pay,0.15,1059.35,0,1059.35,8
+O01919,C0018,10/2/2023,October,Q4,2023,Pending,Online,Apple Pay,0.1,905.24,0,905.24,
+O01920,C0240,8/27/2023,August,Q3,2023,Pending,Online,Credit Card,0,444.17,0,444.17,
+O01921,C0306,3/6/2023,March,Q1,2023,Delivered,Online,Apple Pay,0.1,407.81,0,407.81,4
+O01922,C0351,9/5/2022,September,Q3,2022,Delivered,Mobile App,Google Pay,0.1,481.4,0,481.4,7
+O01923,C0012,2/15/2023,February,Q1,2023,Delivered,Mobile App,PayPal,0.15,681.96,0,681.96,7
+O01924,C0314,12/19/2022,December,Q4,2022,Returned,In-Store,Apple Pay,0.1,398.82,0,398.82,
+O01925,C0070,6/2/2023,June,Q2,2023,Returned,Online,Credit Card,0,1193.08,0,1193.08,
+O01926,C0400,12/15/2022,December,Q4,2022,Delivered,Online,Google Pay,0.15,493.3,0,493.3,5
+O01927,C0464,5/27/2022,May,Q2,2022,Delivered,Mobile App,Apple Pay,0.05,191.49,0,191.49,6
+O01928,C0410,1/31/2022,January,Q1,2022,Delivered,Mobile App,Google Pay,0.15,774.67,0,774.67,2
+O01929,C0128,3/18/2022,March,Q1,2022,Delivered,Online,Google Pay,0.15,950.82,0,950.82,13
+O01930,C0248,6/13/2022,June,Q2,2022,Returned,Online,PayPal,0.2,1366.78,0,1366.78,
+O01931,C0154,4/28/2022,April,Q2,2022,Delivered,Mobile App,Debit Card,0.2,992.79,0,992.79,3
+O01932,C0270,5/15/2023,May,Q2,2023,Delivered,Online,Debit Card,0,940.89,0,940.89,6
+O01933,C0485,10/6/2022,October,Q4,2022,Delivered,In-Store,Google Pay,0.05,134.15,0,134.15,1
+O01934,C0445,10/3/2022,October,Q4,2022,Delivered,Mobile App,Apple Pay,0,966.66,0,966.66,14
+O01935,C0027,8/24/2022,August,Q3,2022,Delivered,Online,Google Pay,0.2,1566.88,0,1566.88,12
+O01936,C0285,8/10/2022,August,Q3,2022,Delivered,Online,Credit Card,0.2,713.07,0,713.07,12
+O01937,C0340,6/29/2023,June,Q2,2023,Delivered,Mobile App,Apple Pay,0,1210.04,0,1210.04,14
+O01938,C05,5/10/2023,May,Q2,2023,Delivered,Mobile App,Debit Card,0,259.77,0,259.77,3
+O01939,C0282,12/28/2022,December,Q4,2022,Returned,Mobile App,Debit Card,0.1,434.7,0,434.7,
+O01940,C0387,5/4/2023,May,Q2,2023,Delivered,Mobile App,Credit Card,0,744.32,0,744.32,11
+O01941,C0228,3/27/2022,March,Q1,2022,Delivered,Online,Apple Pay,0,670.72,0,670.72,14
+O01942,C0122,8/20/2023,August,Q3,2023,Delivered,Online,Debit Card,0,880.86,0,880.86,4
+O01943,C0389,10/24/2023,October,Q4,2023,Pending,Online,Debit Card,0.2,1418.15,0,1418.15,
+O01944,C0254,6/18/2022,June,Q2,2022,Delivered,Online,Credit Card,0,1265.28,0,1265.28,9
+O01945,C0332,1/20/2022,January,Q1,2022,Delivered,In-Store,Apple Pay,0.1,709.11,0,709.11,2
+O01946,C0215,12/17/2023,December,Q4,2023,Pending,Mobile App,Apple Pay,0.05,1144.53,0,1144.53,
+O01947,C0134,9/1/2023,September,Q3,2023,Delivered,Mobile App,Apple Pay,0.2,255.41,0,255.41,14
+O01948,C0323,3/2/2022,March,Q1,2022,Delivered,Mobile App,Apple Pay,0,802.32,0,802.32,13
+O01949,C0236,7/8/2022,July,Q3,2022,Delivered,In-Store,Credit Card,0,312.43,0,312.43,11
+O01950,C0034,6/19/2023,June,Q2,2023,Delivered,Mobile App,Debit Card,0,1255.21,0,1255.21,10
+O01951,C0276,10/15/2023,October,Q4,2023,Delivered,Mobile App,Apple Pay,0.15,267.04,0,267.04,4
+O01952,C0442,9/2/2023,September,Q3,2023,Delivered,Mobile App,Apple Pay,0.2,119.7,0,119.7,8
+O01953,C0374,8/30/2022,August,Q3,2022,Delivered,Online,Credit Card,0.15,813.66,0,813.66,2
+O01954,C0443,10/23/2023,October,Q4,2023,Cancelled,Mobile App,Apple Pay,0.1,538.22,0,538.22,
+O01955,C0091,10/19/2023,October,Q4,2023,Delivered,Online,Google Pay,0.05,948.69,0,948.69,8
+O01956,C0487,1/8/2023,January,Q1,2023,Returned,Mobile App,Debit Card,0,684.7,0,684.7,
+O01957,C0379,11/19/2023,November,Q4,2023,Delivered,Mobile App,Google Pay,0.05,367.94,0,367.94,4
+O01958,C0424,6/8/2023,June,Q2,2023,Returned,Mobile App,Credit Card,0.05,283.46,0,283.46,
+O01959,C0128,10/7/2023,October,Q4,2023,Delivered,Mobile App,Debit Card,0.05,330.08,0,330.08,5
+O01960,C0012,10/11/2023,October,Q4,2023,Returned,Online,Debit Card,0,530.32,0,530.32,
+O01961,C0128,5/16/2022,May,Q2,2022,Delivered,Online,Apple Pay,0.15,785.1,0,785.1,11
+O01962,C0358,2/23/2022,February,Q1,2022,Delivered,Mobile App,PayPal,0,742.08,0,742.08,14
+O01963,C0045,5/15/2022,May,Q2,2022,Returned,Mobile App,Credit Card,0.05,831.27,0,831.27,
+O01964,C0367,8/17/2022,August,Q3,2022,Cancelled,Online,Google Pay,0.15,1060.31,0,1060.31,
+O01965,C0458,2/6/2023,February,Q1,2023,Returned,Mobile App,Google Pay,0.15,899.12,0,899.12,
+O01966,C0344,11/17/2023,November,Q4,2023,Delivered,Mobile App,PayPal,0,970.54,0,970.54,1
+O01967,C0161,9/14/2023,September,Q3,2023,Delivered,Online,Google Pay,0.05,1541.8,0,1541.8,1
+O01968,C0056,2/15/2022,February,Q1,2022,Cancelled,Online,Credit Card,0.2,422.13,0,422.13,
+O01969,C0308,6/2/2022,June,Q2,2022,Delivered,Mobile App,Google Pay,0,1204.27,0,1204.27,8
+O01970,C0363,7/3/2023,July,Q3,2023,Delivered,Mobile App,PayPal,0.05,1129.69,0,1129.69,7
+O01971,C0389,7/25/2023,July,Q3,2023,Delivered,Online,Debit Card,0.1,1111.42,0,1111.42,3
+O01972,C0422,1/2/2022,January,Q1,2022,Cancelled,Online,Debit Card,0.15,297.22,0,297.22,
+O01973,C0181,3/7/2023,March,Q1,2023,Delivered,Online,Google Pay,0,1011.77,0,1011.77,10
+O01974,C0322,8/7/2023,August,Q3,2023,Delivered,In-Store,PayPal,0,962.99,0,962.99,5
+O01975,C0289,2/6/2022,February,Q1,2022,Delivered,Mobile App,Google Pay,0.15,562.95,0,562.95,7
+O01976,C0024,12/26/2022,December,Q4,2022,Delivered,Mobile App,PayPal,0,562.51,0,562.51,12
+O01977,C0017,5/18/2022,May,Q2,2022,Delivered,Online,PayPal,0.2,646.8,0,646.8,2
+O01978,C0194,5/23/2023,May,Q2,2023,Delivered,Mobile App,Debit Card,0.2,1099.01,0,1099.01,11
+O01979,C0030,5/22/2022,May,Q2,2022,Cancelled,In-Store,PayPal,0,926.45,0,926.45,
+O01980,C0341,8/1/2023,August,Q3,2023,Pending,Online,Apple Pay,0,588.92,0,588.92,
+O01981,C0050,2/6/2023,February,Q1,2023,Delivered,Mobile App,PayPal,0,639,0,639,10
+O01982,C0041,10/26/2022,October,Q4,2022,Delivered,Mobile App,Google Pay,0,631.77,0,631.77,2
+O01983,C0225,8/5/2023,August,Q3,2023,Delivered,In-Store,Apple Pay,0.2,963.34,0,963.34,3
+O01984,C0173,6/8/2022,June,Q2,2022,Delivered,Online,Credit Card,0,1239.95,0,1239.95,8
+O01985,C0437,4/15/2022,April,Q2,2022,Delivered,Online,PayPal,0.1,703.21,0,703.21,13
+O01986,C0442,6/4/2023,June,Q2,2023,Delivered,Online,Apple Pay,0.05,83.65,12.02,95.67,14
+O01987,C0093,8/11/2022,August,Q3,2022,Pending,Mobile App,Google Pay,0,950.89,0,950.89,
+O01988,C0286,1/26/2023,January,Q1,2023,Delivered,Online,PayPal,0,1223.34,0,1223.34,5
+O01989,C0156,6/9/2022,June,Q2,2022,Delivered,Mobile App,PayPal,0.15,168.32,0,168.32,9
+O01990,C0279,2/7/2023,February,Q1,2023,Delivered,Mobile App,Apple Pay,0,658.52,0,658.52,2
+O01991,C0429,4/23/2022,April,Q2,2022,Delivered,Online,Apple Pay,0.15,73.13,11.82,84.95,10
+O01992,C0391,9/12/2022,September,Q3,2022,Delivered,Online,Credit Card,0,1318.74,0,1318.74,14
+O01993,C0486,1/23/2023,January,Q1,2023,Cancelled,Online,Apple Pay,0.1,121.91,0,121.91,
+O01994,C0113,9/26/2022,September,Q3,2022,Cancelled,Online,Debit Card,0.2,200.7,0,200.7,
+O01995,C0057,7/30/2023,July,Q3,2023,Cancelled,Online,PayPal,0,269.85,0,269.85,
+O01996,C0081,11/19/2022,November,Q4,2022,Pending,Mobile App,Credit Card,0,394.86,0,394.86,
+O01997,C0258,1/5/2023,January,Q1,2023,Delivered,Mobile App,PayPal,0.2,773.65,0,773.65,2
+O01998,C0135,12/29/2022,December,Q4,2022,Cancelled,In-Store,Apple Pay,0,1100.3,0,1100.3,
+O01999,C0110,4/6/2023,April,Q2,2023,Cancelled,Mobile App,Google Pay,0.1,600.34,0,600.34,
+O020,C0202,9/22/2023,September,Q3,2023,Delivered,Mobile App,Apple Pay,0,672.44,0,672.44,4
